@@ -1,2 +1,43 @@
-# ggrio.github.io
-Meu site/blog sobre psicologia para concursos e outros assuntos desinteressantes.
+---
+layout: default
+---
+
+<div class="home" id="home">
+  <!--- <h1 class="pageTitle">Postagens Recentes</h1> -->
+  <ul class="posts noList">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="date">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d de" }}
+        {% case m %}
+          {% when '1' %}Janeiro
+          {% when '2' %}Fevereiro
+          {% when '3' %}Março
+          {% when '4' %}Abril
+          {% when '5' %}Maio
+          {% when '6' %}Junho
+          {% when '7' %}Julho
+          {% when '8' %}Agosto
+          {% when '9' %}Setembro
+          {% when '10' %}Outubro
+          {% when '11' %}Novembro
+          {% when '12' %}Dezembro
+        {% endcase %}
+        {{ post.date | date: "de %Y" }}
+        </span>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+      </li>
+    {% endfor %}
+  </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Recentes</a> 
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Anteriores</a>
+    {% endif %}
+  </div>
+</div>
