@@ -12,7 +12,7 @@ excerpt: Psiquiatria e Saúde Mental (CID-10).
 
 ## O livro
 
-“foi escrito para atender às necessidades de residentes em psiquiatria, psicólogos e estudantes de medicina e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”
+“foi escrito para atender às necessidades de residentes em psiquiatria, psicólogos e estudantes de medicina e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja os [slides da aula 1](/slides/psiquiatria-e-saude-mental-aula-1).
 
 ## CID-10
 Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.
