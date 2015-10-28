@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ggrio</title>
+    <description>De tudo um pouco</description>
+    <link>https://github.com/gregribo/gr.io/</link>
+    <atom:link href="https://github.com/gregribo/gr.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Oct 2015 02:15:58 -0200</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2015 02:15:58 -0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      
+      <item>
+        <title>Como montei o site</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;Como montei este site é um assunto complexo e delicado. &lt;span class=&quot;good&quot;&gt; Deu certo. &lt;/span&gt; Na verdade eu não sei exatamente como foi, só sei que ele está aqui.&lt;span class=&quot;sutil&quot;&gt; E foi sofrido, viu? E muito.&lt;/span&gt; &lt;/p&gt;
+
+&lt;p&gt;Não que não valha a pena, mas prepare-se para &lt;a href=&quot;sobre&quot;&gt;chorar de raiva&lt;/a&gt; &lt;span class=&quot;aviso&quot;&gt; Um aviso! &lt;/span&gt; lidando com linguagens desconhecidas e obscuras e uma rede de informações completamente técnica e desconhecida. &lt;span class=&quot;bad&quot;&gt; ERROR, muito error. &lt;/span&gt;Mas você sairá mais forte do que entrou, disso tenho certeza. &lt;span class=&quot;info&quot;&gt; Uma informação útil. &lt;/span&gt;&lt;/p&gt;
+
+&lt;h1&gt;Heading 1&lt;/h1&gt;
+
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+
+&lt;h6&gt;Heading 6&lt;/h6&gt;
+
+&lt;blockquote&gt;Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.&lt;/blockquote&gt;
+
+&lt;p class=&quot;sutil&quot;&gt;Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;h2&gt;Unordered List&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;li&gt;Longer List Item&lt;/li&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Ordered List&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;li&gt;Longer List Item&lt;/li&gt;
+&lt;li&gt;List Item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Definition List&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Coffee&lt;/dt&gt;
+  &lt;dd&gt;Black hot drink&lt;/dd&gt;
+  &lt;dt&gt;Milk&lt;/dt&gt;
+  &lt;dd&gt;White cold drink&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.&lt;/p&gt;
+
+&lt;p&gt;Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;/p&gt;
+
+&lt;p&gt;Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;p&gt;Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.&lt;/p&gt;
+
+&lt;p&gt;Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+</description>
+        
+          <description>Uma descrição sofrida do nascimento deste site/blog que você lê agora.</description>
+        
+        <pubDate>Tue, 15 Dec 2015 00:00:00 -0200</pubDate>
+        <link>https://github.com/gregribo/gr.io/blog/como-montei-site/</link>
+        <guid isPermaLink="true">https://github.com/gregribo/gr.io/blog/como-montei-site/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>Psiquiatria e Saúde Mental (CID-10)</title>
+        <description>&lt;p class=&quot;intro&quot;&gt;Como montei este site é um assunto complexo e delicado. &lt;span class=&quot;good&quot;&gt; Deu certo. &lt;/span&gt; Na verdade eu não sei exatamente como foi, só sei que ele está aqui __e tem coisas em negrito__.&lt;span class=&quot;sutil&quot;&gt; E foi sofrido, viu? E muito.&lt;/span&gt; &lt;/p&gt;
+
+&lt;h1&gt;Apresentação&lt;/h1&gt;
+
+&lt;h2&gt;O livro&lt;/h2&gt;
+
+&lt;p&gt;“foi escrito para atender às necessidades de residentes em psiquiatria, psicólogos e estudantes de medicina e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja os &lt;a href=&quot;/slides/psiquiatria-e-saude-mental-aula-1&quot;&gt;slides da aula 1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;CID-10&lt;/h2&gt;
+
+&lt;p&gt;Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.&lt;/p&gt;
+</description>
+        
+          <description>Psiquiatria e Saúde Mental (CID-10).</description>
+        
+        <pubDate>Tue, 27 Oct 2015 00:00:00 -0200</pubDate>
+        <link>https://github.com/gregribo/gr.io/concursos/psiquiatria/</link>
+        <guid isPermaLink="true">https://github.com/gregribo/gr.io/concursos/psiquiatria/</guid>
+        
+        
+        <category>concursos</category>
+        
+      </item>
+      
+    
+  </channel>
+</rss>
