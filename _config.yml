@@ -1,7 +1,7 @@
-title: ggrio
+title: ggrio.info
 description: De tudo um pouco
 
-url: https://github.com/gregribo/gr.io
+url: "http://ggrio.info"
 baseurl: ""
 paginate_path: "posts/pag:num/"
 permalink: :categories/:title/
@@ -26,4 +26,4 @@ social:
    facebook: gregrorio.masildi
    email: gribmir@gmail.com
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
