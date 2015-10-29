@@ -64,6 +64,11 @@ CONFIGURAÇÕES MINHAS
 .info{
 	color: $info-color;
 	}
+.cyan{color:white;};
+.cyansutil{color:#91E1DD};
+.branco{
+	color:#E7FCF8
+	};
 
 /***************
 LINK STYLING
@@ -71,7 +76,7 @@ LINK STYLING
 
 a {
 	color: $link-color;
-	font-weight: bold;
+	// font-weight: 300;
 	&:hover {
 		color: darken($link-color, 15%);
 	}
@@ -95,8 +100,8 @@ MENU STYLING
 		li {
 		  width: 100%;
 		  display: block;
-		  background: seagreen;
-		  border-bottom: 2px solid lighten(seagreen, 5%);
+		  background: $background-color;
+		  border-bottom: 2px solid lighten($background-color, 5%);
 
 		  a {
 		  	color: white;
@@ -134,7 +139,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: $background-color;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -145,7 +150,7 @@ MENU STYLING
 
   &:hover {
   	color: white; 
-  	background-color: darken(seagreen, 10%);
+  	background-color: darken($background-color, 10%);
   }
 }
 
@@ -188,7 +193,7 @@ HEADER STYLING
 ***************/
 
 .header {
-	background-color: seagreen;
+	background-color: $background-color;
 	background-image: url('../img/touring.jpg');
 	background-size: cover; 
 	background-position: center center;
@@ -207,12 +212,13 @@ HEADER STYLING
 		padding-left: 2rem;
 		font-size: 1em;
 		line-height: 3em;
-		font-family: $sans-serif;
+		font-family: Georgia;
 		font-weight: 800;
-		text-transform: uppercase;
-
+		//text-transform: uppercase;
+		letter-spacing: 2px; //tentei mas não deu.
+		
 		a {
-			color: $branco; // cor do título
+			color: #CFF0EB; // cor do título
 			text-decoration: none; 
 		}
 	}
@@ -242,7 +248,7 @@ POST STYLING
 			content: "";
 			position: absolute;
 			top: -1.25em;
-			background: seagreen;
+			background: $background-color;
 			display: block;
 			height: 2px;
 			width: 150px;
@@ -253,7 +259,7 @@ POST STYLING
 			content: "";
 			position: absolute;
 			bottom: -1.25em;
-			background: seagreen;
+			background: $background-color;
 			display: block;
 			height: 2px;
 			width: 150px;

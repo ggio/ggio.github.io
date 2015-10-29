@@ -1,6 +1,10 @@
  <div class="header">
      <div class="container">
-         <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+         <h1 style="letter-spacing: 3px;" class="logo"><a href="{{ site.baseurl }}/">
+            <!-- <span class="cyansutil">ggrio</span><span class="branco">.</span><span class="cyansutil">info</span> -->
+            <span class="cyansutil">G</span><span class="branco">r</span><span class="cyansutil">G</span><span class="branco">ó</span><span class="cyansutil">RIO</span><!--<span class="branco">.info</span>-->
+
+        </a></h1>
          <nav class="nav-collapse">
              <ul class="noList">
                  {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}

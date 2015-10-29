@@ -5,7 +5,6 @@ COLOR VARIABLES
 // Better default colors
 // Cool
 $aqua:  #7FDBFF;
-$cyan:  #B4E7F8;
 $blue:  #0074D9;
 $navy:  #001F3F;
 $teal:  #39CCCC;
@@ -15,7 +14,7 @@ $lime:  #01FF70;
 // Warm
 $yellow:  #FFDC00;
 $orange:  #FF851B;
-$red:     #FF4136;
+$red:     #BB0000;
 $fuchsia: #F012BE;
 $purple:  #B10DC9;
 $maroon:  #85144B;
@@ -25,13 +24,16 @@ $silver: #ddd;
 $grey:   #aaa;
 $black:  #333333;
 // Minhas cores
-$amarelo: #E9DECC;
+$amarelo:#E9DECC;
 $branco: #F8F8F2;
+$cyan:   #B4E7F8;
+$cyansutil:#CFF0EB; 
 // Color variables
 $primary-color: #5C493D;
-$secondary-color: #2E7936; 
+$secondary-color: #3C7D56; 
 $tertiary-color: #aaa;
 $link-color: $secondary-color;
+$background-color: $secondary-color;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.

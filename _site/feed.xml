@@ -5,8 +5,8 @@
     <description>De tudo um pouco</description>
     <link>http://ggrio.info/</link>
     <atom:link href="http://ggrio.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Oct 2015 18:52:01 -0200</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2015 18:52:01 -0200</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2015 22:12:13 -0200</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2015 22:12:13 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       
@@ -83,13 +83,13 @@
       
       <item>
         <title>Psiquiatria e Saúde Mental (CID-10)</title>
-        <description>&lt;p class=&quot;intro&quot;&gt;Como montei este site é um assunto complexo e delicado. &lt;span class=&quot;good&quot;&gt; Deu certo. &lt;/span&gt; Na verdade eu não sei exatamente como foi, só sei que ele está aqui e tem coisas em negrito .&lt;span class=&quot;sutil&quot;&gt; E foi sofrido, viu? E muito.&lt;/span&gt; &lt;/p&gt;
+        <description>&lt;p class=&quot;intro&quot;&gt; &lt;span class=&quot;cyan&quot;&gt;g&lt;/span&gt;&lt;span class=&quot;sutil&quot;&gt;&amp;middot;&lt;/span&gt;&lt;span class=&quot;cyan&quot;&gt;g&lt;/span&gt;&lt;span class=&quot;sutil&quot;&gt;&amp;middot;&lt;/span&gt;&lt;span class=&quot;cyan&quot;&gt;rio&lt;/span&gt; Como montei este site é um assunto complexo e delicado. &lt;span class=&quot;good&quot;&gt; Deu certo. &lt;/span&gt; Na verdade eu não sei exatamente como foi, só sei que ele está aqui e tem coisas em negrito .&lt;span class=&quot;sutil&quot;&gt; E foi sofrido, viu? E muito.&lt;/span&gt; &lt;/p&gt;
 
 &lt;h1&gt;Apresentação&lt;/h1&gt;
 
 &lt;h2&gt;O livro&lt;/h2&gt;
 
-&lt;p&gt;“foi escrito para atender às &lt;strong&gt;necessidades&lt;/strong&gt; de residentes em psiquiatria, psicólogos e estudantes de medicina e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja &lt;code&gt;.bash_profile&lt;/code&gt; os &lt;a href=&quot;/slides/psiquiatria-e-saude-mental-aula-1&quot;&gt;slides da aula 1&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;“foi escrito para atender às &lt;strong&gt;necessidades&lt;/strong&gt; de residentes em psiquiatria, psicólogos e estudantes de medicina. &lt;span class=&quot;bad&quot;&gt;Vermelho ruim&lt;/span&gt; e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja &lt;code&gt;.bash_profile&lt;/code&gt; os &lt;a href=&quot;/slides/psiquiatria-e-saude-mental-aula-1&quot;&gt;slides da aula 1&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aqui vai um código com html5:
 &lt;pre&gt;&lt;code class=&quot;language-git&quot;&gt;git add --all
