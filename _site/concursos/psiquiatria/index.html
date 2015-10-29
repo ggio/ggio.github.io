@@ -29,6 +29,9 @@
     <link rel="stylesheet" href="/font-awesome-4.4.0/css/font-awesome.min.css">
 
     
+
+    <!-- Prism -->
+    <link href="/assets/sass/prism.css" rel="stylesheet" type="text/css">
 </head>
 
 
@@ -45,7 +48,7 @@
              <ul class="noList">
                  
                  <li class="element first current ">
-                     <a href="/concursos"><i class="fa fa-book fa-lg"></i> &nbsp; Concursos Ψ</a>
+                     <a href="/concursos"><i class="fa fa-book fa-lg"></i>&nbsp; Concursos Ψ</a>
                  </li> 
                  
                  <li class="element   ">
@@ -73,7 +76,7 @@
 27 de
 Outubro
   
-de 2015 <!-- | <span class="time">0</span> Minute Read --></p>
+de 2015 <!-- | <span class="time">1</span> Minute Read --></p>
   
 <p class="intro"> <span class="cyan">g</span><span class="sutil">&middot;</span><span class="cyan">g</span><span class="sutil">&middot;</span><span class="cyan">rio</span> Como montei este site é um assunto complexo e delicado. <span class="good"> Deu certo. </span> Na verdade eu não sei exatamente como foi, só sei que ele está aqui e tem coisas em negrito .<span class="sutil"> E foi sofrido, viu? E muito.</span> </p>
 
@@ -83,18 +86,30 @@ de 2015 <!-- | <span class="time">0</span> Minute Read --></p>
 
 <p>“foi escrito para atender às <strong>necessidades</strong> de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja <code>.bash_profile</code> os <a href="/slides/psiquiatria-e-saude-mental-aula-1">slides da aula 1</a>.</p>
 
-<p>Aqui vai um código com html5:
+<p>Aqui vai um código com <code class="language-bash">git status</code>:
 <pre><code class="language-git">git add --all
 git commit -m “Initial commit”
-git push</code></pre></p>
+git push
+git checkout master</code></pre></p>
 
-<p>Código com 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">liquid</span></code></pre></div>
-:</p>
+<p>Com plugin no site <code class="language-bash">http://USER_NAME.GitHub.io</code>:</p>
 
-<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="lineno">1</span> <span class="k">def</span> <span class="nf">foo</span>
-<span class="lineno">2</span>   <span class="nb">puts</span> <span class="s1">&#39;foo&#39;</span>
-<span class="lineno">3</span> <span class="k">end</span></code></pre></div>
+<p>Palhinha de latex cara:
+<pre><code class="language-latex">
+\documentclass[a4paper,11pt]{article}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[a4paper,top=2.54cm,bottom=2.5cm,left=2.5cm,right=2.54cm]{geometry}
+    \usepackage{indentfirst}
+    \usepackage[brazil]{babel}
+    \usepackage{pslatex} %times
+    \pagestyle{empty} % sem cabeçalhos
+    \usepackage{setspace} % espaçamento flexível
+        %\singlespacing 
+        \onehalfspacing
+        %\doublespacing
+    \usepackage{longtable}
+</code></pre></p>
 
 <h2>CID-10</h2>
 
@@ -103,6 +118,8 @@ git push</code></pre></p>
 <blockquote>
 <p>Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.</p>
 </blockquote>
+
+<p>Um parágrafo nada a ver: para atender às <strong>necessidades</strong> de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.</p>
 
 
   <!-- POST NAVIGATION --> 
@@ -121,11 +138,13 @@ git push</code></pre></p>
 
    <div class="footer">
    <div class="container">
-      <!--- <p class="copy">&copy; 2015 Gregório R. de Miranda. Criado com <a href="http://jekyllrb.com">Jekyll</a></p> -->
+       <p class="copy">&copy; 2015 Gregório R. de Miranda. Criado com <a href="http://jekyllrb.com">Jekyll</a></p>
 
+      <!--- 
       <p class="copy"> 
          <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/br/"><i class="fa fa-creative-commons fa-1g"></i></a>
          <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Gregório R. de Miranda</span>. Criado com <a href="http://jekyllrb.com">Jekyll.</p>
+      -->
 
       <div class="footer-links"> 
          <ul class="noList"> 
@@ -162,7 +181,8 @@ git push</code></pre></p>
    </div>
 </div><!-- end .footer -->
 
-
+    <!-- Prism -->
+     <script src="/assets/js/prism.js"></script>
    <!-- Add jQuery and other scripts -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src=""><\/script>')</script>

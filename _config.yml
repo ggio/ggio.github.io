@@ -11,14 +11,12 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: <i class="fa fa-book fa-lg"></i> &nbsp; Concursos Ψ
+ - title: <i class="fa fa-book fa-lg"></i>&nbsp; Concursos Ψ
    url: /concursos
  - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
    url: /blog
  - title: <i class="fa fa-user fa-lg"></i>&nbsp; Sobre
    url: /sobre
-# - title: Contato
-#   url: /contact
 
 social:
    github: gregribo

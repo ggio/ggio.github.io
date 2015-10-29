@@ -235,6 +235,22 @@ HEADER STYLING
 /***************
 POST STYLING
 ***************/
+/** Blockquote Styling 
+Para mais configurações de blockquote, ver /assets/scss/partials/_typography.scss **/
+
+div.content blockquote {
+    //font-family: 'Poly', georgia;
+    font-style:italic;
+    line-height:1.5;
+    background:transparent url(/assets/img/quotation-mark3.png) no-repeat scroll 100px 1.6em;
+    padding:0.1em 1em 0.1em 60px;
+    margin:1.618em 0 1.618em -60px;
+    color: #666055;
+    text-rendering: optimizelegibility;
+}
+div.content div.quotation blockquote { margin-left:-30px; }
+//div.content blockquote { padding-left:2.5em; margin-left:-1em; }
+//div.content div.quotation blockquote { margin-left:0px; }
 
 .post {
 
@@ -242,36 +258,6 @@ POST STYLING
 		text-align: center;
 		margin-top: 2rem;
 		margin-bottom: 1rem;
-	}
-
-	blockquote {
-		clear: both;
-		margin: 2.5em 0;
-		padding: 0;
-		line-height: 1.8;
-		position: relative;
-
-		&:before {
-			content: "";
-			position: absolute;
-			top: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
-		}
-
-		&:after {
-			content: "";
-			position: absolute;
-			bottom: -1.25em;
-			background: $background-color;
-			display: block;
-			height: 2px;
-			width: 150px;
-			left: calc(50% - 75px);
-		}		
 	}
 
 	.meta {

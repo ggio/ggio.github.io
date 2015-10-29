@@ -5,8 +5,8 @@
     <description>De tudo um pouco</description>
     <link>http://ggrio.info/</link>
     <atom:link href="http://ggrio.info/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Oct 2015 23:20:12 -0200</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2015 23:20:12 -0200</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2015 14:23:09 -0200</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2015 14:23:09 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       
@@ -91,18 +91,30 @@
 
 &lt;p&gt;“foi escrito para atender às &lt;strong&gt;necessidades&lt;/strong&gt; de residentes em psiquiatria, psicólogos e estudantes de medicina. &lt;span class=&quot;bad&quot;&gt;Vermelho ruim&lt;/span&gt; e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja &lt;code&gt;.bash_profile&lt;/code&gt; os &lt;a href=&quot;/slides/psiquiatria-e-saude-mental-aula-1&quot;&gt;slides da aula 1&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Aqui vai um código com html5:
+&lt;p&gt;Aqui vai um código com &lt;code class=&quot;language-bash&quot;&gt;git status&lt;/code&gt;:
 &lt;pre&gt;&lt;code class=&quot;language-git&quot;&gt;git add --all
 git commit -m “Initial commit”
-git push&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+git push
+git checkout master&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
 
-&lt;p&gt;Código com 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;liquid&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-:&lt;/p&gt;
+&lt;p&gt;Com plugin no site &lt;code class=&quot;language-bash&quot;&gt;http://USER_NAME.GitHub.io&lt;/code&gt;:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;foo&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;   &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;foo&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Palhinha de latex cara:
+&lt;pre&gt;&lt;code class=&quot;language-latex&quot;&gt;
+\documentclass[a4paper,11pt]{article}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[a4paper,top=2.54cm,bottom=2.5cm,left=2.5cm,right=2.54cm]{geometry}
+    \usepackage{indentfirst}
+    \usepackage[brazil]{babel}
+    \usepackage{pslatex} %times
+    \pagestyle{empty} % sem cabeçalhos
+    \usepackage{setspace} % espaçamento flexível
+        %\singlespacing 
+        \onehalfspacing
+        %\doublespacing
+    \usepackage{longtable}
+&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
 
 &lt;h2&gt;CID-10&lt;/h2&gt;
 
@@ -111,6 +123,8 @@ git push&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Um parágrafo nada a ver: para atender às &lt;strong&gt;necessidades&lt;/strong&gt; de residentes em psiquiatria, psicólogos e estudantes de medicina. &lt;span class=&quot;bad&quot;&gt;Vermelho ruim&lt;/span&gt; e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.&lt;/p&gt;
 </description>
         
           <description>Psiquiatria e Saúde Mental (CID-10).</description>
