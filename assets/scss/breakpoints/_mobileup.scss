@@ -24,13 +24,13 @@ body {
 
 // Text Selection Styling
 ::-moz-selection {
-	background: $cyanbranco;
-	color: black;
+	background: $cyansutil;
+	color: $black;
 }
 
 ::selection {
-	background: $cyanbranco;
-	color: black;
+	background: $cyansutil;
+	color: $black;
 }
 
 // Media Styling
@@ -66,6 +66,9 @@ CONFIGURAÇÕES MINHAS
 	}
 .cyan1{
 	color: $cyan1;
+	}
+.cyan2{
+	color: $cyan2;
 	}
 .cyansutil{
 	color: $cyansutil;
