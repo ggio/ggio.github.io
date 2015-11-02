@@ -64,8 +64,8 @@ CONFIGURAÇÕES MINHAS
 .info{
 	color: $info-color;
 	}
-.cyan{
-	color: $cyan;
+.cyan1{
+	color: $cyan1;
 	}
 .cyansutil{
 	color: $cyansutil;
@@ -225,7 +225,7 @@ HEADER STYLING
 		letter-spacing: 2px; //tentei mas não deu.
 		
 		a {
-			color: #CFF0EB; // cor do título
+			color: $cyansutil; // cor do título
 			text-decoration: none; 
 		}
 	}
