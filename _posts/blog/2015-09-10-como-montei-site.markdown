@@ -8,7 +8,9 @@ excerpt: Uma descrição sofrida do nascimento deste site/blog que você lê ago
 
 <p class="intro">Como montei este site é um assunto complexo e delicado. <span class="good"> Deu certo. </span> Na verdade eu não sei exatamente como foi, só sei que ele está aqui.<span class="sutil"> E foi sofrido, viu? E muito.</span> </p>
 
-Não que não valha a pena, mas prepare-se para [chorar de raiva](sobre) <span class="aviso"> Um aviso! </span> lidando com linguagens desconhecidas e obscuras e uma rede de informações completamente técnica e desconhecida. <span class="bad"> ERROR, muito error. </span>Mas você sairá mais forte do que entrou, disso tenho certeza. <span class="info"> Uma informação útil. </span>
+# <span class="titulo"> <span class="cyan1">gg<span class="cyansutil">io</span></span> </span>
+
+Não que não valha a pena, <span class="titulo"> <span class="cyan">gg<span class="sutil">io.com.br</span></span> </span> mas prepare-se para [chorar de raiva](sobre) <span class="aviso"> Um aviso! </span> lidando com linguagens desconhecidas e obscuras e uma rede de informações completamente técnica e desconhecida. <span class="bad"> ERROR, muito error. </span>Mas você sairá mais forte do que entrou, disso tenho certeza. <span class="info"> Uma informação útil. </span>
 
 # Heading 1
 ## Heading 2

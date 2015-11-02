@@ -69,6 +69,7 @@ CONFIGURAÇÕES MINHAS
 	}
 .cyansutil{
 	color: $cyansutil;
+	font-family: $cursiva
 	}
 .cyanbranco{ 
 	color: $cyanbranco;
@@ -76,7 +77,11 @@ CONFIGURAÇÕES MINHAS
 .marrom{
 	color: $primary-color;
 }
+.titulo{
+	font-family: $cursiva;
+	font-size: 1.4em;
 
+}
 /***************
 LINK STYLING
 ***************/
@@ -222,7 +227,7 @@ HEADER STYLING
 		font-family: Georgia;
 		font-weight: 800;
 		//text-transform: uppercase;
-		letter-spacing: 2px; //tentei mas não deu.
+		//letter-spacing: 2px; //tentei mas não deu.
 		
 		a {
 			color: $cyansutil; // cor do título
