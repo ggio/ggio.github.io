@@ -71,11 +71,14 @@
         progress: true,
         history: true,
         center: true,
+        margin: 0,
+
         {%if page.transition %}
           transition: '{{page.transition}}',
         {% else %}
           transition: 'none', // none/fade/slide/convex/concave/zoom
         {% endif %}
+
         // Optional reveal.js plugins
         dependencies: [
           { src: '{{ "/reveal.js/lib/js/classList.js" | prepend: site.baseurl }}', condition: function() { return !document.body.classList; } },
