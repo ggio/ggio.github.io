@@ -56,6 +56,7 @@
   <body>
 
     <div class="reveal">
+    <header style="position: absolute;top: 10px; left: 100px; z-index:500; font-size:100px;background-color: rgba(0,0,0,0.5)"></header>
       <div class="slides">
         {{ content }}
       </div>
@@ -91,28 +92,5 @@
       });
     </script>
     
-    <script>
-    //  Update per-page header and footer
-    var pageHeader = document.querySelector('.header');
-    var pageFooter = document.querySelector('.footer');
-
-    var update_header_footer = function (event) {
-        pageHeader.textContent = null;
-        pageFooter.textContent = null;
-        var children = event.currentSlide.childNodes;
-        for (var child = 0; child < children.length; child++) {
-            if (children [child].className == "header") {
-                pageHeader.textContent = children [child].textContent;
-            }
-            else
-            if (children [child].className == "footer") {
-                pageFooter.textContent = children [child].textContent;
-            }
-        }
-    }
-    Reveal.addEventListener('ready', update_header_footer);
-    Reveal.addEventListener('slidechanged', update_header_footer);
-</script>
-
   </body>
 </html>

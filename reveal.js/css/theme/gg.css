@@ -34,28 +34,10 @@ body {
  * CABEÇALHO E RODAPÉ
  *********************************************/
 
-/*
-.reveal .footer {
-  position: absolute;
-  bottom: 1em; //1em
-  left: 1em; //1em
-  font-size: 0.5em;
-  text-align: center;
-}
-
-.reveal .header {
-  position: absolute; 
-  top: 0px; 
-  margin-left: 0px; 
-  width: 100%;
-  text-align: center;
-}
-*/
-
 .advert {
     position: absolute;
     text-align: center;
-    top: 10px;
+    top: 20px;
     width: 100%;
     z-index: 100;
 }
@@ -101,7 +83,7 @@ body {
 /*********************************************
  * OTHER
  *********************************************/
-/*.reveal p,
+.reveal p,
 .reveal ul,
 .reveal il,
 .reveal ol,
@@ -109,7 +91,7 @@ body {
   margin: 20px 0;
   line-height: 1.45;
   text-align: left; }
-*/
+
 /* Ensure certain elements are never larger than the slide itself */
 .reveal img,
 .reveal video,
