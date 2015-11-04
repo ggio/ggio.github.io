@@ -1,35 +1,54 @@
 /**
- * A simple theme for reveal.js presentations, similar
- * to the default theme. The accent color is brown.
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
  *
- * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
+ * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
- @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
-.reveal a {
-  line-height: 1.3em; }
+@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
+  color: #FAFAFA; }
 
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #F0F1EB;
-  background-color: #F0F1EB; }
+  background: #FAFAFA;
+  background-color: #FAFAFA; } /* avermelhado #FAF9F5 */
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 25px;
   font-weight: normal;
-  color: #000; }
+  color: #222; }
 
 ::selection {
-  color: #fff;
-  background: #26351C;
+  color: #333;
+  background: #CFF0EB;
   text-shadow: none; }
 
 .reveal .slides > section,
 .reveal .slides > section > section {
   line-height: 1.3;
   font-weight: inherit; }
+
+/*********************************************
+ * CABEÇALHO E RODAPÉ
+ *********************************************/
+
+.reveal .footer {
+  position: absolute;
+  bottom: 1em; //1em
+  left: 1em; //1em
+  font-size: 0.5em;
+  text-align: center;
+}
+
+.reveal .header {
+  position: absolute; 
+  top: 0px; 
+  margin-left: 0px; 
+  width: 100%;
+  text-align: center;
+}
 
 /*********************************************
  * HEADERS
@@ -41,23 +60,23 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #383D3D;
+  color: #333;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif;
-  font-weight: normal;
+  font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: none;
+  //text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.77em; }
+  font-size: 2.5em; }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 1.6em; }
 
 .reveal h3 {
-  font-size: 1.55em; }
+  font-size: 1.3em; }
 
 .reveal h4 {
   font-size: 1em; }
@@ -68,7 +87,11 @@ body {
 /*********************************************
  * OTHER
  *********************************************/
-.reveal p {
+.reveal p,
+.reveal ul,
+.reveal il,
+.reveal ol,
+.reveal tr {
   margin: 20px 0;
   line-height: 1.45;
   text-align: left; }
@@ -129,9 +152,9 @@ body {
   width: 70%;
   margin: 20px auto;
   padding: 5px;
-  font-style: italic;
-  background: rgba(255, 255, 255, 0.05);
-  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
+  //font-style: italic;
+  background: #EAEBE4;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2); }
 
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
@@ -206,20 +229,20 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #51483D;
+  color: #2D8C96; // cyanlegal #2BB3AB;
   text-decoration: none;
   -webkit-transition: color 0.15s ease;
   -moz-transition: color 0.15s ease;
   transition: color 0.15s ease; }
 
 .reveal a:hover {
-  color: #8b7c69;
+  color: #216D75;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #25211c; }
+  background: #068de9; }
 
 /*********************************************
  * IMAGES
@@ -227,7 +250,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #000;
+  border: 4px solid #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
@@ -241,7 +264,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #51483D;
+  border-color: #42affa;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
@@ -249,31 +272,31 @@ body {
  *********************************************/
 .reveal .controls .navigate-left,
 .reveal .controls .navigate-left.enabled {
-  border-right-color: #51483D; }
+  border-right-color: #42affa; }
 
 .reveal .controls .navigate-right,
 .reveal .controls .navigate-right.enabled {
-  border-left-color: #51483D; }
+  border-left-color: #42affa; }
 
 .reveal .controls .navigate-up,
 .reveal .controls .navigate-up.enabled {
-  border-bottom-color: #51483D; }
+  border-bottom-color: #42affa; }
 
 .reveal .controls .navigate-down,
 .reveal .controls .navigate-down.enabled {
-  border-top-color: #51483D; }
+  border-top-color: #42affa; }
 
 .reveal .controls .navigate-left.enabled:hover {
-  border-right-color: #8b7c69; }
+  border-right-color: #8dcffc; }
 
 .reveal .controls .navigate-right.enabled:hover {
-  border-left-color: #8b7c69; }
+  border-left-color: #8dcffc; }
 
 .reveal .controls .navigate-up.enabled:hover {
-  border-bottom-color: #8b7c69; }
+  border-bottom-color: #8dcffc; }
 
 .reveal .controls .navigate-down.enabled:hover {
-  border-top-color: #8b7c69; }
+  border-top-color: #8dcffc; }
 
 /*********************************************
  * PROGRESS BAR
@@ -282,7 +305,7 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: #51483D;
+  background: #42affa;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
@@ -291,4 +314,4 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  color: #51483D; }
+  color: #42affa; }
