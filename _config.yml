@@ -10,8 +10,10 @@ markdown: redcarpet
 highlighter: pygments
 paginate: 5
 
+ # Concursos Ψ
+
 navigation:
- - title: <i class="fa fa-book fa-lg"></i>&nbsp; Concursos Ψ
+ - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para Concursos 
    url: /concursos
  - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
    url: /blog

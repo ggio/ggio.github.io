@@ -6,7 +6,7 @@ categories: concursos
 excerpt: Psiquiatria e Saúde Mental (CID-10).
 ---
 
-<p class="intro"> <span class="cyan">g</span><span class="sutil">&middot;</span><span class="cyan">g</span><span class="sutil">&middot;</span><span class="cyan">rio</span> Como montei este site é um assunto complexo e delicado. <span class="good"> Deu certo. </span> Na verdade eu não sei exatamente como foi, só sei que ele está aqui e tem coisas em negrito .<span class="sutil"> E foi sofrido, viu? E muito.</span> </p>
+<p class="intro"> Foi escrito para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.</p>
 
 # Apresentação
 
@@ -44,4 +44,4 @@ Palhinha de latex cara:
 Uma citação:
 > Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.
 
-Um parágrafo nada a ver: para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.
+Foi escrito para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.
