@@ -20,6 +20,7 @@ git commit -m “Initial commit”
 git push
 git checkout master</code></pre>
 
+
 Com plugin no site <code class="language-bash">http://USER_NAME.GitHub.io</code>:
 
 Palhinha de latex cara:
