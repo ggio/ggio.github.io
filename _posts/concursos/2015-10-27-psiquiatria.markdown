@@ -12,8 +12,8 @@ excerpt: Conceitos básicos em psicopatologia e principais diagnósticos de Tran
 
 # Mãos à massa
 
-| | |
-|-|-|
+| :empty       | :empty    | 
+|:-------------:|:-------------:| 
 |<i class="fa fa-play fa-3x"></i>| descrição     | 
 |  <i class="fa fa-file-text-o fa-3x"></i> | descrição     |
 
