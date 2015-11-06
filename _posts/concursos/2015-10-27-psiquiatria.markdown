@@ -1,48 +1,43 @@
 ---
 layout: post
-title:  "Psiquiatria e Saúde Mental (CID-10)" 
-date: 2015-10-27
+title:  "Psiquiatria e Saúde Mental (CID-10) - Parte I" 
+date: 2015-11-09
 categories: concursos
-excerpt: Psiquiatria e Saúde Mental (CID-10).
+excerpt: Conceitos básicos em psicopatologia e principais diagnósticos de Transtornos Mentais segundo a CID-10.
 ---
 
-<p class="intro"> Foi escrito para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.</p>
+<p class="intro"> </p>
 
 # Apresentação
 
-## O livro
+# Mãos à massa
 
-“foi escrito para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos”. Veja `.bash_profile` os [slides da aula 1](/slides/psiquiatria-e-saude-mental-aula-1).
+| Conteúdo       | Descrição     | 
+|:-------------:|:-------------:| 
+|<i class="fa fa-play fa-3x"></i>| descrição     | 
+|  <i class="fa fa-file-text-o fa-3x"></i> | descrição     |
 
-Aqui vai um código com <code class="language-bash">git status</code>:
-<pre><code class="language-git">git add --all
-git commit -m “Initial commit”
-git push
-git checkout master</code></pre>
+Markdown is a `<em>text-to-html</em>` conversion tool for writers.
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
-Com plugin no site <code class="language-bash">http://USER_NAME.GitHub.io</code>:
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; ">
+    <ul class="noList"> 
+        <li>
+            <i class="fa fa-play fa-3x"></i>
+            Slides Aula 1
+        </li>
+        <li>
+            descrição
+        </li>
+    </ul>
+</div>
 
-Palhinha de latex cara:
-<pre><code class="language-latex">
-\documentclass[a4paper,11pt]{article}
-    \usepackage[utf8]{inputenc}
-    \usepackage[T1]{fontenc}
-    \usepackage[a4paper,top=2.54cm,bottom=2.5cm,left=2.5cm,right=2.54cm]{geometry}
-    \usepackage{indentfirst}
-    \usepackage[brazil]{babel}
-    \usepackage{pslatex} %times
-    \pagestyle{empty} % sem cabeçalhos
-    \usepackage{setspace} % espaçamento flexível
-        %\singlespacing 
-        \onehalfspacing
-        %\doublespacing
-    \usepackage{longtable}
-</code></pre>
+<div style="background-color: #F0FCFA; text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+<a href="/blog"><i class="fa fa-file-text-o fa-3x"></i> Exercícios da aula 1</a>
+Descrição.  
+</div>
 
-## CID-10
-
-Uma citação:
-> Todos os diagnósticos são feitos com os critérios da Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID-10), publicada pela Organização Mundial de Saúde (OMS) e oficial no Brasil.
-
-Foi escrito para atender às __necessidades__ de residentes em psiquiatria, psicólogos e estudantes de medicina. <span class="bad">Vermelho ruim</span> e psicologia que necessitem de uma informação sucinta e rápida que os oriente nas tarefas de diagnosticar e lidar com os transtornos psiquiátricos.
