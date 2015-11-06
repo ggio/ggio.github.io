@@ -6,12 +6,10 @@ layout: default
 
 <ul class="posts noList">
 {% for post in site.categories[page.categories] %}
-
-<li>
-     <b><big><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></b></big>
-     <br>
-     <p>{{ post.excerpt }}</p>
-</li>
-
+	<li>
+	     <b><big><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></b></big>
+	     <br>
+	     <p>{{ post.excerpt }}</p>
+	</li>
 {% endfor %}
 </ul>
