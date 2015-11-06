@@ -12,8 +12,8 @@ excerpt: Conceitos básicos em psicopatologia e principais diagnósticos de Tran
 
 # Mãos à massa
 
-| Conteúdo       | Descrição     | 
-|:-------------:|:-------------:| 
+| | |
+|-|-|
 |<i class="fa fa-play fa-3x"></i>| descrição     | 
 |  <i class="fa fa-file-text-o fa-3x"></i> | descrição     |
 
@@ -25,19 +25,21 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; ">
-    <ul class="noList"> 
-        <li>
-            <i class="fa fa-play fa-3x"></i>
-            Slides Aula 1
-        </li>
-        <li>
-            descrição
-        </li>
-    </ul>
+<table>
+  <tr>
+    <td rowspan="2"><i class="fa fa-play fa-3x"></td>
+    <td>Slides -- Aula 11</td>
+  </tr>
+  <tr>
+    <td>Descrição maneira</td>
+  </tr>
+</table>
 </div>
 
 <div style="background-color: #F0FCFA; text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="/blog"><i class="fa fa-file-text-o fa-3x"></i> Exercícios da aula 1</a>
-Descrição.  
+<a href"/slides/psiquiatria-e-saude-mental-aula-1/"><i class="fa fa-file-text-o fa-3x"></i>
+<br>
+Exercícios -- Aula 1</a>
+<br>
+<span class="sutil"> Teste seu aprendizado do conteúdo da primeira aula com exercícios de concursos passados.</span>
 </div>
-
