@@ -15,7 +15,7 @@ paginate: 5
  # Concursos Ψ
 
 navigation:
- - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para Concursos 
+ - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concursos 
    url: /concursos
  - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
    url: /blog

@@ -5,6 +5,7 @@ date: 2015-10-27
 categories: concursos
 excerpt: 50 vagas, salário de 7 mil.
 ---
+
 __Banca__: Quadrix  
 __Cadastro Reserva__: 50 vagas / 37 de ampla concorrência.  
 __Salário inicial__: R$ R$ 7.225,26 + benefícios  
@@ -19,8 +20,7 @@ __Comprovante definitivo de inscrição__ (com dia, horário, local e sala) esta
 
 ![](Prova.png)
 
-__Data provável__: 24/01/2016 à tarde
-
+__Data provável__: 24/01/2016 à tarde  
 __Prova de títulos__: Mestrado vale 1,5 pontos
 
 ## Conteúdo programático:

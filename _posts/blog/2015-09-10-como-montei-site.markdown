@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Como montei o site" 
+title:  "Jekyll+Github" 
 date:   2015-12-15
 categories: blog
 excerpt: Uma descrição sofrida do nascimento deste site/blog que você lê agora.
 ---
 
-<p class="intro">Como montei este site é um assunto complexo e delicado. <span class="good"> Deu certo. </span> Na verdade eu não sei exatamente como foi, só sei que ele está aqui.<span class="sutil"> E foi sofrido, viu? E muito.</span> </p>
+<p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada metus quam, non ornare leo hendrerit gravida. Nunc porttitor ex in nunc sagittis viverra. Nunc dolor risus, vehicula in condimentum congue, euismod in libero.</p>
 
-# <span class="titulo"> <span class="cyan1">gg<span class="cyansutil">io</span></span> </span>
+# <span class="titulo"> <span class="cyan1">gg<span class="cyansutil">io</span></span><span class="sutil">.com.br</span> </span>
 
-Não que não valha a pena, <span class="titulo"> <span class="cyan">gg<span class="sutil">io.com.br</span></span> </span> mas prepare-se para [chorar de raiva](sobre) <span class="aviso"> Um aviso! </span> lidando com linguagens desconhecidas e obscuras e uma rede de informações completamente técnica e desconhecida. <span class="bad"> ERROR, muito error. </span>Mas você sairá mais forte do que entrou, disso tenho certeza. <span class="info"> Uma informação útil. </span>
+<span class="titulo">gg<span class="sutil">io</span>.com.br</span> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada metus quam, non ornare leo hendrerit gravida. Nunc porttitor ex in nunc sagittis viverra. Nunc dolor risus, vehicula in condimentum congue, euismod in libero. 
+
+<span class="titulo"><span class="cyan2">gg</span><span class="cyan1">io</span><span class="sutil">.com.br</span></span>Quisque posuere turpis mollis erat luctus, a euismod nunc pellentesque. Etiam mi augue, aliquet eu tincidunt sed, posuere in odio.  Praesent malesuada metus quam, non ornare leo hendrerit gravida. Nunc porttitor ex in nunc sagittis viverra. Nunc dolor risus, vehicula in condimentum congue, euismod in libero.
 
 # Heading 1
 ## Heading 2
@@ -19,14 +21,9 @@ Não que não valha a pena, <span class="titulo"> <span class="cyan">gg<span cla
 ##### Heading 5
 ###### Heading 6
 
-Blockquote com tag html:
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
-
 Blockquote com markdown:
 
 > "Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum".
-
-<p class="sutil">Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
 
 ## Unordered List
 * List Item
@@ -47,11 +44,3 @@ Blockquote com markdown:
 </dl>
 
 Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
