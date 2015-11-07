@@ -17,12 +17,49 @@ Sabendo que (1) __as maneiras são muitas__, talvez infinitas, mas também saben
 
 ## Resumindo o edital
 
+<div class="caixa-esq">
+
+<h2> Edital nº xx/2015 <br /> Cargo xxx </h2>
+
+<p align="left">
+<b>Banca</b>: <br>
+<b>Vagas</b>: <br>
+<b>Salário inicial</b>: R$ 0,00<br>
+<b>Jornada</b>: 20, 30 ou 40h <br>
+<b>Regime</b>: CLT ou Estatutário<br>
+</p>
+
+<h3>Inscrições</h3>
+<p align="left">
+Via internet entre xx/xx e xx/xx <br />
+www.xxx.com.br <br>
+
+<b>Taxa</b>: R$ 00,00
+</p>
+
+<h3>Provas</h3>
+
+<p align="left">
+1. Prova objetiva <br>
+2. Prova de redação <br>
+<b>Data provável</b>: xx/xx
+</p>
+
+<h3>Conteúdo programático de psicologia</h3>
+<ul>
+<li>xxx</li>
+<li>xxx</li>
+<li>xxx</li>
+</ul>
+
+</div>
+
 ## Organizando as pastas
 
 ## Resumo do edital: CFP nº 01/2015 - Analista técnico - Psicologia
 
 __Banca__: [Quadrix](http://www.quadrix.org.br/concursopublico2015cfp.aspx)  
-__Cadastro Reserva__: 50 vagas (sendo 37 de ampla concorrência).  
+__Vagas de cadastro reserva__: 50 vagas (sendo 37 de ampla concorrência).  
 __Salário inicial__: R$ R$ 7.225,26 + benefícios.  
 __Jornada__: 40h 
     
