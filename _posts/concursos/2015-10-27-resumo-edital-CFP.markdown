@@ -1,33 +1,52 @@
 ---
 layout: post
-title:  "CFP Edital 01/2015 - Analista Técnico Psi" 
+title:  "Edital é para ser estudado: o caso CFP nº 01/2015"
 date: 2015-10-27
 categories: concursos
 excerpt: 50 vagas, salário de 7 mil.
 ---
 
-__Banca__: Quadrix  
-__Cadastro Reserva__: 50 vagas / 37 de ampla concorrência.  
-__Salário inicial__: R$ R$ 7.225,26 + benefícios  
+<p class="intro"> A princípio, eu pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
+</p>
+
+Você provavelmente já prestou pelo menos um concurso ou seleção, seja profissional ou acadêmica, e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos do prazo porque se esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros!
+
+Pois bem, __você provavelmente já tem seu próprio método de estudo de editais__, mesmo que nunca o tenha enunciado explicitamente. Seria você mais "espontânea(o)", o tipo que confia numa leitura dinâmica e na própria memória? Ou mais "metódica(o)", que imprime tudo e grifa de uma cor os trechos importantes e, de outra, os essenciais? Como você organiza suas pastas? Consegue acessar em 30 segundos o último edital que tentou ou precisa lembrar onde é que ele foi parar?
+
+Sabendo que (1) __as maneiras são muitas__, talvez infinitas, mas também sabendo que, cá entre nós, (2) __algumas são melhores que outras__, apresento abaixo as soluções a que cheguei. Use à vontade e adapte sempre que puder.
+
+## Resumindo o edital
+
+## Organizando as pastas
+
+## Resumo do edital: CFP nº 01/2015 - Analista técnico - Psicologia
+
+__Banca__: [Quadrix](http://www.quadrix.org.br/concursopublico2015cfp.aspx)  
+__Cadastro Reserva__: 50 vagas (sendo 37 de ampla concorrência).  
+__Salário inicial__: R$ R$ 7.225,26 + benefícios.  
 __Jornada__: 40h 
     
-## Inscrições
+### Inscrições
 [Via internet](http://www.quadrix.org.br/concursopublico2015cfp.aspx) até 13/12/2015.   
 __Taxa__: R$ 70,00  
 __Comprovante definitivo de inscrição__ (com dia, horário, local e sala) estará disponível no site na data provável de 18/01/2016.
 
-## Provas
+### Provas
 
-![](Prova.png)
+![](/assets/img/posts/cfp.png)
 
 __Data provável__: 24/01/2016 à tarde  
-__Prova de títulos__: Mestrado vale 1,5 pontos
+__Prova de títulos__: 
 
-## Conteúdo programático:
+* Doutorado vale 1,5 pontos,
+* Mestrado vale 1,0 pontos,
+* Especialização vale 0,5 pontos.
 
-### CONHECIMENTOS BÁSICOS
+### Conteúdo programático:
 
-#### 1.1 LÍNGUA PORTUGUESA 
+#### CONHECIMENTOS BÁSICOS
+
+##### 1.1 LÍNGUA PORTUGUESA 
 
 * Compreensão e interpretação de textos, com domínio das relações morfossintáticas, semânticas, discursivas e argumentativas.
 * Tipologia textual. 
@@ -46,7 +65,7 @@ __Prova de títulos__: Mestrado vale 1,5 pontos
 * Intertextualidade. 
 * Desenvolvimento textual: elaboração de relatórios projetos e planejamentos.
 
-#### 1.3 NOÇÕES DE INFORMÁTICA
+##### 1.3 NOÇÕES DE INFORMÁTICA
 
 * Conceitos básicos: novas tecnologias e aplicações, ferramentas e aplicativos, procedimentos de informática, tipos de computadores, conceitos de hardware  e  de  software.
 * Ambiente  Windows  (versões  7  e  8):  noções  de  sistemas  operacionais,  programas  e  aplicativos  e  conceitos  de organização  e  de  gerenciamento  de  informações, arquivos,  pastas  e  programas.
@@ -57,7 +76,7 @@ __Prova de títulos__: Mestrado vale 1,5 pontos
 * Segurança da  informação:  noções  de  vírus,  worms  e  outras  pragas  virtuais,  técnicas  de  fraude  e  invasão  de  sistemas,  aplicativos 
 (antivírus, firewall, antispyware etc.), procedimentos de segurança e backup.
 
-#### 1.4 ÉTICA NO SERVIÇO PÚBLICO 
+##### 1.4 ÉTICA NO SERVIÇO PÚBLICO 
 
 * Ética  e moral.  
 * Ética,  princípios  e  valores.  
@@ -68,7 +87,7 @@ __Prova de títulos__: Mestrado vale 1,5 pontos
 * Civil do Poder Executivo Federal). 
 * Lei nº 8.112/1990 e alterações.
 
-#### 1.5 LEGISLAÇÃO (para os cargos de nível superior)
+##### 1.5 LEGISLAÇÃO (para os cargos de nível superior)
 
 * Lei nº 4.119, de 27 de agosto de 1962: Dispõe sobre os cursos de formação em Psicologia e regulamenta a profissão de Psicólogo; 
 * Lei nº 5.766, de  20  de  dezembro  de  1971:  Cria o  Conselho  Federal  e  os  Conselhos  Regionais  de  Psicologia  e  dá  outras  providências.
@@ -90,9 +109,9 @@ __Prova de títulos__: Mestrado vale 1,5 pontos
         + Lei  n°  8142/90; 
     - Estatuto  da Criança e do Adolescente (ECA).
 
-### CONHECIMENTOS ESPECÍFICOS
+#### CONHECIMENTOS ESPECÍFICOS
 
-#### 2.2.2 ANALISTA TÉCNICO – ÁREA: PSICOLOGIA
+##### 2.2.2 ANALISTA TÉCNICO – ÁREA: PSICOLOGIA
 
 * PROCESSO  DE  COMUNICAÇÃO:  
     - Intencionalidade  Discursiva.  
