@@ -90,7 +90,8 @@ CONFIGURAÇÕES MINHAS
 	text-align:center; 
 	vertical-align: middle; 
 	padding:20px 0; 
-	margin-top:30px
+	margin-top:20px;
+	margin-bottom:20px;
 }
 
 .caixa-esq{
@@ -98,7 +99,12 @@ CONFIGURAÇÕES MINHAS
 	//text-align:left; 
 	vertical-align: middle; 
 	padding:20px 0; 
-	margin-top:30px
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.caixola{
+	background-color: #F0F2F2;
 }
 
 /***************
@@ -298,7 +304,7 @@ div.content div.quotation blockquote { margin-left:-30px; }
 			text-align: center;
 			font-size: .9em;
 			font-style: italic;
-			color: lighten($black, 30%); 
+			color: lighten($black, 10%); 
 		}
 
 		img {

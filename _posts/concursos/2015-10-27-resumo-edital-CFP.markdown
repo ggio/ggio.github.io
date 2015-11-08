@@ -1,24 +1,68 @@
 ---
 layout: post
-title:  "Edital é para ser estudado: o caso CFP nº 01/2015"
+title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-10-27
-categories: concursos
+categories: blog
 excerpt: 50 vagas, salário de 7 mil.
 ---
 
 <p class="intro"> A princípio, eu pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
 </p>
 
-Você provavelmente já prestou pelo menos um concurso ou seleção, seja profissional ou acadêmica, e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos do prazo porque se esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros!
+Você provavelmente já prestou pelo menos um concurso ou seleção, seja profissional ou acadêmica, e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos do prazo porque se esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros.
 
 Pois bem, __você provavelmente já tem seu próprio método de estudo de editais__, mesmo que nunca o tenha enunciado explicitamente. Seria você mais "espontânea(o)", o tipo que confia numa leitura dinâmica e na própria memória? Ou mais "metódica(o)", que imprime tudo e grifa de uma cor os trechos importantes e, de outra, os essenciais? Como você organiza suas pastas? Consegue acessar em 30 segundos o último edital que tentou ou precisa lembrar onde é que ele foi parar?
 
-Sabendo que (1) __as maneiras são muitas__, talvez infinitas, mas também sabendo que, cá entre nós, (2) __algumas são melhores que outras__, apresento abaixo as soluções a que cheguei. Use à vontade e adapte sempre que puder.
+Sabendo que (1) __as maneiras são muitas__, mas também sabendo que, cá entre nós, (2) __algumas são melhores que outras__, apresento abaixo as soluções a que cheguei. Logo em seguida, eu apresento o [edital CFP nº 01/2015](#CFP) resumido e esquematizado. 
 
-## Resumindo o edital
+Use à vontade e adapte como seu coração mandar.
+
+## Organize-se por pastas
+
+Primeiro, uma dica rápida: __organize com carinho seus arquivos__. _Ninguém_ merece ter que navegar por uma pasta de downloads repleta de arquivos pre-históricos, mofo e teia de aranha. Se você leva a sério a si mesmo, precisa ser melhor que isso.
+
+A fórmula básica é: <span class="caixola">novo edital = nova pasta</span>. Tudo lindo, tudo no mesmo lugar. Cogitou prestar um novo concurso? Pasta nele. Qualquer outro arquivo referente a esse edital vai no mesmo lugar, pra sanidade do seu eu futuro. Em pouco tempo você terá uma __noção mais clara dos editais que tentou e está tentando__.
+
+Aos poucos, porém, essas pastas também vão começar a acumular e será necessário organizar seu novo entulho. Nesse caso, você pode __subdividir sua pasta-mãe__: crie uma pasta <span class="caixola">"ANTIGAS"</span> para editais passados e outra <span class="caixola">"PASSEI"</span>, para os editais passados e bem-sucedidos (acredite, eles virão).
+
+A estrutura das pastas ficará mais ou menos assim:
 
 <div class="caixa-esq">
+<pre>
+    <b>EDITAIS</b>
+    ├── CFP 01-2015
+    ├── Edital x
+    ├── <b>ANTIGAS</b>
+    │   ├── Edital y
+    │   └── Edital z
+    └── <b>PASSEI</b>
+        └── Edital w
+</pre>
+</div>
 
+Ah! E uma __ótima ideia__ é manter tudo no [Dropbox](https://www.dropbox.com/pt_BR/) (ou serviço similar). Dessa forma você se previne de alguma pane no PC e ainda garante que terá acesso aos arquivos em qualquer lugar.
+
+## Resumindo os editais
+
+Depois de resumir um edital após o outro, eu cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Sempre que preciso, faço uma nova cópia e deixo o arquivo original intocado.  
+
+A seguir, você pode conferir o modelo baixando o arquivo ou copiando o texto, o que preferir.
+
+
+<div class="caixa">
+    <a href="/assets/aux/modelo_edital.doc">
+    <span class="fa-stack fa-3x">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-download fa-stack-1x fa-inverse"></i>
+    </span>
+    </a> <br>
+    <h3>Modelo de resumo em .doc</h3>
+</div>
+
+O conteúdo do modelo é simples e segue abaixo:
+
+<div class="caixa-esq">
+<small>
 <h2> Edital nº xx/2015 <br /> Cargo xxx </h2>
 
 <p align="left">
@@ -45,18 +89,22 @@ www.xxx.com.br <br>
 <b>Data provável</b>: xx/xx
 </p>
 
-<h3>Conteúdo programático de psicologia</h3>
+<h3>Conteúdo programático</h3>
 <ul>
-<li>xxx</li>
-<li>xxx</li>
-<li>xxx</li>
+<li>listas</li>
+<li>são mais</li>
+<li>legíveis</li>
 </ul>
-
+</small>
 </div>
 
-## Organizando as pastas
+Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja abaixo o modelo em ação.
 
-## Resumo do edital: CFP nº 01/2015 - Analista técnico - Psicologia
+Repare na utilidade de __colocar o conteúdo programático em tópicos__. Muito melhor, não é mesmo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
+
+<a name="CFP"></a>
+
+## Resumo do edital: <br> CFP nº 01/2015 <br> Analista técnico - Psicologia
 
 __Banca__: [Quadrix](http://www.quadrix.org.br/concursopublico2015cfp.aspx)  
 __Vagas de cadastro reserva__: 50 vagas (sendo 37 de ampla concorrência).  
@@ -70,14 +118,17 @@ __Comprovante definitivo de inscrição__ (com dia, horário, local e sala) esta
 
 ### Provas
 
-![](/assets/img/posts/cfp.png)
+<figure>
+    <img src="/assets/aux/cfp.png" alt=""> 
+    <figcaption>Às vezes é útil colar imagens do próprio edital.</figcaption>
+</figure>
 
 __Data provável__: 24/01/2016 à tarde  
 __Prova de títulos__: 
 
-* Doutorado vale 1,5 pontos,
-* Mestrado vale 1,0 pontos,
-* Especialização vale 0,5 pontos.
+* Doutorado: 1,5 pontos,
+* Mestrado: 1,0 pontos,
+* Pós-graduação Lato Sensu: 0,5 pontos.
 
 ### Conteúdo programático:
 
