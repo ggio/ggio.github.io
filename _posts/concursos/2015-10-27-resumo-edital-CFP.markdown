@@ -44,7 +44,7 @@ Ah! E uma __ótima ideia__ é manter tudo no [Dropbox](https://www.dropbox.com/p
 
 ## Resumindo os editais
 
-Depois de resumir um edital após o outro, eu cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Sempre que preciso, faço uma nova cópia e deixo o arquivo original intocado.  
+Depois de resumir um edital após o outro, eu cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Quando preciso, faço uma nova cópia e deixo o arquivo original intocado.  
 
 A seguir, você pode conferir o modelo baixando o arquivo ou copiando o texto, o que preferir.
 
@@ -62,7 +62,7 @@ A seguir, você pode conferir o modelo baixando o arquivo ou copiando o texto, o
 O conteúdo do modelo é simples e segue abaixo:
 
 <div class="caixa-esq">
-<small>
+<small> 
 <h2> Edital nº xx/2015 <br /> Cargo xxx </h2>
 
 <p align="left">
@@ -100,7 +100,7 @@ www.xxx.com.br <br>
 
 Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja abaixo o modelo em ação.
 
-Repare na utilidade de __colocar o conteúdo programático em tópicos__. Muito melhor, não é mesmo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
+Repare na utilidade de __colocar em tópicos o conteúdo programático__. Muito melhor, certo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
 
 <a name="CFP"></a>
 
@@ -108,7 +108,7 @@ Repare na utilidade de __colocar o conteúdo programático em tópicos__. Muito 
 
 __Banca__: [Quadrix](http://www.quadrix.org.br/concursopublico2015cfp.aspx)  
 __Vagas de cadastro reserva__: 50 vagas (sendo 37 de ampla concorrência).  
-__Salário inicial__: R$ R$ 7.225,26 + benefícios.  
+__Salário inicial__: R$ 7.225,26 + benefícios. __( ! )__    
 __Jornada__: 40h 
     
 ### Inscrições
