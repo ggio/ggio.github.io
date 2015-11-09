@@ -1,5 +1,5 @@
-title: GGIO - Psicologia para concursos
-description: De tudo um pouco
+title: GGIO - Psicologia para concurso
+description: Psicologia para concurso e de tudo um pouco.
 
 url: "http://ggio.com.br"
 baseurl: ""
@@ -15,7 +15,7 @@ paginate: 5
  # Concursos Ψ
 
 navigation:
- - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concursos 
+ - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
    url: /concursos
  - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
    url: /blog

@@ -1,30 +1,30 @@
 ---
 layout: post
-title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
-date: 2015-10-27
 categories: blog
-excerpt: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo.
+title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
+date: 2015-11-10
+excerpt: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo. Como exemplo, resumo e esquematizo o edital nº 01/2015 do Conselho Federal de Psicologia.
 comments: true
 ---
 
 <p class="intro"> A princípio, eu pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
 </p>
 
-Você provavelmente já prestou pelo menos um concurso ou seleção, seja profissional ou acadêmica, e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos do prazo porque se esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros.
+Você provavelmente já prestou pelo menos um concurso ou seleção e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos porque esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros. É inevitável, saber como estudar para concursos públicos também significa saber extrair e armazenar informação relevante dos editais.
 
-Pois bem, __você provavelmente já tem seu próprio método de estudo de editais__, mesmo que nunca o tenha enunciado explicitamente. Seria você mais "espontânea(o)", o tipo que confia numa leitura dinâmica e na própria memória? Ou mais "metódica(o)", que imprime tudo e grifa de uma cor os trechos importantes e, de outra, os essenciais? Como você organiza suas pastas? Consegue acessar em 30 segundos o último edital que tentou ou precisa lembrar onde é que ele foi parar?
+Pois bem, __você provavelmente já tem seu próprio método de estudo de editais__, mesmo que nunca o tenha enunciado explicitamente. Seria você mais "espontânea(o)", o tipo que confia numa leitura dinâmica e na própria memória ou mais "metódica(o)", que imprime tudo e grifa o texto com três cores diferentes? Como você organiza suas pastas? Consegue acessar em 30 segundos o último edital que tentou ou precisa lembrar onde é que ele foi parar?
 
-Sabendo que (1) __as maneiras são muitas__, mas também sabendo que, cá entre nós, (2) __algumas são melhores que outras__, apresento abaixo as soluções a que cheguei. Logo em seguida, eu apresento o [edital CFP nº 01/2015](#CFP) resumido e esquematizado. 
+Sabendo que (1) __as maneiras são muitas__, mas também reconhecendo que, cá entre nós, (2) __algumas são melhores que outras__, apresento abaixo as soluções a que cheguei. Use à vontade e adapte como seu coração mandar. 
 
-Use à vontade e adapte como seu coração mandar.
+Logo em seguida, apresento o [edital CFP nº 01/2015](#CFP) resumido e esquematizado.
 
 ## Organize-se por pastas
 
 Primeiro, uma dica rápida: __organize com carinho seus arquivos__. _Ninguém_ merece ter que navegar por uma pasta de downloads repleta de arquivos pre-históricos, mofo e teia de aranha. Se você leva a sério a si mesmo, precisa ser melhor que isso.
 
-A fórmula básica é: <span class="caixola">novo edital = nova pasta</span>. Tudo lindo, tudo no mesmo lugar. Cogitou prestar um novo concurso? Pasta nele. Qualquer outro arquivo referente a esse edital vai no mesmo lugar, pra sanidade do seu eu futuro. Em pouco tempo você terá uma __noção mais clara dos editais que tentou e está tentando__.
+A fórmula básica é <span class="caixola">novo edital = nova pasta</span>. Tudo lindo, tudo no mesmo lugar. Cogitou prestar um novo concurso? Pasta nele. Qualquer outro arquivo referente a esse edital vai no mesmo lugar, pra sanidade do seu eu futuro. Logo você terá uma __noção mais clara dos editais que tentou e está tentando__.
 
-Aos poucos, porém, essas pastas também vão começar a acumular e será necessário organizar seu novo entulho. Nesse caso, você pode __subdividir sua pasta-mãe__: crie uma pasta <span class="caixola">"ANTIGAS"</span> para editais passados e outra <span class="caixola">"PASSEI"</span>, para os editais passados e bem-sucedidos (acredite, eles virão).
+Aos poucos, porém, essas pastas também vão começar a acumular e será necessário organizar seu novo entulho. Nesse caso, você pode __subdividir sua pasta-mãe__: crie uma pasta <span class="caixola">"ANTIGAS"</span> para editais passados e outra <span class="caixola">"PASSEI"</span>, para os bem-sucedidos (acredite, eles virão).
 
 A estrutura das pastas ficará mais ou menos assim:
 
@@ -41,13 +41,13 @@ A estrutura das pastas ficará mais ou menos assim:
 </pre>
 </div>
 
-Ah! E uma __ótima ideia__ é manter tudo no [Dropbox](https://www.dropbox.com/pt_BR/) (ou serviço similar). Dessa forma você se previne de alguma pane no PC e ainda garante que terá acesso aos arquivos em qualquer lugar.
+Ah! E uma __ótima ideia__ é manter tudo no [Dropbox](https://www.dropbox.com/pt_BR/) (ou serviço similar). Dessa forma, você se previne de alguma pane no PC e ainda garante que terá acesso aos arquivos em qualquer lugar.
 
 ## Resumindo os editais
 
-Depois de resumir um edital após o outro, eu cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Quando preciso, faço uma nova cópia e deixo o arquivo original intocado.  
+Depois de passar um tempo resumindo um edital após o outro, me cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Quando preciso, faço uma nova cópia para usar, deixando o arquivo original intocado.  
 
-A seguir, você pode conferir o modelo baixando o arquivo ou copiando o texto, o que preferir.
+A seguir, você pode conferir esse modelo baixando o arquivo ou copiando o texto, o que preferir.
 
 
 <div class="caixa">
@@ -99,11 +99,8 @@ www.xxx.com.br <br>
 </small>
 </div>
 
-Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja logo abaixo o modelo em ação.
+Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Confira abaixo o modelo em ação.
 
-No final da página, repare na utilidade de __colocar em tópicos o conteúdo programático__. Muito melhor, certo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
-
----
 <a name="CFP"></a>
 
 ## Resumo do edital: <br> CFP nº 01/2015 <br> Analista técnico - Psicologia
@@ -282,20 +279,8 @@ __Prova de títulos__:
     - avaliação 
     - e interpretação de resultados.
 
-<div id="disqus_thread"></div>
-<script>
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
+## Concluindo
 
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//ggio.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito mais legível e compreensível, não é mesmo? Reparou também nos trechos repetidos nos conteúdos específicos de psicologia? Está assim mesmo no [edital](http://www.quadrix.org.br/resources/1/concursos/2015/CFP/CFP_concurso_publico_2015_edital_v1.pdf)! Eu só copiei, colei e coloquei em formato de lista. Não sei vocês, mas dificilmente eu teria reparado nisso lendo aquele blocão intragável de texto.
+
+Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
