@@ -24,8 +24,8 @@ $maroon:  #85144B;
 $white:  #888888;
 $silver: #ddd;
 $grey:   #aaa;
-$black:  #333333;
-
+$black:  #333;
+$blacksutil: #444;
 // Minhas cores
 $amarelo:#E9DECC;
 $branco: #F8F8F2;
@@ -41,6 +41,7 @@ $secondary-color: #3C7D56;
 $tertiary-color: #aaa;
 $link-color: $secondary-color;
 $background-color: $secondary-color;
+$headers-color: $blacksutil;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.

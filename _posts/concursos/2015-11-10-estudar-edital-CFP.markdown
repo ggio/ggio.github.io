@@ -4,6 +4,7 @@ title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-10-27
 categories: blog
 excerpt: 50 vagas, salário de 7 mil.
+comments: true
 ---
 
 <p class="intro"> A princípio, eu pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
@@ -98,7 +99,7 @@ www.xxx.com.br <br>
 </small>
 </div>
 
-Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja abaixo o modelo em ação.
+Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja logo abaixo o modelo em ação.
 
 Repare na utilidade de __colocar em tópicos o conteúdo programático__. Muito melhor, certo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
 
@@ -171,8 +172,7 @@ __Prova de títulos__:
 * Ética  e  democracia:  exercício  da  cidadania.  
 * Ética  e  função  pública.  
 * Ética  no  Setor  Público.  
-* Decreto  nº 1.171/1994 (Código de Ética Profissional do Servidor Público
-* Civil do Poder Executivo Federal). 
+* Decreto  nº 1.171/1994 (Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal). 
 * Lei nº 8.112/1990 e alterações.
 
 ##### 1.5 LEGISLAÇÃO (para os cargos de nível superior)
@@ -280,3 +280,21 @@ __Prova de títulos__:
     - instrumentos  de avaliação, 
     - avaliação 
     - e interpretação de resultados.
+
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//ggio.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
