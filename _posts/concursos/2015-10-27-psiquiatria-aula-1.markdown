@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Psiquiatria e Saúde Mental (CID-10) - Parte I" 
+title:  "Psiquiatria e Saúde Mental (CID-10) - Aula 1" 
 date: 2015-11-09
 categories: concursos
-excerpt: Conceitos básicos em psicopatologia e principais diagnósticos de Transtornos Mentais segundo a CID-10.
+excerpt: Conceitos básicos em psicopatologia e principais diagnósticos de transtornos mentais segundo a CID-10.
+comments: true
 ---
 
 <p class="intro"> tazmeah’s suggestion of Markdown blocks is fantastic. You can also insert divs with your own styling such as background colors. Note that if you put two Markdown blocks next to each other, Squarespace will automatically merge them for you into one Markdown block.
@@ -24,7 +25,7 @@ So here’s an example of two text blocks with custom (light gray via alpha) bac
       <i class="fa fa-play fa-stack-1x fa-inverse"></i>
     </span>
     </a> <br>
-    <h3>Slides - Aula 1</a></h3>
+    <h3>Slides <br> Aula 1</a></h3>
 </div>
 
 <div class="caixa">
@@ -33,7 +34,7 @@ So here’s an example of two text blocks with custom (light gray via alpha) bac
       <i class="fa fa-square fa-stack-2x"></i>
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
     </span></a>
-    <h3>Questões de concurso - Aula 1</h3>
+    <h3>Questões de concurso <br> Aula 1</h3>
 </div>
 
 <span class="sutil"> Teste seu aprendizado com exercícios de concursos.</span>

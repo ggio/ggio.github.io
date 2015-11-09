@@ -3,7 +3,7 @@ layout: post
 title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-10-27
 categories: blog
-excerpt: 50 vagas, salário de 7 mil.
+excerpt: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo.
 comments: true
 ---
 
@@ -101,8 +101,9 @@ www.xxx.com.br <br>
 
 Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precisa para acompanhar o edital. Veja logo abaixo o modelo em ação.
 
-Repare na utilidade de __colocar em tópicos o conteúdo programático__. Muito melhor, certo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
+No final da página, repare na utilidade de __colocar em tópicos o conteúdo programático__. Muito melhor, certo? Repare também nos trechos repetidos nos conteúdos específicos de psicologia. Não sei vocês, mas dificilmente eu teria reparado nisso através daquele blocão intragável de texto no edital. 
 
+---
 <a name="CFP"></a>
 
 ## Resumo do edital: <br> CFP nº 01/2015 <br> Analista técnico - Psicologia
