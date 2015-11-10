@@ -34,6 +34,7 @@ $cyan1: #B2E4E1; // mais claro
 $cyan2: #91E1DD; // mais escuro
 $cyansutil: #CFF0EB;
 $cyanbranco:#E7FCF8;
+$azulsutil: #6CA6D9;
 
 // Color variables
 $primary-color: #5C493D;
@@ -45,10 +46,10 @@ $headers-color: $blacksutil;
 
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
-$info-color: $blue; // Good color for success etc.
+$info-color: $azulsutil; // Good color for success etc.
 $warning-color: $orange; // Good color for success etc.
 $subtle-color: $grey; // Subtle color for subtle text
-$cor-caixa: #F6F6F6; // azulão:#EAEDED escuro:#DFE5EB clarinho azulado #F0F2F2
+$cor-caixa: #F4F4F4; // azulão:#EAEDED escuro:#DFE5EB clarinho azulado #F0F2F2
 
 /***************
 CONSISTENT SETTINGS
