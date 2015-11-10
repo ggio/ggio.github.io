@@ -64,3 +64,13 @@ Em breve, postarei a segunda aula abrangendo o restante do livro, com mais crit�
 
 A aula e as questões foram úteis?   
 Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ggio cabeçalho -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9181867714081205"
+     data-ad-slot="3616540571"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
