@@ -1,6 +1,14 @@
-# ggio.com.br
+# <span class="titulo">gg<span class="sutil">io</span></span>
 
-Meu blog sobre psicologia para concursos e outros assuntos desinteressantes.
+Código jekyll do meu site sobre psicologia para concurso e outros assuntos desinteressantes.
+
+O site foi criado <i>na unha</i> com <a href="http://jekyllrb.com/">jekyll</a> e é hospedado generosamente pelo <a href="https://github.com">github</a>. 
+
+É largamente baseado no tema para jekyll <a href="http://brianmaierjr.com/long-haul/">Long Haul</a>, criado por <a href="https://twitter.com/brianmaier">Brian Maier</a>. 
+
+As apresentações de slides foram feitas com <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. 
+
+Utilizo também os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>. </p>
 
 # Licença
 
@@ -9,5 +17,6 @@ Os direitos autorais das seguintes pastas e seus conteúdos pertencem a Gregóri
 * _posts/
 * slides/
 
-Todo código fonte contido nas outras pastas e arquivos é licenciado com uma [Licença Creative Commons Atribuição 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/). Sinta-se livre para usar o HTML, CSS e demais configurações como quiser. Se forem úteis para você, linkar de volta para https://github.com/ggio seria bacana, mas é opcional.
+Já o código HTML, CSS e demais configurações são disponíveis com uma <a href="http://creativecommons.org/licenses/by-nc/3.0/br/">Licença  Creative Commons Atribuição-NãoComercial 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e compartilhar o código à vontade, desde que citada a fonte e sem fins comerciais.
 
+Você pode usar partes do código em seu site ou, inclusive, usar todo ele como ponto de partida de seu próprio site. <i>Fork me!</i>

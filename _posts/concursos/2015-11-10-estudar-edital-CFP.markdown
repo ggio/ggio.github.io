@@ -47,8 +47,7 @@ Ah! E uma __ótima ideia__ é manter tudo no [Dropbox](https://www.dropbox.com/p
 
 Depois de passar um tempo resumindo um edital após o outro, me cansei de reinventar a roda e criei um __modelo de resumo__, que deixo sempre estacionado na minha pasta de editais. Quando preciso, faço uma nova cópia para usar, deixando o arquivo original intocado.  
 
-A seguir, você pode conferir esse modelo baixando o arquivo ou copiando o texto, o que preferir.
-
+A seguir, você pode fazer download do arquivo ou copiar diretamente o texto, o que preferir. Use se achar útil e adapte se quiser.
 
 <div class="caixa">
     <a href="/assets/aux/modelo_edital.doc">
@@ -278,6 +277,16 @@ __Prova de títulos__:
     - instrumentos  de avaliação, 
     - avaliação 
     - e interpretação de resultados.
+
+<div class="caixa-esq">
+    <center><span class="info"><i class="fa fa-info-circle fa-3x"></i></span></center>
+    <p>Como você pode ver, a maior parte do conteúdo se restringe <b>resoluções do CFP</b>. Isso é muito bom! Esses textos, apesar de serem mais "duros" são bem objetivos e ótimos para estudar.</p>
+
+    <p>Sobre o conteúdo mais acadêmico, com duas referências você já se garante:</p>
+    <ul>
+        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V, de Jurema A. Cunha</a></il>
+        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas, do Chiavenato</a> </il>
+</div>
 
 ## Concluindo
 

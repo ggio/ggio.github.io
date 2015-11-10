@@ -81,4 +81,4 @@ Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões d
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
 A aula e as questões foram úteis?   
-Contribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
+Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
