@@ -284,3 +284,14 @@ __Prova de títulos__:
 Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito mais legível e compreensível, não é mesmo? Reparou também nos trechos repetidos nos conteúdos específicos de psicologia? Está assim mesmo no [edital](http://www.quadrix.org.br/resources/1/concursos/2015/CFP/CFP_concurso_publico_2015_edital_v1.pdf)! Eu só copiei, colei e coloquei em formato de lista. Não sei vocês, mas dificilmente eu teria reparado nisso lendo aquele blocão intragável de texto.
 
 Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ggio responsivo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9181867714081205"
+     data-ad-slot="8297418970"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
