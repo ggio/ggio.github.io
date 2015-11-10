@@ -22,7 +22,7 @@ Logo em seguida, apresento o [edital CFP nº 01/2015](#CFP) resumido e esquemati
 
 Primeiro, uma dica rápida: __organize com carinho seus arquivos__. _Ninguém_ merece ter que navegar por uma pasta de downloads repleta de arquivos pre-históricos, mofo e teia de aranha. Se você leva a sério a si mesmo, precisa ser melhor que isso.
 
-A fórmula básica é <span class="caixola">novo edital = nova pasta</span>. Tudo lindo, tudo no mesmo lugar. Cogitou prestar um novo concurso? Pasta nele. Qualquer outro arquivo referente a esse edital vai no mesmo lugar, pra sanidade do seu eu futuro. Logo você terá uma __noção mais clara dos editais que tentou e está tentando__.
+A fórmula básica é <span class="caixola"> novo edital = nova pasta</span>. Tudo lindo, tudo no mesmo lugar. Cogitou prestar um novo concurso? Pasta nele. Qualquer outro arquivo referente a esse edital vai no mesmo lugar, pra sanidade do seu eu futuro. Logo você terá uma __noção mais clara dos editais que tentou e está tentando__.
 
 Aos poucos, porém, essas pastas também vão começar a acumular e será necessário organizar seu novo entulho. Nesse caso, você pode __subdividir sua pasta-mãe__: crie uma pasta <span class="caixola">"ANTIGAS"</span> para editais passados e outra <span class="caixola">"PASSEI"</span>, para os bem-sucedidos (acredite, eles virão).
 

@@ -64,6 +64,7 @@ CONFIGURAÇÕES MINHAS
 .info{
 	color: $info-color;
 	}
+
 .cyan1{
 	color: $cyan1;
 	}
@@ -108,6 +109,8 @@ CAIXAS
 
 .caixola{
 	background-color: $cor-caixa;
+	border-radius: 5px;
+	padding: 0 5px 0 5px;
 }
 
 /***************
