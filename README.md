@@ -1,4 +1,4 @@
-# <span class="titulo">gg<span class="sutil">io</span></span>
+# ggio.com.br
 
 Código jekyll do meu site sobre psicologia para concurso e outros assuntos desinteressantes.
 

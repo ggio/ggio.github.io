@@ -50,7 +50,7 @@ Depois de passar um tempo resumindo um edital após o outro, me cansei de reinve
 A seguir, você pode fazer download do arquivo ou copiar diretamente o texto, o que preferir. Use se achar útil e adapte se quiser.
 
 <div class="caixa">
-    <a href="/assets/aux/modelo_edital.doc">
+    <a href="/assets/aux/resumo_edital.docx">
     <span class="fa-stack fa-3x">
       <i class="fa fa-square fa-stack-2x"></i>
       <i class="fa fa-download fa-stack-1x fa-inverse"></i>
