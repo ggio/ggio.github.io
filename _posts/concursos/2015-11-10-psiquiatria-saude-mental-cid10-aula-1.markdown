@@ -14,7 +14,7 @@ Hoje é cada vez mais comum que os [editais de concursos](/blog/como-estudar-edi
 
 Esta aula é integralmente baseada no livro ["Psiquiatria e Saúde Mental"](http://www.estantevirtual.com.br/b/portella-nunes-romildo-bueno-nardi/psiquiatria-e-saude-mental/3624033897), de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos critérios diagnósticos da CID-10, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas.
 
-__Como saber se esta aula é adequada para mim__? É simples, se o conteúdo programático de psicologia no seu edital traz termos como "Saúde mental", "Psicopatologia", ou "Transtornos Mentais", __é prudente que você estude ambos os sistemas classificatórios__:
+__Como saber se esta aula é adequada para meu concurso__? É simples, se o conteúdo programático de psicologia no seu edital traz termos como "Saúde mental", "Psicopatologia", ou "Transtornos Mentais", __é prudente que você estude ambos os sistemas classificatórios__:
 
 * a Classificação Internacional de Doenças e Problemas Relacionados à Saúde (__CID__), que está hoje em sua décima edição, 
 * e o Manual Diagnóstico e Estatístico de Transtornos Mentais (__DSM__), atualmente na quinta edição.

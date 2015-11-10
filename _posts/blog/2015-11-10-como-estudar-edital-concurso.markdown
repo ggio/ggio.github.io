@@ -122,7 +122,7 @@ __Comprovante definitivo de inscrição__ (com dia, horário, local e sala) esta
 </figure>
 
 __Data provável__: 24/01/2016 à tarde  
-__Prova de títulos__: 
+__Prova de títulos__:   
 
 * Doutorado: 1,5 pontos,
 * Mestrado: 1,0 pontos,
@@ -284,8 +284,8 @@ __Prova de títulos__:
 
     <p>Sobre o conteúdo mais acadêmico, com duas referências você já se garante:</p>
     <ul>
-        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V, de Jurema A. Cunha</a></il>
-        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas, do Chiavenato</a> </il>
+        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V</a>, de Jurema A. Cunha</il>
+        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas</a>, do Chiavenato </il>
 </div>
 
 ## Concluindo
