@@ -10,21 +10,25 @@ comments: true
 <p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
 </p>
 
-Hoje é cada vez mais comum que os [editais de concursos](/blog/estudar-edital-CFP/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma boa referência e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
+Hoje é cada vez mais comum que os [editais de concursos](/blog/estudar-edital-CFP/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
 
-__Como saber se esta aula é adequada pra você__? É simples, se o conteúdo programático de psicologia traz termos como "Saúde mental", "Psicopatologia", ou "Transtornos Mentais", __é prudente que você estude ambos os sistemas classificatórios__:
+A aula que ofereço aqui é integralmente baseada no livro "Psiquiatria e Saúde Mental", de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos critérios diagnósticos da CID-10, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas.
+
+__Como saber se esta aula é adequada para mim__? É simples, se o conteúdo programático de psicologia no seu edital traz termos como "Saúde mental", "Psicopatologia", ou "Transtornos Mentais", __é prudente que você estude ambos os sistemas classificatórios__:
 
 * a Classificação Internacional de Doenças e Problemas Relacionados à Saúde (__CID__), que está hoje em sua décima edição, 
 * e o Manual Diagnóstico e Estatístico de Transtornos Mentais (__DSM__), atualmente na quinta edição.
 
 Uma vez que você precise estudar a CID-10, esta aula pode lhe ser útil, seja para __revisar__ o que já estudou de outra forma ou como __fonte rápida__ aos principais conceitos e critérios diagnósticos de transtornos mentais. Vale lembrar, é claro, que os slides que disponibilizo aqui __não substituem a leitura do livro__. Um resumo é sempre um resumo, por melhor que seja.
 
+
+
 ## Plano de aula
 
 Nesta primeira aula, abarco do primeiro ao oitavo capítulo (páginas 1 a 74).
 
 1. Breve história da Psiquiatria  
-<span class="sutil">Uma contextualização muito sucinta.</span>
+<span class="sutil">Uma contextualização bem sucinta da história da disciplina.</span>
 1. Correntes de Pensamento em Medicina  
 <span class="sutil">Uma revisão rápida de perspectivas modernas em psiquiatria.</span>
 1. Psicopatologia Básica  
