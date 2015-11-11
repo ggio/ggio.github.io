@@ -23,7 +23,7 @@ Uma vez que você precise estudar a CID-10, esta aula pode lhe ser útil, seja p
 
 ## Plano de aula
 
-A primeira aula contém __100 slides__ e abarca as páginas 01 a 74 (cerca de metade do livro). Os primeiros capítulos são introdutórios, mas nem por isso menos importantes. Vale a pena dar atenção especialmente à descrição das principais __funções psíquicas__ em "Psicopatologia Básica", pois caem muito nas provas. Se você tem pressa, entretanto, pode pular direto para os critérios diagnósticos da CID-10.
+A primeira aula contém 100 slides e abarca as páginas 01 a 74 (cerca de metade do livro). Os primeiros capítulos são introdutórios, mas nem por isso menos importantes. Vale a pena dar atenção especialmente à descrição das principais __funções psíquicas__ em "Psicopatologia Básica", pois caem muito nas provas. Se você tem pressa, entretanto, pode pular direto para os critérios diagnósticos da CID-10.
 
 #### Sumário
 
@@ -61,7 +61,7 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
     </span></span>
     <br>
-    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psiquiatria-saude-mental-aula-1/">Questões de concurso </a></span>
+    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psiquiatria-saude-mental-aula-1/">Questões de concurso - Aula 1</a></span>
 </div>
 
 A aula e as questões foram úteis?   
