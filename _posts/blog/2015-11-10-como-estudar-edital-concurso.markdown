@@ -3,11 +3,11 @@ layout: post
 categories: blog
 title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-11-10
-excerpt: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo. Como exemplo, resumo e esquematizo o edital nº 01/2015 do Conselho Federal de Psicologia.
+description: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo. Como exemplo, resumo e esquematizo o edital nº 01/2015 do Conselho Federal de Psicologia.
 comments: true
 ---
 
-<p class="intro"> A princípio, eu pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
+<p class="intro"> A princípio, pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
 </p>
 
 Você provavelmente já prestou pelo menos um concurso ou seleção e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos porque esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros. É inevitável, saber como estudar para concursos públicos também significa saber extrair e armazenar informação relevante dos editais.

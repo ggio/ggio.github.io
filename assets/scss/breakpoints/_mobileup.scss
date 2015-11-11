@@ -118,7 +118,7 @@ CAIXAS
 }
 
 .txt-caixa{
-	font-size: 1.5em;
+	font-size: 1.6em;
 	font-weight: 600;
 }
 /***************
@@ -127,9 +127,10 @@ LINK STYLING
 
 a {
 	color: $link-color;
-	// font-weight: 300;
+	text-decoration: none;
 	&:hover {
 		color: darken($link-color, 15%);
+		text-decoration: underline;
 	}
 }
 
@@ -537,9 +538,10 @@ POST LIST STYLING
 
 		a {
 			text-decoration: none;
-
+			color: $azul-titulo;
 			&:hover {
 				text-decoration: underline;
+				color: darken($azul-titulo, 10%);
 			}
 		}
 

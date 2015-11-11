@@ -1,16 +1,16 @@
 ---
 layout: post
 categories: psicologia-para-concurso
-title:  "Psiquiatria e Saúde Mental (CID-10) - Aula 1" 
+title:  "Psicopatologia (CID-10) - Aula 1" 
 date: 2015-11-10
-excerpt: Primeira aula do livro "Psiquiatria e Saúde Mental"&#58; Conceitos básicos em psicopatologia e os principais critérios diagnósticos de transtornos mentais segundo a CID-10. Disponibilizo também 16 questões de concurso sobre o conteúdo da aula.
+description: Primeira aula do livro Psiquiatria e Saúde Mental - Conceitos básicos em psicopatologia e os principais critérios diagnósticos de transtornos mentais segundo a CID-10. Disponibilizo também 16 questões de concurso sobre o conteúdo da aula.
 comments: true
 ---
 
 <p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
 </p>
 
-Hoje é cada vez mais comum que os [editais de concursos](/blog/como-estudar-edital-concurso/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
+Hoje é cada vez mais comum que os [editais de concurso](/blog/como-estudar-edital-concurso/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
 
 Esta aula é integralmente baseada no livro ["Psiquiatria e Saúde Mental"](http://www.estantevirtual.com.br/b/portella-nunes-romildo-bueno-nardi/psiquiatria-e-saude-mental/3624033897), de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos critérios diagnósticos da CID-10, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas.
 
@@ -23,7 +23,9 @@ Uma vez que você precise estudar a CID-10, esta aula pode lhe ser útil, seja p
 
 ## Plano de aula
 
-Nesta primeira aula, abarco do primeiro ao oitavo capítulo (páginas 1 a 74).
+A primeira aula contém __100 slides__ e abarca as páginas 01 a 74 (cerca de metade do livro). Os primeiros capítulos são introdutórios, mas nem por isso menos importantes. Vale a pena dar atenção especialmente à descrição das principais __funções psíquicas__ em "Psicopatologia Básica", pois caem muito nas provas. Se você tem pressa, entretanto, pode pular direto para os critérios diagnósticos da CID-10.
+
+#### Sumário
 
 1. Breve história da Psiquiatria  
 1. Correntes de Pensamento em Medicina  
@@ -36,9 +38,11 @@ Nesta primeira aula, abarco do primeiro ao oitavo capítulo (páginas 1 a 74).
 1. Retardo mental  
 1. Aspectos neuropsiquiátricos na infecção pelo HIV e na Sida (Aids)  
 
-## Slides e questões
+## Apresentação de slides e questões de concurso
 
-Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo apresentado. Procure fazê-las sem rever os slides para testar seu aprendizado e facilitar a fixação da matéria.
+Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo apresentado. Procure fazê-las sem colar com os slides para testar seu aprendizado e fixar a matéria.
+
+Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> setas do teclado <i class="fa fa-hand-o-left fa-lg"></i></span> para navegar entre os slides.
 
 <div class="caixa">
     <span class="icone-caixa">
@@ -47,7 +51,7 @@ Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões d
       <i class="fa fa-play fa-stack-1x fa-inverse"></i>
     </span></span>
      <br>
-    <span class="txt-caixa"><a href="/slides/psiquiatria-e-saude-mental-CID10-aula-1/"><big>Apresentação de slides </big> <br>Psiquiatria e saúde mental &#8211; aula 1 </a></span>
+    <span class="txt-caixa"><a href="/slides/psiquiatria-e-saude-mental-CID10-aula-1/">Psicopatologia (CID-10) - Aula 1 </a></span>
 </div>
 
 <div class="caixa">
@@ -57,13 +61,13 @@ Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões d
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
     </span></span>
     <br>
-    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psiquiatria-saude-mental-aula-1/"><big>Questões de concurso</big> <br> Psiquiatria e saúde mental &#8211; aula 1 </a></span>
+    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psiquiatria-saude-mental-aula-1/">Questões de concurso </a></span>
 </div>
-
-Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
 A aula e as questões foram úteis?   
 Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
+
+Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ggio cabeçalho -->
