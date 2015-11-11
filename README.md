@@ -1,6 +1,6 @@
 # ggio.com.br
 
-Código jekyll do meu site sobre psicologia para concurso e outros assuntos desinteressantes.
+Código jekyll do meu site sobre psicologia para concurso e blog pessoal.
 
 O site foi criado <i>na unha</i> com <a href="http://jekyllrb.com/">jekyll</a> e é hospedado generosamente pelo <a href="https://github.com">github</a>. 
 

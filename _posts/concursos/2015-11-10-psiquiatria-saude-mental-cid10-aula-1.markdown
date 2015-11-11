@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: psicologia-para-concurso
-title:  "Psiquiatria e Saúde Mental (CID-10) &#8211; Aula 1" 
+title:  "Psiquiatria e Saúde Mental (CID-10) - Aula 1" 
 date: 2015-11-10
 excerpt: Primeira aula do livro "Psiquiatria e Saúde Mental"&#58; Conceitos básicos em psicopatologia e os principais critérios diagnósticos de transtornos mentais segundo a CID-10. Disponibilizo também 16 questões de concurso sobre o conteúdo da aula.
 comments: true
