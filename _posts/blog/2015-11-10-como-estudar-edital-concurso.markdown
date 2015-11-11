@@ -10,6 +10,8 @@ comments: true
 <p class="intro"> A princípio, pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
 </p>
 
+{% include ads/est-alt-largo.html %}
+
 Você provavelmente já prestou pelo menos um concurso ou seleção e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos porque esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros. É inevitável, saber como estudar para concursos públicos também significa saber extrair e armazenar informação relevante dos editais.
 
 Pois bem, __você provavelmente já tem seu próprio método de estudo de editais__, mesmo que nunca o tenha enunciado explicitamente. Seria você mais "espontânea(o)", o tipo que confia numa leitura dinâmica e na própria memória ou mais "metódica(o)", que imprime tudo e grifa o texto com três cores diferentes? Como você organiza suas pastas? Consegue acessar em 30 segundos o último edital que tentou ou precisa lembrar onde é que ele foi parar?
@@ -290,9 +292,11 @@ __Prova de títulos__:
 
 ## Concluindo
 
-Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito mais legível e compreensível, não é mesmo? Reparou também nos trechos repetidos nos conteúdos específicos de psicologia? Está assim mesmo no [edital](http://www.quadrix.org.br/resources/1/concursos/2015/CFP/CFP_concurso_publico_2015_edital_v1.pdf)! Eu só copiei, colei e coloquei em formato de lista. Não sei vocês, mas dificilmente eu teria reparado nisso lendo aquele blocão intragável de texto.
+Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito mais legível e compreensível, não é mesmo? Reparou também nos trechos repetidos nos conteúdos específicos de psicologia? Está assim mesmo no [edital do CFP](http://www.quadrix.org.br/resources/1/concursos/2015/CFP/CFP_concurso_publico_2015_edital_v1.pdf)! Eu só copiei, colei e coloquei em formato de lista. Não sei vocês, mas dificilmente eu teria reparado nisso lendo aquele blocão intragável de texto.
 
 Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
+
+<center>{% include ads/est-box.html %}</center>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ggio responsivo -->

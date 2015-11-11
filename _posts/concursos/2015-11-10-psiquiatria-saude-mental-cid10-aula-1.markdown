@@ -10,6 +10,8 @@ comments: true
 <p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
 </p>
 
+{% include ads/est-alt-largo.html %}
+
 Hoje é cada vez mais comum que os [editais de concurso](/blog/como-estudar-edital-concurso/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
 
 Esta aula é integralmente baseada no livro ["Psiquiatria e Saúde Mental"](http://www.estantevirtual.com.br/b/portella-nunes-romildo-bueno-nardi/psiquiatria-e-saude-mental/3624033897), de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos critérios diagnósticos da CID-10, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas.
@@ -68,6 +70,8 @@ A aula e as questões foram úteis?
 Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
 
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
+
+<center>{% include ads/est-box.html %}</center>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ggio cabeçalho -->
