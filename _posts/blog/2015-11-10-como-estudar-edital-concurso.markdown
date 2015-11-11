@@ -104,6 +104,8 @@ Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precis
 
 <a name="CFP"></a>
 
+{% include ads/est-largo.html %}
+
 ## Resumo do edital: <br> CFP nº 01/2015 <br> Analista técnico - Psicologia
 
 __Banca__: [Quadrix](http://www.quadrix.org.br/concursopublico2015cfp.aspx)  

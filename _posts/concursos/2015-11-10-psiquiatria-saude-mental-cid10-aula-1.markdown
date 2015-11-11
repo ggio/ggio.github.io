@@ -40,6 +40,8 @@ A primeira aula contém 100 slides e abarca as páginas 01 a 74 (cerca de metade
 1. Retardo mental  
 1. Aspectos neuropsiquiátricos na infecção pelo HIV e na Sida (Aids)  
 
+{% include ads/est-largo.html %}
+
 ## Apresentação de slides e questões de concurso
 
 Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo apresentado. Procure fazê-las sem colar com os slides para testar seu aprendizado e fixar a matéria.
