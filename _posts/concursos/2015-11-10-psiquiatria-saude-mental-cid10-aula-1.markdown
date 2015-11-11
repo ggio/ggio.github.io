@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: concursos
+categories: psicologia-para-concurso
 title:  "Psiquiatria e Saúde Mental (CID-10) &#8211; Aula 1" 
 date: 2015-11-10
 excerpt: Primeira aula do livro "Psiquiatria e Saúde Mental"&#58; Conceitos básicos em psicopatologia e os principais critérios diagnósticos de transtornos mentais segundo a CID-10. Disponibilizo também 16 questões de concurso sobre o conteúdo da aula.
@@ -30,7 +30,7 @@ Nesta primeira aula, abarco do primeiro ao oitavo capítulo (páginas 1 a 74).
 1. Psicopatologia Básica  
 1. O Diagnóstico em Psiquiatria  
 1. Transtornos mentais devidos à condição médica geral  
-  1. Delirium
+  * Delirium
   1. Demências
   1. Transtornos Amnésticos
 1. Retardo mental  
@@ -38,7 +38,7 @@ Nesta primeira aula, abarco do primeiro ao oitavo capítulo (páginas 1 a 74).
 
 ## Slides e questões
 
-Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo da aula. Procure fazê-las sem rever os slides para testar seu aprendizado e facilitar a fixação da matéria.
+Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo apresentado. Procure fazê-las sem rever os slides para testar seu aprendizado e facilitar a fixação da matéria.
 
 <div class="caixa">
     <span class="icone-caixa">

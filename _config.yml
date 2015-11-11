@@ -1,5 +1,6 @@
-title: ggio - Psicologia para concurso e blog pessoal
-description: Psicologia para concurso e meu blog pessoal.
+title: GGio &#8211; Psicologia para concurso e blog do Gregório
+description: Aulas e resumos de psicologia para concursos públicos e blog pessoal do Gregório.
+mini-title: GGio &#8211; Psicologia para concurso
 
 url: "http://ggio.com.br"
 baseurl: ""
@@ -16,7 +17,7 @@ paginate: 5
 
 navigation:
  - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
-   url: /concursos
+   url: /psicologia-para-concurso
  - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
    url: /blog
  - title: <i class="fa fa-user fa-lg"></i>&nbsp; Sobre
