@@ -74,6 +74,5 @@ Retribua compartilhando o material e dando um retorno nos comentários, e-mail o
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
 <div class="caixad">
-{% include ads/sol-largo.html %}
-{% include ads/gads-resp.html %}
+{% include ads/sol-box.html %}
 </div>
