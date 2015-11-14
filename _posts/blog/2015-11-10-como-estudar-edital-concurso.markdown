@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postad
 categories: blog
 title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-11-10
@@ -9,8 +9,6 @@ comments: true
 
 <p class="intro"> A princípio, pensei que só postaria aqui aulas e resumos dos <i>conteúdos</i> de psicologia para concurso que eu ando estudando. Mas, enquanto esquematizava o edital do Conselho Federal que acaba de sair, me dei conta de que tenho lá uma "técnica" que gostaria de compartilhar: <b>edital também é para ser estudado!</b>
 </p>
-
-{% include ads/est-alt-largo.html %}
 
 Você provavelmente já prestou pelo menos um concurso ou seleção e percebeu que __editais costumam ser um labirinto__ de informações e armadilhas. Quantas vezes não vimos algum(a) amiga(o) desesperado nos últimos momentos porque esqueceu (ou pior, sequer leu) algum "detalhe" importante? Isso quando não somos nós mesmos(as) em apuros. É inevitável, saber como estudar para concursos públicos também significa saber extrair e armazenar informação relevante dos editais.
 
@@ -284,12 +282,12 @@ __Prova de títulos__:
 
 <div class="caixa-esq">
     <center><span class="info"><i class="fa fa-info-circle fa-3x"></i></span></center>
-    <p>Como você pode ver, a maior parte do conteúdo se restringe <b>resoluções do CFP</b>. Isso é muito bom! Esses textos, apesar de serem mais "duros" são bem objetivos e ótimos para estudar.</p>
+    <p>Como você pode ver, a maior parte do conteúdo se restringe às <b>resoluções do CFP</b>. Isso é muito bom! Esses textos, apesar de serem mais "duros" são bem objetivos e ótimos para estudar.</p>
 
-    <p>Sobre o conteúdo mais acadêmico, com duas referências você já se garante:</p>
+    <p>Sobre o conteúdo mais acadêmico, com basicamente duas referências você já se garante:</p>
     <ul>
-        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V</a>, de Jurema A. Cunha</il>
-        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas</a>, do Chiavenato </il>
+        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V</a>, de Jurema A. Cunha;</il>
+        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas</a>, do Chiavenato. </il>
 </div>
 
 ## Concluindo
@@ -298,15 +296,6 @@ Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito
 
 Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
 
-<center>{% include ads/est-box.html %}</center>
+{% include ads/est-box.html %}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ggio responsivo -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9181867714081205"
-     data-ad-slot="8297418970"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include ads/gads-resp.html %}

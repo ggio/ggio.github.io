@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postad
 categories: psicologia-para-concurso
 title:  "Psicopatologia (CID-10) - Aula 1" 
 date: 2015-11-10
@@ -9,8 +9,6 @@ comments: true
 
 <p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
 </p>
-
-{% include ads/est-alt-largo.html %}
 
 Hoje é cada vez mais comum que os [editais de concurso](/blog/como-estudar-edital-concurso/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
 
@@ -40,7 +38,7 @@ A primeira aula contém 100 slides e abarca as páginas 01 a 74 (cerca de metade
 1. Retardo mental  
 1. Aspectos neuropsiquiátricos na infecção pelo HIV e na Sida (Aids)  
 
-{% include ads/est-largo.html %}
+{% include ads/est-alt-largo.html %}
 
 ## Apresentação de slides e questões de concurso
 
@@ -73,14 +71,6 @@ Retribua compartilhando o material e dando um retorno nos comentários, e-mail o
 
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
-<center>{% include ads/est-box.html %}</center>
+{% include ads/est-alt-box.html %}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ggio cabeçalho -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9181867714081205"
-     data-ad-slot="3616540571"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% include ads/gads-resp.html %}
