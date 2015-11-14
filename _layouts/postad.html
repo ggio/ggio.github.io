@@ -27,7 +27,9 @@ layout: default
 {% endcase %}
 {{ page.date | date: "de %Y" }} <!-- | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read --></p>
 
-  <center>{% include ads/est-box.html %}</center>
+<div class="caixad">
+  {% include ads/est-box.html %}
+</div>
 
 {{ content }}
 

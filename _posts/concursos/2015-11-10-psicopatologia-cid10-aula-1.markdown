@@ -53,7 +53,7 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
       <i class="fa fa-play fa-stack-1x fa-inverse"></i>
     </span></span>
      <br>
-    <span class="txt-caixa"><a href="/slides/psiquiatria-e-saude-mental-CID10-aula-1/">Psicopatologia (CID-10) - Aula 1 </a></span>
+    <span class="txt-caixa"><a href="/slides/psicopatologia-cid10-aula-1/">Psicopatologia (CID-10) - Aula 1 </a></span>
 </div>
 
 <div class="caixa">
@@ -63,7 +63,7 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
       <i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
     </span></span>
     <br>
-    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psiquiatria-saude-mental-aula-1/">Questões de concurso - Aula 1</a></span>
+    <span class="txt-caixa"><a href="/slides/questoes-de-concurso-psicopatologia-cid10-aula-1/">Questões de concurso - Aula 1</a></span>
 </div>
 
 A aula e as questões foram úteis?   
@@ -71,6 +71,7 @@ Retribua compartilhando o material e dando um retorno nos comentários, e-mail o
 
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
-{% include ads/est-alt-box.html %}
-
+<div class="caixad">
+{% include ads/est-box.html %}
 {% include ads/gads-resp.html %}
+</div>

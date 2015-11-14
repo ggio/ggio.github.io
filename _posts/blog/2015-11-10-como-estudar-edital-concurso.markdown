@@ -102,7 +102,9 @@ Pronto, preenchendo esses poucos tópicos você tem praticamente tudo que precis
 
 <a name="CFP"></a>
 
+<div class="caixad">
 {% include ads/est-largo.html %}
+</div>
 
 ## Resumo do edital: <br> CFP nº 01/2015 <br> Analista técnico - Psicologia
 
@@ -296,6 +298,8 @@ Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito
 
 Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
 
+<div class="caixad">
 {% include ads/est-box.html %}
-
 {% include ads/gads-resp.html %}
+</div>
+

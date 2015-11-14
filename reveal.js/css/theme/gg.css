@@ -3,6 +3,8 @@
  *
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
+
+@import url(https://fonts.googleapis.com/css?family=Nothing+You+Could+Do);
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #FCFCFC; }
@@ -41,6 +43,7 @@ body {
     width: 100%;
     z-index: 100;
     font-size: 1.2em;
+    //font-family: "Nothing You Could Do", cursive;
 }
 
 .advert a {
