@@ -1,5 +1,5 @@
 ---
-layout: postad
+layout: postad-sol
 categories: blog
 title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-11-10
@@ -299,7 +299,6 @@ Reparou na utilidade de __colocar em tópicos o conteúdo programático__? Muito
 Nessa postagem, apresentei um pouco dos métodos que uso para estudar editais, mas certamente há infinitos outros. E você, faz algo parecido ou muito diferente? Achou o modelo útil? Comente abaixo =)
 
 <div class="caixad">
-{% include ads/est-box.html %}
-{% include ads/gads-resp.html %}
+{% include ads/est-alt-box.html %}
 </div>
 

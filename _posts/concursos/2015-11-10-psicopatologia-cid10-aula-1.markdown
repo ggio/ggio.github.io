@@ -1,5 +1,5 @@
 ---
-layout: postad
+layout: postad-est
 categories: psicologia-para-concurso
 title:  "Psicopatologia (CID-10) - Aula 1" 
 date: 2015-11-10
@@ -38,7 +38,9 @@ A primeira aula contém 100 slides e abarca as páginas 01 a 74 (cerca de metade
 1. Retardo mental  
 1. Aspectos neuropsiquiátricos na infecção pelo HIV e na Sida (Aids)  
 
+<div class="caixad">
 {% include ads/est-alt-largo.html %}
+</div>
 
 ## Apresentação de slides e questões de concurso
 
@@ -72,6 +74,5 @@ Retribua compartilhando o material e dando um retorno nos comentários, e-mail o
 Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
 
 <div class="caixad">
-{% include ads/est-box.html %}
-{% include ads/gads-resp.html %}
+{% include ads/sol-largo.html %}
 </div>
