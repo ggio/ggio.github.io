@@ -17,6 +17,6 @@ Os direitos autorais das seguintes pastas e seus conteúdos pertencem a Gregóri
 * _posts/
 * slides/
 
-Já o código HTML, CSS e demais configurações são disponíveis com uma <a href="http://creativecommons.org/licenses/by-nc/3.0/br/">Licença  Creative Commons Atribuição-NãoComercial 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e compartilhar o código à vontade, desde que citada a fonte e sem fins comerciais.
+Já o código HTML, CSS, java e demais estão licenciados com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons - Atribuição 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e compartilhar o código à vontade. Linkar de volta seria bacana, mas fica a seu critério.
 
 Você pode usar partes do código em seu site ou, inclusive, usar todo ele como ponto de partida de seu próprio site. <i>Fork me!</i>

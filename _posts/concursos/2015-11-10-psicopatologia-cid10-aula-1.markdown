@@ -75,4 +75,5 @@ Em breve, postarei a segunda aula abrangendo o restante do livro, com mais crit√
 
 <div class="caixad">
 {% include ads/sol-largo.html %}
+{% include ads/gads-resp.html %}
 </div>
