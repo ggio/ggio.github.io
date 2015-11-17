@@ -30,14 +30,14 @@ A estrutura das pastas ficará mais ou menos assim:
 
 <div class="caixa-esq">
 <pre>
-    <b>EDITAIS</b>
-    ├── CFP 01-2015
-    ├── Edital x
-    ├── <b>ANTIGAS</b>
-    │   ├── Edital y
-    │   └── Edital z
-    └── <b>PASSEI</b>
-        └── Edital w
+    <span class="amarelo"><i class="fa fa-folder-open"></i></span> <b>Editais</b>
+    <span class="sutil">├──</span> <span class="amarelo"><i class="fa fa-folder"></i></span> CFP 01-2015
+    <span class="sutil">├──</span> <span class="amarelo"><i class="fa fa-folder"></i></span> Edital x
+    <span class="sutil">├──</span> <span class="amarelo"><i class="fa fa-folder-open"></i></span> <b>Antigas</b>
+    <span class="sutil">│</span>   <span class="sutil">├──</span> <span class="amarelo"><i class="fa fa-folder"></i></span> Edital y
+    <span class="sutil">│</span>   <span class="sutil">└──</span> <span class="amarelo"><i class="fa fa-folder"></i></span> Edital z
+    <span class="sutil">└──</span> <span class="amarelo"><i class="fa fa-folder-open"></i></span> <b>Passei</b>
+        <span class="sutil">└──</span> <span class="amarelo"><i class="fa fa-folder"></i></span> Edital w
 </pre>
 </div>
 
