@@ -56,7 +56,7 @@ A seguir, você pode fazer download do arquivo ou copiar diretamente o texto, o 
       <i class="fa fa-download fa-stack-1x fa-inverse"></i>
     </span></span>
      <br>
-    <span class="txt-caixa"><a href="/assets/aux/resumo_edital.docx">Modelo de resumo para editais de concurso</a></span>
+    <span class="titulo-caixa"><a href="/assets/aux/resumo_edital.docx">Modelo de resumo para editais de concurso</a></span>
 </div>
 
 O conteúdo do modelo é simples e segue abaixo:

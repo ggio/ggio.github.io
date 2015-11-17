@@ -102,9 +102,8 @@ CAIXAS
 
 .caixa-esq{
 	background-color: $cor-caixa; 
-	//text-align:left; 
 	vertical-align: middle; 
-	padding:20px 0; 
+	padding: 20px;
 	margin-top:20px;
 	margin-bottom:20px;
 }
@@ -119,9 +118,13 @@ CAIXAS
 	color: #818885;
 }
 
-.txt-caixa{
+.titulo-caixa{
 	font-size: 1.6em;
 	font-weight: 600;
+}
+
+.txt-caixa{
+	margin-bottom: 0px;
 }
 
 .caixad{

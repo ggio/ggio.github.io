@@ -69,7 +69,7 @@ Você vai precisar também de um __editor de texto simples__. Eu recomendo forte
 
 ### Modo fácil
 
-Depois de gastar horas pesquisando e instalando todos os [requisitos do Jekyll](http://jekyllrb.com/docs/installation/), descobri que é muito fácil instalá-lo no Debian Jessie. Tão fácil como:  
+Depois de gastar horas pesquisando e instalando todos os [requisitos do Jekyll](http://jekyllrb.com/docs/installation/), descobri que é muito fácil instalá-lo no __Debian Jessie__. Tão fácil como:  
 
 <pre><code class="language-bash">apt-get install jekyll</code></pre>
 
@@ -94,6 +94,11 @@ E, finalmente, o Jekyll:
 
 <pre><code class="language-bash">gem install jekyll --user-install
 </code></pre>
+
+
+<div class="caixa-esq">
+<p style="margin-bottom: 0px"><span class="info"><i class="fa fa-info-circle fa-lg"></i></span> Se você usa <b>Mac</b>, diz que o processo é parecido, mas substituindo o apt pelo <a href="http://brew.sh">Homebrew</a>. Agradeço ao <a href="https://www.facebook.com/diegolascasas">Las Casas</a> pela dica.</p>
+</div>
 
 ## 3. Clone seu repositório
 
@@ -183,7 +188,7 @@ A flag <code class="language-bash">--watch</code> é opcional e faz com que suas
 
 <pre><code class="language-bash">jekyll build</code></pre>
 
-<p>Parece um detalhe, mas pode evitar você <i>chorar de raiva</i> após horas tentando mudar o título do site sem sucesso.</p>
+<p style="margin-bottom: 0px">Parece um detalhe, mas pode evitar você <i>chorar de raiva</i> após horas tentando mudar o título do site sem sucesso.</p>
 </div>
 
 ## 6. Publique com Git
@@ -300,7 +305,9 @@ Eu segui as [instruções do Chen Jui Jing](http://www.chenhuijing.com/blog/sett
 
 O Jekyll tem duas [opções nativas](http://jekyllrb.com/docs/templates/#code-snippet-highlighting) (leia-se mais leves e melhor integradas) de <code class="language-bash">realce de código</code> e o seu tema muito provavelmente também já vem com alguma opção __pronta para uso__.
 
-Mas porque não dificultar um pouco implementando um sistema de realce externo? Foi o que eu fiz com o [Prism.js](http://prismjs.com/). O site deles tem as [instruções](http://prismjs.com/#basic-usage).
+Mas porque não dificultar um pouco implementando um sistema externo de realce? Foi o que eu fiz com o [Prism.js](http://prismjs.com/). O site deles tem as [instruções](http://prismjs.com/#basic-usage).
+
+Detratores dirão que eu só fiz isso porque não consegui configurar nenhuma opção nativa, e eles estarão certos. Tirando que o Prism.js é lindo.
 
 ### Integrando Jekyll com Reveal.js
 
