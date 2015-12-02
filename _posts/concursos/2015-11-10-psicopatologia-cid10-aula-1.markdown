@@ -71,7 +71,7 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
 A aula e as questões foram úteis?   
 Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
 
-Em breve, postarei a segunda aula abrangendo o restante do livro, com mais critérios diagnósticos e mais exercícios.
+<span class="info"><i class="fa fa-info-circle fa-2x"></i></span> Acesse a <b><a href="/psicologia-para-concurso/psicopatologia-cid10-aula-2"></b> segunda aula de psicopatologia</a> para terminar de estudar os critérios diagnósticos da CID-10 e praticar com mais 32 questões de concurso.
 
 <div class="caixad">
 {% include ads/sol-box.html %}
