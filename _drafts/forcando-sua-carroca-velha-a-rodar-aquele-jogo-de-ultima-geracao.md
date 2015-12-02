@@ -1,5 +1,5 @@
 ---
-layout: post-blog
+layout: postad-gads
 categories: blog
 title:  "Forçando sua carroça velha a rodar aquele jogo de última geração"
 date: 2015-11-25

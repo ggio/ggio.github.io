@@ -1,11 +1,19 @@
 ---
-layout: postad-est
+layout: postad-sol
 categories: psicologia-para-concurso
 title:  "Psicopatologia (CID-10) - Aula 2" 
-date: 2015-11-25
+date: 2015-12-01
 description: Segunda aula do livro Psiquiatria e Saúde Mental - Apresenta os demais critérios diagnósticos de transtornos mentais segundo a CID-10 e contém um simulado com 32 questões de concurso sobre o conteúdo da aula.
 comments: true
 ---
+
+<p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
+</p>
+
+## Plano de aula
+A segunda aula contém 88 slides e abarca a segunda metade do livro (páginas 75 a 196). Por já termos estudado os conceitos básicos em psicopatologia, os slides puderam ser mais objetivos, indo o mais direto possível aos critérios diagnósticos da CID-10. Cabe lembrar que estas aulas __não substituem a leitura do livro__ e são focadas nos conteúdos que mais caem em concursos de psicologia. Principalmente se você tem formação em outra área, não deixe de ler o livro na íntegra.
+
+Ainda não viu os slides da [primeira aula](/psicologia-para-concurso/psicopatologia-cid10-aula-1/)? Vai lá!
 
 #### Sumário
 
@@ -25,9 +33,10 @@ comments: true
 
 ## Apresentação de slides e questões de concurso
 
-Nos links abaixo você tem acesso aos slides da segunda aula e a 32 questões de concurso sobre o conteúdo da aula. Procure fazê-las sem colar com os slides para testar seu aprendizado e fixar a matéria.
+Acesse abaixo aos slides da segunda aula e a um simulado com 32 questões de concurso. Procure fazê-lo sem "colar" para testar seu aprendizado e fixar a matéria.
 
-Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> setas do teclado <i class="fa fa-hand-o-left fa-lg"></i></span> para navegar entre os slides.
+__Dicas__: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> setas do teclado <i class="fa fa-hand-o-left fa-lg"></i></span> para navegar entre os slides.   
+A tecla <span class="caixola">F</span> ativa o modo de tela cheia.
 
 <div class="caixa">
     <span class="icone-caixa">
@@ -48,3 +57,14 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
     <br>
     <span class="titulo-caixa"><a href="/slides/questoes-de-concurso-psicopatologia-cid10-aula-1/">Questões de concurso - Aula 2</a></span>
 </div>
+
+A aula e as questões foram úteis?   
+Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
+
+__Volte sempre!__
+
+<div class="caixad">
+{% include ads/est-box.html %}
+</div>
+
+<a name="coments"></a>
