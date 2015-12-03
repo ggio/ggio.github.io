@@ -2,10 +2,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+
     {% if page.description %}
     <meta name="description" content="{{ page.description}}" />
     {% endif %}
-    <title>{{ page.title }}</title>
+
+    <!-- logo face -->
+    {% if page.logoface %}
+    <meta property="og:image" content="/assets/img/logoface.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {% endif %}
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{ "/assets/img/favicon.png" | prepend: site.baseurl }}" />
