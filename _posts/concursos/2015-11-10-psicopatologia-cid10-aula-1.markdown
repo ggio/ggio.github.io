@@ -5,6 +5,7 @@ title:  "Psicopatologia (CID-10) - Aula 1"
 date: 2015-11-10
 description: Primeira aula do livro Psiquiatria e Saúde Mental - Apresenta critérios diagnósticos de transtornos mentais segundo a CID-10, além de conceitos básicos em psicopatologia e as principais funções psíquicas. Contém também um simulado de 16 questões de concurso sobre o conteúdo da aula.
 comments: true
+logoface: true
 ---
 
 <p class="intro"> O livro "Psiquiatria e Saúde Mental" é uma fonte rápida e objetiva para quem procura material de estudo sobre <b>psicopatologia básica</b> e os principais critérios diagnósticos de <b>transtornos mentais</b> segundo a <b>CID-10</b>. As aulas que disponibilizo aqui foram ministradas em um curso preparatório para concursos e se mostraram úteis a uma série de concursos de psicologia.
