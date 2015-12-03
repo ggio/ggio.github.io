@@ -5,6 +5,7 @@ title:  "Como fiz meu site com Jekyll e GitHub Pages"
 date: 2015-11-17
 description: Um passo-a-passo de como fiz meu site com Jekyll e GitHub Pages e como você pode fazer o seu.
 comments: true
+logoface-blog: true
 ---
 
 <p class="intro">
