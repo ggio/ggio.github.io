@@ -3,7 +3,7 @@ layout: postad-gads
 categories: blog
 title:  "Forçando sua carroça velha a rodar aquele jogo de última geração"
 date: 2015-12-04
-description: Com o avanço tecnológico, nossas máquinas se tornam obsoletas cada vez mais rápido. Nem sempre dá acompanhar essa corrida armamentista, mas sempre dá pra tentar uma gambiarra.
+description: Com o avanço tecnológico, nossas máquinas se tornam obsoletas cada vez mais rápido. Nem sempre dá acompanhar essa corrida, mas sempre dá pra tentar uma gambiarra.
 comments: true
 logoface-blog: true
 ---
