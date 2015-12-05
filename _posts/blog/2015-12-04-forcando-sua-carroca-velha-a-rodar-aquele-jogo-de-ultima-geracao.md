@@ -82,7 +82,7 @@ Funciona? Ainda não? Uma última configuração e com sorte agora vai:
 
 ## Modo de compatibilidade
 
-Vá até as propriedades dos executáveis (agora sim, de ambos os .exe principais e launchers) e ative o modo de compatibilidade de acordo. 
+Vá até as propriedades dos executáveis (agora sim, de ambos os .exe principais e launchers) e ative o modo de compatibilidade de acordo com sua distribuição. 
 
 <figure>
     <img src="{{ '/assets/aux/carroca/propriedades.jpg' | prepend: site.baseurl }}" alt="Edit list em dxcpl.exe" style="width: 40%; height: 40%"> 
@@ -94,7 +94,7 @@ Vá até as propriedades dos executáveis (agora sim, de ambos os .exe principai
     <figcaption>Bem ali.</figcaption>
 </figure>
 
-Faça o mesmo com o <code class="language-bash">Fallout4.exe</code> ou o executável do jogo em questão. Você pode começar com a compatibilidade para o Windows 8 e reduzir para o 7 caso não funcione (mesmo que não seja essa sua distribuição).
+Faça o mesmo com o <code class="language-bash">Fallout4.exe</code> ou o executável do jogo em questão. Você pode começar com a compatibilidade para o Windows 8 e reduzir para o 7 caso não funcione (mesmo que não seja essa sua versão).
 
 ## Sucesso!
 
@@ -103,12 +103,12 @@ Se você fez tudo certo e a posição dos planetas está a seu favor, você já 
 No meu caso, eis a prova para ambos os jogos:
 
 <figure>
-    <img src="{{ '/assets/aux/carroca/fallout4.jpg' | prepend: site.baseurl }}" alt="Fallout 4 início" style="width: 40%; height: 40%"> 
+    <img src="{{ '/assets/aux/carroca/fallout4.jpg' | prepend: site.baseurl }}" alt="Fallout 4 início" style="width: 60%; height: 60%"> 
     <figcaption>Fallout 4</figcaption>
 </figure>
 
 <figure>
-    <img src="{{ '/assets/aux/carroca/witcher3.jpg' | prepend: site.baseurl }}" alt="Witcher 3 início" style="width: 40%; height: 40%"> 
+    <img src="{{ '/assets/aux/carroca/witcher3.jpg' | prepend: site.baseurl }}" alt="Witcher 3 início" style="width: 60%; height: 60%"> 
     <figcaption>Witcher 3</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ __Maravilhoso, não é mesmo?__ E disseram que era impossível! Aproveite para t
 </video>
 </center>
 
-Se você, como eu, não teve muita sorte, apenas dizer que sinto muito. Quer dizer que nossa empreitada foi inútil? Talvez, mas pelo menos tentamos bravamente. O que aprendemos com isso? Praticamente nada.
+Se você, como eu, não teve muita sorte, posso apenas dizer que sinto muito. Quer dizer que nossa empreitada foi inútil? Talvez, mas pelo menos tentamos bravamente. O que aprendemos com isso? Praticamente nada.
 
 <div class="caixad">
 {% include ads/gads-resp.html %}
