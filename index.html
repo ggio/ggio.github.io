@@ -11,6 +11,12 @@ logoface: true
     {% for post in paginator.posts %}
       <li>
         <span class="date">
+        <!--- {% if post.categories contains 'psicologia-para-concurso' %}
+          /Psicologia para concurso/
+        {% endif %}
+        {% if post.categories contains 'blog' %}
+          /Blog/
+        {% endif %} -->
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%-d de" }}
         {% case m %}

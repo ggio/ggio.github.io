@@ -289,8 +289,8 @@ __Prova de títulos__:
 
     <p>Sobre o conteúdo mais acadêmico, com basicamente duas referências você já se garante:</p>
     <ul>
-        <il><b>Avaliação psicológica</b>: <a href="https://books.google.com.br/books/about/Psicodiagn%C3%B3stico_V.html?hl=pt-PT&id=qB0eAAAACAAJ"> Psicodiagnóstico V</a>, de Jurema A. Cunha;</il>
-        <il><b>Psicologia organizacional</b>: <a href="https://books.google.com.br/books/about/Gestao_de_Pessoas.html?id=5XUALBIDdQwC"> Gestão de pessoas</a>, do Chiavenato. </il>
+        <il><b>Avaliação psicológica</b>: <a target="_blank" href="http://oferta.vc/oqRX"> Psicodiagnóstico V</a>, de Jurema A. Cunha;</il>
+        <il><b>Psicologia organizacional</b>: <a target="_blank" href="http://oferta.vc/oqS4"> Gestão de pessoas</a>, do Chiavenato. </il>
 </div>
 
 ## Concluindo
