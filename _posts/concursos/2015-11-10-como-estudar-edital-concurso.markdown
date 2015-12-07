@@ -283,14 +283,15 @@ __Prova de títulos__:
     - avaliação 
     - e interpretação de resultados.
 
-<div class="caixa-esq">
+<div class="caixa-esq" style="background-color:#EAF2F8">
     <center><span class="info"><i class="fa fa-info-circle fa-3x"></i></span></center>
     <p>Como você pode ver, a maior parte do conteúdo se restringe às <b>resoluções do CFP</b>. Isso é muito bom! Esses textos, apesar de serem mais "duros" são bem objetivos e ótimos para estudar.</p>
 
-    <p>Sobre o conteúdo mais acadêmico, com basicamente duas referências você já se garante:</p>
+    <p>Sobre o conteúdo acadêmico, com praticamente <b>duas referências</b> você já se garante:</p>
     <ul>
-        <il><b>Avaliação psicológica</b>: <a target="_blank" href="http://oferta.vc/oqRX"> Psicodiagnóstico V</a>, de Jurema A. Cunha;</il>
-        <il><b>Psicologia organizacional</b>: <a target="_blank" href="http://oferta.vc/oqS4"> Gestão de pessoas</a>, do Chiavenato. </il>
+        <il><b>Avaliação psicológica: <big><a target="_blank" href="http://oferta.vc/oqUH"> Psicodiagnóstico V</a></b></big>, de Jurema A. Cunha;</il>
+        <br>
+        <il><b>Psicologia organizacional: <big><a target="_blank" href="http://oferta.vc/oqUy"> Gestão de pessoas</a></big></b>, do Chiavenato.</il>
 </div>
 
 ## Concluindo
