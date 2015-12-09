@@ -12,7 +12,7 @@ logoface: true
 </p>
 
 ## Plano de aula
-A segunda aula contém 88 slides e abarca a segunda metade do livro (páginas 75 a 196). Por já termos estudado os conceitos básicos em psicopatologia, os slides puderam ser mais objetivos, indo o mais direto possível aos critérios diagnósticos da CID-10. Cabe lembrar que estas aulas __não substituem a leitura do livro__ e são focadas nos conteúdos que mais caem em concursos de psicologia. Principalmente se você tem formação em outra área, não deixe de ler o livro na íntegra.
+A segunda aula contém 88 slides e abarca a segunda metade do livro (páginas 75 a 196). Por já termos estudado os conceitos básicos em psicopatologia, os slides puderam ser mais objetivos, indo o mais direto possível aos <a target="_blank" href="http://oferta.vc/oskI">critérios diagnósticos da CID-10</a>. Cabe lembrar que estas aulas __não substituem a leitura do livro__ e são focadas nos conteúdos que mais caem em concursos de psicologia. Principalmente se você tem formação em outra área, não deixe de ler o livro na íntegra.
 
 Ainda não viu os slides da [primeira aula](/psicologia-para-concurso/psicopatologia-cid10-aula-1/)? Vai lá!
 

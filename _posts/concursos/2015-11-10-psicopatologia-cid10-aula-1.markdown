@@ -13,7 +13,11 @@ logoface: true
 
 Hoje é cada vez mais comum que os [editais de concurso](/psicologia-para-concurso/como-estudar-edital-concurso/) apresentem apenas os conteúdos que serão cobrados, sem uma indicação bibliográfica clara. Nesse caso, cabe a nós descobrir uma __boa referência__ e torcer para que seja a mesma, ou pelo menos próxima, àquela usada pela banca.
 
-Esta aula é integralmente baseada no livro ["Psiquiatria e Saúde Mental"](http://www.estantevirtual.com.br/b/portella-nunes-romildo-bueno-nardi/psiquiatria-e-saude-mental/3624033897), de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos critérios diagnósticos da CID-10, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas.
+Esta aula é integralmente baseada no livro ["Psiquiatria e Saúde Mental"](http://www.estantevirtual.com.br/b/portella-nunes-romildo-bueno-nardi/psiquiatria-e-saude-mental/3624033897), de Portella Nunes, Romildo Bueno e Nardi, publicado pela editora Atheneu. O livro, ideal para quem estuda para concursos e precisa de acesso fácil aos __critérios diagnósticos da CID-10__, chama atenção pela objetividade e conteúdo prático, sem se deter tanto em discussões teóricas. 
+
+<div class="caixa-esq">
+<p style="margin-bottom:0px"><span class="info"><i class="fa fa-info-circle fa-lg"></i></span> <b>Obs.</b>: Caso você queira o <b>livro impresso</b> e não o encontre na Estante Virtual, uma alternativa seria comprar diretamente o <b><a target="_blank" href="http://oferta.vc/oskI">manual da CID-10</a></b> (repare que há algumas impressões bem baratas).</p>
+</div>
 
 __Como saber se esta aula é adequada para meu concurso__? É simples, se o conteúdo programático de psicologia no seu edital traz termos como "Saúde mental", "Psicopatologia", ou "Transtornos Mentais", __é prudente que você estude ambos os sistemas classificatórios__:
 
