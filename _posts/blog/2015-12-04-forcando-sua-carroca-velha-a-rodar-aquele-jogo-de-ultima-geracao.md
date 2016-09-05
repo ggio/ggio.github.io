@@ -1,5 +1,5 @@
 ---
-layout: postad-gads
+layout: post
 categories: blog
 title:  "Forçando sua carroça velha a rodar aquele jogo de última geração"
 date: 2015-12-04
@@ -121,7 +121,3 @@ __Maravilhoso, não é mesmo?__ E disseram que era impossível! Aproveite para t
 </center>
 
 Se você, como eu, não teve muita sorte, posso apenas dizer que sinto muito. Quer dizer que nossa empreitada foi inútil? Talvez, mas pelo menos tentamos bravamente. O que aprendemos com isso? Praticamente nada.
-
-<div class="caixad">
-{% include ads/gads-resp.html %}
-</div>

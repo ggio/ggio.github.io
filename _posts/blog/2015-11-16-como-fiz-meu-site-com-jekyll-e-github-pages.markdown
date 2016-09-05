@@ -1,5 +1,5 @@
 ---
-layout: postad-gads
+layout: post
 categories: blog
 title:  "Como fiz meu site com Jekyll e GitHub Pages"
 date: 2015-11-17
@@ -322,7 +322,3 @@ Pela natureza meio esquizo deste site, eu <del>quis</del> precisei dividir as po
 __Parece muito, mas é só o começo__. O universo de informação em volta do Jekyll e GitHub é gigantesco e logo logo você estará descobrindo novas soluções e ferramentas. Não se assuste com o volume de informação. Uma vez passado o susto inicial, você estará gerando sites estáticos com um estralar de dedos. 
 
 Nesse guia, eu abrangi a maior parte do que descobri até agora, mas muita coisa ficou de fora. Algo ficou mal explicado ou você empacou em alguma etapa? É só falar ;)
-
-<div class="caixad">
-{% include ads/gads-resp.html %}
-</div>
