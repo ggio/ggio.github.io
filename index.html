@@ -1,22 +1,27 @@
 ---
 layout: default
-title: GGio - Psicologia para concurso e blog do Gregório
-description: Aulas e resumos de psicologia para concursos públicos e blog pessoal do Gregório.
+title: GGio - Blog do Gregório
+description: Blog pessoal do Gregório e às vezes aulas e resumos de psicologia para concursos públicos.
 logoface: true
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Postagens Recentes</h1>
+  <h1 class="pageTitle">Postagens "recentes"</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
+        <!---
         <span class="date">
-        <!--- {% if post.categories contains 'psicologia-para-concurso' %}
-          /Psicologia para concurso/
-        {% endif %}
-        {% if post.categories contains 'blog' %}
-          /Blog/
-        {% endif %} -->
+           {% if post.categories contains 'psicologia-para-concurso' %}
+            <span class="sutil">
+              <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
+            </span>
+          {% endif %}
+          {% if post.categories contains 'blog' %}
+            <span class="sutil">
+              <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
+            </span>  
+          {% endif %}
         {% assign m = post.date | date: "%-m" %}
         {{ post.date | date: "%-d de" }}
         {% case m %}
@@ -32,9 +37,9 @@ logoface: true
           {% when '10' %}Outubro
           {% when '11' %}Novembro
           {% when '12' %}Dezembro
-        {% endcase %}
-        {{ post.date | date: "de %Y" }}
-        </span>
+        {% endcase %} 
+        {{ post.date | date: "de %Y" }} 
+        </span> -->
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
       </li>
