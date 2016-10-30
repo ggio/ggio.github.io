@@ -8,7 +8,9 @@ comments: true
 logoface-blog: true
 ---
 
-<p class="intro"> Muito tem se falado, pesquisado e discutido sobre a inteligência emocional, que representaria um avanço perante formas canônicas de inteligência, de roupagem lógico-matemática e sabidamente engendradas por uma ideologia cartesiana, tim-maio-racionalista<a href="#n1">¹</a>, hegemônico-capitalista e tudo mais que há de ruim. Outro conjunto de habilidades de primeira importância para o sucesso ou fracasso de um indivíduo na vida adulta, entretanto, têm sido negligenciado pela literatura acadêmica. Esse conjunto de habilidades reside em operar comportamental, social, afetiva e cognitivamente sobre uma tarefa básica da vida contemporânea: <b>a decisão de quanto sal empregar em determinada receita</b>. </p>
+<p class="intro"> Muito tem se falado, pesquisado e discutido sobre a inteligência emocional, que representaria um avanço perante formas canônicas de inteligência, de roupagem lógico-matemática e sabidamente engendradas por uma ideologia cartesiana, tim-maio-racionalista<a href="#n1">¹</a>, hegemônico-capitalista e tudo mais que há de ruim.</p>
+
+Outro conjunto de habilidades de primeira importância para o sucesso ou fracasso de um indivíduo na vida adulta, entretanto, têm sido negligenciado pela literatura acadêmica. Esse conjunto de habilidades reside em operar comportamental, social, afetiva e cognitivamente sobre uma tarefa básica da vida contemporânea: <b>a decisão de quanto sal empregar em determinada receita</b>. 
 
 <figure>
     <img src="/assets/aux/salt.png" alt="Imagem de uma mão repleta de sal" style="width: 50%; height: 50%"> 
