@@ -17,7 +17,7 @@ gems: [jekyll-paginate]
 navigation:
  - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
    url: /psicologia-para-concurso
- - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
+ - title: <i class="fa fa-pencil fa-lg fa-flip-horizontal"></i>&nbsp; Blog
    url: /blog
  - title: <i class="fa fa-user fa-lg"></i>&nbsp; Sobre
    url: /sobre
