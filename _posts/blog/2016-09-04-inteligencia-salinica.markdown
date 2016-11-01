@@ -4,7 +4,7 @@ categories: blog
 title:  "Inteligência Salínica, um estudo exploratório"
 date: 2016-09-04
 description: "Discute a pertinência de um novo e interdisciplinar campo de estudo psicológico: a inteligência salínica."
-comments: true
+comments: false
 logoface-blog: true
 ---
 
