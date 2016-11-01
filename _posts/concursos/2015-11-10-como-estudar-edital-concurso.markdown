@@ -4,7 +4,7 @@ categories: psicologia-para-concurso
 title:  "Edital é para ser estudado: resumindo o CFP nº 01/2015"
 date: 2015-11-10
 description: Nessa postagem, dou dicas de como estudar editais de concurso e ofereço um modelo para resumo. Como exemplo, resumo e esquematizo o edital nº 01/2015 do Conselho Federal de Psicologia.
-comments: false
+comments: true
 logoface: true
 ---
 

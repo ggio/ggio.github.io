@@ -4,7 +4,7 @@ categories: blog
 title:  "Forçando sua carroça velha a rodar aquele jogo de última geração"
 date: 2015-12-04
 description: Com o avanço tecnológico, nossas máquinas se tornam obsoletas cada vez mais rápido. Nem sempre dá pra acompanhar essa corrida, mas sempre dá pra tentar uma gambiarra.
-comments: false
+comments: true
 logoface-blog: true
 ---
 

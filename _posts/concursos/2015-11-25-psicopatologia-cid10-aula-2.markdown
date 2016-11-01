@@ -4,7 +4,7 @@ categories: psicologia-para-concurso
 title:  "Psicopatologia (CID-10) - Aula 2" 
 date: 2015-12-01
 description: Segunda aula do livro Psiquiatria e Saúde Mental - Apresenta os demais critérios diagnósticos de transtornos mentais segundo a CID-10 e contém um simulado com 32 questões de concurso sobre o conteúdo da aula.
-comments: false
+comments: true
 logoface: true
 ---
 
