@@ -1,8 +1,8 @@
-title: GGio - Blog do Gregório
-description: Aulas e resumos de psicologia para concursos públicos e blog do Gregório.
-mini-title: GGio
+title: Blog do Gregório
+description: Blog do Gregório e um pouco de psicologia para concurso.
+mini-title: Gregs
 
-url: "http://ggio.com.br"
+url: "http://gregs.blog.br"
 baseurl: ""
 paginate_path: "posts/pag:num/"
 permalink: :categories/:title/
