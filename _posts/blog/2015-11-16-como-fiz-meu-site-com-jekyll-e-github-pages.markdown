@@ -146,7 +146,7 @@ A seguir, vai uma apresentação rápida de cada um dos itens. Saiba mais lendo 
 * Fragmentos reusáveis de código ou texto vão aqui. A ideia é evitar repetições desnecessárias.
 * É comum que contenha o `header` e `footer` mas você pode usar para absolutamente qualquer coisa.
 * Todo documento nessa pasta pode ser incluído facilmente em páginas e postagens com uma tag liquid. 
-Exemplo: {% raw %}<pre><code class="language-bash">{% include xablau.html %}</code></pre>{% endraw %}
+Exemplo: {% raw %}<code class="language-bash">{% include xablau.html %}</code>{% endraw %}
 
 #### _layouts
 

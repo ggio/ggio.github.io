@@ -43,10 +43,6 @@ A primeira aula contém 100 slides e abarca as páginas 01 a 74 (cerca de metade
 1. Retardo mental  
 1. Aspectos neuropsiquiátricos na infecção pelo HIV e na Sida (Aids)  
 
-<div class="caixad">
-{% include ads/est-alt-largo.html %}
-</div>
-
 ## Apresentação de slides e questões de concurso
 
 Nos links abaixo você tem acesso aos slides da primeira aula e a 16 questões de concurso sobre o conteúdo apresentado. Procure fazê-las sem colar com os slides para testar seu aprendizado e fixar a matéria.
@@ -76,7 +72,7 @@ Dica: use as <span class="caixola"><i class="fa fa-hand-o-right fa-lg"></i> seta
 A aula e as questões foram úteis?   
 Retribua compartilhando o material e dando um retorno nos comentários, e-mail ou redes sociais.
 
-<span class="info"><i class="fa fa-info-circle fa-2x"></i></span> Acesse a <b><a href="/psicologia-para-concurso/psicopatologia-cid10-aula-2"></b> segunda aula de psicopatologia</a> para terminar de estudar os critérios diagnósticos da CID-10 e praticar com mais 32 questões de concurso.
+<span class="info"><i class="fa fa-info-circle fa-2x"></i></span> Acesse a <b><a href="/psicologia-para-concurso/psicopatologia-cid10-aula-2"> segunda aula de psicopatologia</a></b> para terminar de estudar os critérios diagnósticos da CID-10 e praticar com mais 32 questões de concurso.
 
 <div class="caixad">
 {% include ads/sol-box.html %}

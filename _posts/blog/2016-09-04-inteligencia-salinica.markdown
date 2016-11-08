@@ -36,9 +36,13 @@ Questão subjacente à proposta, portanto, é a comunhão pacífica e harmoniosa
 <small>
 <a name="n1"></a>
 __¹.__ Nenhuma crítica é cabível, é claro, ao mestre Tim Maia, mas putaquepariu, galera, que papo ruim de _read the book, the only book_ da porra.
+</small>
 
+<small>
 <a name="n2"></a>
 __².__ A fim de evitar desafetos, o autor - eu - e seu/meu alter-ego-proto-acadêmico opta por se identificar no plural.
+</small>
 
+<small>
 Artigo submetido pelo autor em 04/09/2016 e aceito instantaneamente já que ele é o dono da bola, do blog e de si-mesmo <span class="sutil">(acredita-se)</span>.
 </small>

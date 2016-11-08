@@ -288,10 +288,16 @@ __Prova de títulos__:
     <p>Como você pode ver, a maior parte do conteúdo se restringe às <b>resoluções do CFP</b>. Isso é muito bom! Esses textos, apesar de serem mais "duros" são bem objetivos e ótimos para estudar.</p>
 
     <p>Sobre o conteúdo acadêmico, com praticamente <b>duas referências</b> você já se garante:</p>
+
     <ul>
-        <il><b>Avaliação psicológica: <big><a target="_blank" href="http://oferta.vc/oqUH"> Psicodiagnóstico V</a></b></big>, de Jurema A. Cunha;</il>
-        <br>
-        <il><b>Psicologia organizacional: <big><a target="_blank" href="http://oferta.vc/oqUy"> Gestão de pessoas</a></big></b>, do Chiavenato.</il>
+        <il>
+            <b>Avaliação psicológica: <big><a target="_blank" href="http://oferta.vc/oqUH">Psicodiagnóstico V</a></big></b>, de Jurema A. Cunha;
+        </il>
+            <br>
+        <il>
+            <b>Psicologia organizacional: <big><a target="_blank" href="http://oferta.vc/oqUy"> Gestão de pessoas</a></big></b>, do Chiavenato.
+        </il>
+    </ul>   
 </div>
 
 ## Concluindo
