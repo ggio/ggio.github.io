@@ -24,7 +24,7 @@ Você me encontra no <a href="https://www.facebook.com/gregroorio"> facebook</a>
 
 Criado com <a href="http://jekyllrb.com/">jekyll</a> e hospedado generosa e gratuitamente pelo <a href="https://github.com">github</a>. É baseado no tema <a href="http://scribble.muan.co/">Scribble</a>, com alguns muitos ajustes. As apresentações de slides foram feitas com <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. Utilizo também os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>.
 
-Caso tenha interesse, eu detalhei em uma postagem <a href="/posts/como-fiz-meu-site-com-jekyll-e-github-pages/">como construí este site e como você pode fazer o seu</a>.
+Caso tenha interesse, eu detalhei em uma postagem <a href="/posts/como-fiz-meu-site-com-jekyll-e-github-pages">como construí este site e como você pode fazer o seu</a>.
 
   <p>O código HTML, CSS, java e demais configurações estão licenciados com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons - Atribuição 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e compartilhar o código à vontade. Linkar de volta seria bacana, mas fica a seu critério. Isso se aplica à forma do site e não ao conteúdo dos textos, é claro.
   </p>
