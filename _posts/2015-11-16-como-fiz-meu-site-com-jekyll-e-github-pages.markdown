@@ -33,6 +33,10 @@ Vá, gaste um tempo e escolha um que lhe agrade. Tem para todos os gostos, desde
 
 Da minha parte, comecei com o [Long Haul](http://brianmaierjr.com/long-haul/), criado por [Brian Maier](https://twitter.com/brianmaier). O tema é simples, bem instrumentalizado, e tem uma documentação razoável, mas acabei modificando muita coisa. Você também pode usar [minha própria versão do tema](https://github.com/ggio/ggio.github.io), a.k.a. este site que você acessa agora, como ponto de partida para o seu, mas recomendo começar com um tema mesmo, pela organização, limpeza e tals.
 
+<div class="pa3 tl ba br3 db b--light-silver bg-lightest-blue">
+<p><i class="fa fa-info-circle fa-lg"></i> <b> Atualização: </b> em 2020, migrei para o tema <b><a href="http://github.com/muan/scribble">Scribble</a></b>, com alguns muitos ajustes. Fiz isso basicamente porque queria algo ainda mais simples (minimalista mesmo) e de fácil manutenção. Continuo achando o <i>Long Haul</i> um ótimo ponto de partida, mas acabou caindo a ficha de que ele é um tema um tanto mais elaborado do que a média, com as vantagens e desvantagens disso. </p>
+</div>
+
 ---
 
 # Meu GitHub, minha vida
@@ -200,7 +204,7 @@ A flag <mark>--watch</mark> é opcional e faz com que suas alterações tenham e
 <div class="pa3 tl ba br3 db b--light-silver bg-light-yellow">
 <center><span class="amarelo"><i class="fa fa-exclamation-triangle fa-2x"></i>
 </span></center>
-<p>Perceba, porém, que o mesmo <b>não</b> vale para para alterações feitas em <mark>_config.yml</mark>. Para isso, você precisa interromper o processo no terminal com <mark>ctrl+c</mark> e rodar o seguinte comando (de preferência algumas vezes):</p>
+<p>Perceba, porém, que o mesmo <b>não</b> vale para para alterações feitas em <b><mark>_config.yml</mark></b>. Para isso, você precisa interromper o processo no terminal com <mark>ctrl+c</mark> e rodar o seguinte comando (de preferência algumas vezes):</p>
 
 {% highlight bash %}
 jekyll build 
@@ -337,6 +341,7 @@ Eu segui as [instruções do Chen Jui Jing](http://www.chenhuijing.com/blog/sett
 
 [Font Awesome](http://fontawesome.io/) é um pacote grátis com bilhões de [ícones úteis](http://fontawesome.io/icons/) e minimalistas, customizáveis e prontos para uso. É bem [facinho de implementar](http://fontawesome.io/get-started/).  
 
+<!--
 ## Realce de código com Prism.js
 
 O Jekyll tem duas [opções nativas](http://jekyllrb.com/docs/templates/#code-snippet-highlighting) (leia-se mais leves e melhor integradas) de <mark>realce de código</mark> e o seu tema muito provavelmente também já vem com alguma opção __pronta para uso__.
@@ -344,14 +349,16 @@ O Jekyll tem duas [opções nativas](http://jekyllrb.com/docs/templates/#code-sn
 Mas porque não dificultar um pouco implementando um sistema externo de realce? Foi o que eu fiz com o [Prism.js](http://prismjs.com/). O site deles tem as [instruções](http://prismjs.com/#basic-usage).
 
 Detratores dirão que eu só fiz isso porque não consegui configurar nenhuma opção nativa, e eles estarão certos. Tirando que o Prism.js é lindo.
-
+-->
 ## Integrando Jekyll com Reveal.js
 
 [Reveal.js](http://lab.hakim.se/reveal-js/#/) é um sistema foda de criação de apresentações de slides em HTML. A integração com o Jekyll é bem descrita no [site do Luu Gia Thuy](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/). Ele só esqueceu de dizer que, se você pretende modificar os temas padrão, você precisa __clonar__ (e não adicionar como submodule) o reveal.js à sua pasta. Você pode ter uma ideia melhor de como organizar as pastas e arquivos html dos slides no [meu repositório](https://github.com/ggio/ggio.github.io/tree/master/slides).
 
 ## Páginas de subcategorias
 
-Pela natureza meio esquizo deste site, eu <del>quis</del> precisei dividir as postagens entre duas categorias, "Psicologia para concurso" e "blog", e isso __complica tudo__. Depois de pesquisar bastante, fiquei satisfeito com as instruções nessa [resposta no Stack Overflow](http://stackoverflow.com/a/26684859).
+Pela natureza meio esquizo deste site, eu <del>quis</del> precisei dividir as postagens entre duas categorias, "Psicologia para concurso" e "blog", e isso __complica tudo__. Depois de pesquisar bastante, fiquei satisfeito com as instruções nessa [resposta no Stack Overflow](http://stackoverflow.com/a/26684859). 
+
+Obs.: Em 2020, junto com a mudança do tema, achei melhor simplificar e me livrar dessa divisão. Minha vida tem sido 34,5% mais fácil desde então.
 
 ---
 
