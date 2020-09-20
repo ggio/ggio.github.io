@@ -15,8 +15,23 @@ Mais especificamente, eu estava interessado em dois jogos: __Fallout 4__ e __Wit
 O problema não foi instalar, mas sim rodar os jogos. O Fallout 4 quebrava automaticamente, o Witcher 3 ignorava meus apelos e fingia que não tinha nada acontecendo.
 
 <figure class="mv4 tc">
+    <img src="{{ site.url }}/images/postagens/carroca/error.jpg" class="mw5" alt="Erro no lançamento do Fallout 4" />
+    <figcaption>Error!</figcaption>
+</figure>
+
+<figure class="mv4 tc">
     <img src="{{ site.url }}/images/postagens/carroca/error.jpg" class="mw6" alt="Erro no lançamento do Fallout 4" />
     <figcaption>Error!</figcaption>
+</figure>
+
+<figure class="mv4 tc">
+    <img src="{{ site.url }}/images/postagens/octojekyll.png" class="mw5" alt="Octogato - GitHub + Jekyll" />
+    <figcaption>Octogato, o mascote do GitHub,<br> com o frasquinho do Jekyll <font color="red"><i class="fa fa-heart"></i></font></figcaption>
+</figure>
+
+<figure class="mv4 tc">
+    <img src="{{ site.url }}/images/postagens/octojekyll.png" class="mw6" alt="Octogato - GitHub + Jekyll" />
+    <figcaption>Octogato, o mascote do GitHub,<br> com o frasquinho do Jekyll <font color="red"><i class="fa fa-heart"></i></font></figcaption>
 </figure>
 
 Minha configuração é a seguinte:
