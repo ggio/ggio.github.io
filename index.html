@@ -1,13 +1,33 @@
 ---
 ---
 
-<ul class="list pa0">
+<ul class="list pa0 markdown-home">
   {% for post in site.posts %}
   <li class="mv2">
-    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
-      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
+  	<a href="{{ site.url }}{{ post.url }}" class="db pv1 link hover-mid-gray">
+     <time class="fr silver ttl">
+     {% assign m = post.date | date: "%-m" %}
+     {{ post.date | date: "%d " }} 
+     {% case m %}
+          {% when '1' %}Jan
+          {% when '2' %}Fev
+          {% when '3' %}Mar
+          {% when '4' %}Abr
+          {% when '5' %}Mai
+          {% when '6' %}Jun
+          {% when '7' %}Jul
+          {% when '8' %}Ago
+          {% when '9' %}Set
+          {% when '10' %}Out
+          {% when '11' %}Nov
+          {% when '12' %}Dez
+        {% endcase %} 
+        {{ post.date | date: "%Y" }} 
+ 	</time>
       {{ post.title }}
-    </a>
+    </a>    
   </li>
   {% endfor %}
 </ul>
+
+      

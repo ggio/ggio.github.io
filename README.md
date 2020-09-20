@@ -1,32 +1,13 @@
-# Scribble
+# Leia-me
 
-A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
+Código jekyll do meu blog. Site criado com <a href="http://jekyllrb.com/">jekyll</a> e hospedado generosamente pelo <a href="https://github.com">github</a>. É baseado no tema para jekyll <a href="http://github.com/muan/scribble">Scribble</a>. As apresentações de slides foram feitas com <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. Utilizo também os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>. </p>
 
-![screenshot](https://cloud.githubusercontent.com/assets/1153134/23830104/6d4665e0-06b7-11e7-8805-57e73c346459.png)
+# Licença
+ 
+O código HTML, CSS, java e demais está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons - Atribuição 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e compartilhar o código à vontade. Linkar de volta seria bacana, mas fica a seu critério.
 
-## Get started
+Você pode usar partes dele em seu site ou usar todo ele como ponto de partida de seu próprio site. <i>Fork me!</i>
 
-1. [Fork the repository](https://github.com/muan/scribble/fork)
+Só lembra de substituir com seu próprio conteúdo nas pastas "_posts/" e "slides/". Esses itens são a única parcela não-livre do código-fonte e que você não pode reutilizar sem minha permissão. 
 
-2. Clone the repository: `git clone https://github.com/username/scribble`
-
-3. Run `bundle install`
-
-4. Run Jekyll: `bundle exec jekyll serve -w`
-
-5. Go to http://localhost:4000 for your site.
-
----
-
-## Make it yours
-
-1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
-
-2. Change `about.md` for blog intro
-
-3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
-
-## The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+No mais, fique à vontade.
