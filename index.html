@@ -1,57 +1,33 @@
 ---
-layout: default
-title: Blog do Gregório
-description: Blog do Gregório e um pouco de psicologia para concurso.
-logoface: true
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Postagens "recentes"</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <!---
-        <span class="date">
-           {% if post.categories contains 'psicologia-para-concurso' %}
-            <span class="sutil">
-              <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
-            </span>
-          {% endif %}
-          {% if post.categories contains 'blog' %}
-            <span class="sutil">
-              <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
-            </span>  
-          {% endif %}
-        {% assign m = post.date | date: "%-m" %}
-        {{ post.date | date: "%-d de" }}
-        {% case m %}
-          {% when '1' %}Janeiro
-          {% when '2' %}Fevereiro
-          {% when '3' %}Março
-          {% when '4' %}Abril
-          {% when '5' %}Maio
-          {% when '6' %}Junho
-          {% when '7' %}Julho
-          {% when '8' %}Agosto
-          {% when '9' %}Setembro
-          {% when '10' %}Outubro
-          {% when '11' %}Novembro
-          {% when '12' %}Dezembro
+<ul class="list pa0 markdown-home">
+  {% for post in site.posts %}
+  <li class="mv2">
+  	<a href="{{ site.url }}{{ post.url }}" class="db pv1 link hover-mid-gray">
+     <time class="fr silver ttl">
+     {% assign m = post.date | date: "%-m" %}
+     {{ post.date | date: "%d " }} 
+     {% case m %}
+          {% when '1' %}Jan
+          {% when '2' %}Fev
+          {% when '3' %}Mar
+          {% when '4' %}Abr
+          {% when '5' %}Mai
+          {% when '6' %}Jun
+          {% when '7' %}Jul
+          {% when '8' %}Ago
+          {% when '9' %}Set
+          {% when '10' %}Out
+          {% when '11' %}Nov
+          {% when '12' %}Dez
         {% endcase %} 
-        {{ post.date | date: "de %Y" }} 
-        </span> -->
-        <big><b><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></big></b>
-        <p class="description">{% if post.excerpt %}{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 200 }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Recentes</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Anteriores</a>
-    {% endif %}
-  </div>
-</div>
+        {{ post.date | date: "%Y" }} 
+ 	</time>
+      {{ post.title }}
+    </a>    
+  </li>
+  {% endfor %}
+</ul>
+
+      

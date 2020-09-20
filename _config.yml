@@ -1,29 +1,22 @@
-title: Blog do Gregório
-description: Blog do Gregório e um pouco de psicologia para concurso.
-mini-title: Gregs
+# ----------- CONFIGURABLE START -----------
+title:            "Gregs"
+description:      "Blog do Gregório"
+url:              http://gregs.blog.br # Site url, without a slash at the end.
+signoff:          "Gregório" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: "UA-70037107-1" # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
 
-url: "http://gregs.blog.br"
-baseurl: ""
-paginate_path: "posts/pag:num/"
-permalink: :categories/:title/
+links:
+  - name:         <i class="fa fa-pencil fa-sm"></i>&nbsp; Postagens
+    url:          /
+    external:     false
+  - name:         <i class="fa fa-user fa-sm"></i>&nbsp; Sobre
+    url:          /sobre
+    external:     false
+# ------------ CONFIGURABLE END ------------
 
-markdown: kramdown
-highlighter: rouge
-paginate: 10
-gems: [jekyll-paginate]
-
-navigation:
- - title: <i class="fa fa-book fa-lg"></i>&nbsp; Psicologia para concurso
-   url: /psicologia-para-concurso
- - title: <i class="fa fa-pencil fa-lg"></i>&nbsp; Blog
-   url: /blog
- - title: <i class="fa fa-user fa-lg"></i>&nbsp; Sobre
-   url: /sobre
-
-social:
-   github: ggio
-   twitter: gregribo	
-   facebook: gregrorio.masildi
-   email: gribmir@gmail.com
-
-google_analytics: "UA-70037107-1"
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"

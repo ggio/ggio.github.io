@@ -1,24 +1,90 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
-<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+{% assign is_post = page.date %}
+<!doctype>
+<html lang="en">
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+    <script src="https://kit.fontawesome.com/bbecdfecc4.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+<!--    <header class="tc mt4">
+      <a href="{{ site.url }}">
+        <img src="{{ site.url }}/images/coffee-solid.svg" alt="Home" width="53" height="59">
+      </a>
+      <div class="markdown-titulo">
+      <p>{{ site.title }}</p>
+    </div>
+    </header>
+-->
+   
+    <!-- CONTEÚDO -->
+    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+    
+       <!-- LINKS DE NAVEGAÇÃO -->
+      <nav class="bb b--light-gray pv3 tr pr4 pl4  " aria-label="Main">
+          <a class="link dark-gray hover-mid-gray mh2 titulo  fl dib v-mid " href="{{ site.url }}">
+          {{ site.title }} 
+          </a>
+        {% for link in site.links %}
+          <a class="link dark-gray hover-mid-gray mh2 pv2 dib v-mid " 
+             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}"> 
+             {{ link.name }}
+          </a>
+        {% endfor %}
+      </nav>
 
-{% include head.html %}
+      <!-- POSTAGENS -->
+      <main class="tl f5 relative pa4 pa4-ns overflow-hidden"> <!-- tamanho da fonteoriginal = f6-; pa=margem; -->
+        {% if page.title %}
+          <div class="mb4">
+            {% if page.date %}<div class="fw6 light-silver mt1">
 
-<body>
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%d" }}
+            {% case m %}
+              {% when '1' %}Jan
+              {% when '2' %}Feb
+              {% when '3' %}Mar
+              {% when '4' %}Abr
+              {% when '5' %}Mai
+              {% when '6' %}Jun
+              {% when '7' %}Jul
+              {% when '8' %}Ago
+              {% when '9' %}Set
+              {% when '10' %}Out
+              {% when '11' %}Nov
+              {% when '12' %}Dez
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
 
-   {% include header.html %}
+          </div>{% endif %}
+            <div class="markdown-body">
+            <h1 class="f2 mt0 lh-title cb mb2"> <!-- ttu f3 mt0 lh-title cb mb2 -->
+              {% if is_post %}
+              {% endif %}
+              {{ page.title }}
+            </h1>
+            </div>
+            {% if is_post and site.share %}
+              <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+              <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" data-action="like"></div>
+            {% endif %}
+          </div>
+        {% endif %}
+        <div class="markdown-body">
+          {{ content }}
+        </div>
+        <!-- {% if is_post %}{% include signoff.html %}{% endif %} -->
+      </main>
+      {% if is_post %}{% include pagination.html %}{% endif %}
+    </div>
 
-   <div class="content">
-      <div class="container">
-         {{ content }}
-      </div>
-   </div><!-- end .content -->
-
-   {% include footer.html %}
-   {% include scripts.html %}
-
-</body>
-
+    <footer class="mw7 center tc pt0 pb3 gray">
+      Gregório R. de Miranda. Criado com <a href="https://jekyllrb.com/" class="link gray underline">Jekyll</a> e o tema <a href="http://github.com/muan/scribble" class="link gray underline">Scribble</a>.
+      <!-- <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" /> -->
+    </footer>
+  </body>
 </html>

@@ -1,6 +1,6 @@
-# ggio.com.br
+# Leia-me
 
-Código jekyll do meu blog. Site criado com <a href="http://jekyllrb.com/">jekyll</a> e hospedado generosamente pelo <a href="https://github.com">github</a>. É largamente baseado no tema para jekyll <a href="http://brianmaierjr.com/long-haul/">Long Haul</a>, criado por <a href="https://twitter.com/brianmaier">Brian Maier</a>. As apresentações de slides foram feitas com <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. Utilizo também os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>. </p>
+Código jekyll do meu blog. Site criado com <a href="http://jekyllrb.com/">jekyll</a> e hospedado generosamente pelo <a href="https://github.com">github</a>. É baseado no tema para jekyll <a href="http://github.com/muan/scribble">Scribble</a>. As apresentações de slides foram feitas com <a href="http://lab.hakim.se/reveal-js/#/">Reveal.js</a>. Utilizo também os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>. </p>
 
 # Licença
  
