@@ -15,23 +15,8 @@ Mais especificamente, eu estava interessado em dois jogos: __Fallout 4__ e __Wit
 O problema não foi instalar, mas sim rodar os jogos. O Fallout 4 quebrava automaticamente, o Witcher 3 ignorava meus apelos e fingia que não tinha nada acontecendo.
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/error.jpg" class="mw5" alt="Erro no lançamento do Fallout 4" />
+    <img src="{{ site.url }}/images/postagens/carroca/error.jpg"  alt="Erro no lançamento do Fallout 4" />
     <figcaption>Error!</figcaption>
-</figure>
-
-<figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/error.jpg" class="mw6" alt="Erro no lançamento do Fallout 4" />
-    <figcaption>Error!</figcaption>
-</figure>
-
-<figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/octojekyll.png" class="mw5" alt="Octogato - GitHub + Jekyll" />
-    <figcaption>Octogato, o mascote do GitHub,<br> com o frasquinho do Jekyll <font color="red"><i class="fa fa-heart"></i></font></figcaption>
-</figure>
-
-<figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/octojekyll.png" class="mw6" alt="Octogato - GitHub + Jekyll" />
-    <figcaption>Octogato, o mascote do GitHub,<br> com o frasquinho do Jekyll <font color="red"><i class="fa fa-heart"></i></font></figcaption>
 </figure>
 
 Minha configuração é a seguinte:
@@ -58,7 +43,7 @@ O passo a passo que eu descrevo a seguir acompanha a instruções deste [vídeo 
 Para convencer nosso PC de que ele pode pelo menos tentar rodar os jogos, vamos precisar do [Software Development Kit (SDK) do Windows 8](https://msdn.microsoft.com/pt-br/windows/desktop/hh852363.aspx). "Ah, mas você disse que usa o Windows 7"! Sim, mas por alguma bruxaria o SDK do Windows 8 não vê problema nenhum em ser instalado no 7.
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/sdk.jpg" class="mw6" alt="SDK" />
+    <img src="{{ site.url }}/images/postagens/carroca/sdk.jpg" alt="SDK" />
     <figcaption>A instalação te dá mil opções, você só precisa da primeira.</figcaption>
 </figure>
 
@@ -71,7 +56,7 @@ Vá na ferramenta de busca do Windows e procure por <mark>dxcpl</mark>. Deve ser
 Primeiro, vamos escolher os executáveis que queremos dar aquela forçada.
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/list.jpg" class="mw6" alt="Edit list em dxcpl.exe" />
+    <img src="{{ site.url }}/images/postagens/carroca/list.jpg" alt="Edit list em dxcpl.exe" />
     <figcaption>Informe ali o caminho dos executáveis dos jogos (os .exe principais, e não os launchers!).</figcaption>
 </figure>
 
@@ -80,14 +65,14 @@ Por exemplo, indique o <mark>Fallout4.exe</mark> e __não__ o <mark>Fallout4Laun
 Agora vamos estabelecer limites para o lançamento dos executáveis que selecionamos. Tente primeiro com o __directX 11_1__, como na imagem a seguir: 
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/11-1.jpg" class="mw6" alt="Feature level limit: 11_1 | dxcpl.exe" />
+    <img src="{{ site.url }}/images/postagens/carroca/11-1.jpg"  alt="Feature level limit: 11_1 | dxcpl.exe" />
     <figcaption>Ali.</figcaption>
 </figure>
 
 Pronto. Já pode tentar executar o jogo. Caso não funcione, abaixe ainda mais o limite:
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/11-0.jpg" class="mw6" alt="Edit list em dxcpl.exe" />
+    <img src="{{ site.url }}/images/postagens/carroca/11-0.jpg" alt="Edit list em dxcpl.exe" />
     <figcaption>De novo.</figcaption>
 </figure>
 
@@ -102,12 +87,12 @@ Funciona? Ainda não? Uma última configuração e com sorte agora vai:
 Vá até as propriedades dos executáveis (agora sim, de ambos os .exe principais e launchers) e ative o modo de compatibilidade de acordo com sua distribuição. 
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/propriedades.jpg" class="mw6" alt="Propriedades" />
+    <img src="{{ site.url }}/images/postagens/carroca/propriedades.jpg" alt="Propriedades" />
     <figcaption>Assim.</figcaption>
 </figure>
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/compatibilidade.jpg" class="mw6" alt="Compatibilidade." />
+    <img src="{{ site.url }}/images/postagens/carroca/compatibilidade.jpg" alt="Compatibilidade." />
     <figcaption>Bem ali.</figcaption>
 </figure>
 
@@ -120,12 +105,12 @@ Se você fez tudo certo e a posição dos planetas está a seu favor, você já 
 No meu caso, eis a prova para ambos os jogos:
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/fallout4.jpg" class="mw6" alt="Fallout 4 início." />
+    <img src="{{ site.url }}/images/postagens/carroca/fallout4.jpg" alt="Fallout 4 início." />
     <figcaption>Fallout 4</figcaption>
 </figure>
 
 <figure class="mv4 tc">
-    <img src="{{ site.url }}/images/postagens/carroca/witcher3.jpg" class="mw6" alt="Witcher 3 início" />
+    <img src="{{ site.url }}/images/postagens/carroca/witcher3.jpg" alt="Witcher 3 início" />
     <figcaption>Witcher 3</figcaption>
 </figure>
 
