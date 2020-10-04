@@ -26,7 +26,7 @@ Incluí na planilha __alguns dados a título de exemplo__, para que você possa 
 
 A __senha para (des)proteger__ todas as abas é <mark>123</mark>. Minha recomendação é que tudo fique constantemente protegido, de forma a evitar que alguém apague as fórmulas por descuido. Caso queira mudar a senha, fique à vontade, mas não deixe de consultar antes o último tópico desse texto ("Fórmulas e VBA") e veja que isso pode ser mais difícil do que parece (mas, ainda sim, factível).
 
-A planilha e o manula são disponibilizados com uma [Licença Creative Commons - Atribuição 3.0 Brasil](https://creativecommons.org/licenses/by/3.0/br/). Isso significa que você pode usar, adaptar e compartilhar o código à vontade. Nesses casos, mencionar a autoria do projeto inicial seria bacana.
+A planilha e o manual são disponibilizados com uma [Licença Creative Commons - Atribuição 3.0 Brasil](https://creativecommons.org/licenses/by/3.0/br/). Isso significa que você pode usar, adaptar e compartilhar o código à vontade. Nesses casos, mencionar a autoria do projeto inicial seria bacana.
 
 --- 
 
