@@ -21,3 +21,6 @@ permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
+
+plugins:
+   - jekyll-sitemap
