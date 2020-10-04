@@ -141,7 +141,7 @@ Esses _scraps_ e sínteses preliminares foram montados em geral nas linhas mais 
 
 ### VBA
 
-Pra finalizar, deixo abaixo os _scripts_ do _Visual Basic_ usados na planilha. A principal utilidade, caso queira ou precise, é saber onde trocar a senha nas planilhas de consulta e relatório mensal. Para isso, basta substituir todas as entradas <mark>"123"</mark> abaixo pela nova senha. 
+Pra finalizar, deixo abaixo os _scripts_ do _Visual Basic_ usados em cada planilha. A principal utilidade, caso queira ou precise, é saber onde trocar a senha nas planilhas de consulta e relatório mensal. Para isso, basta substituir todas as entradas <mark>"123"</mark> abaixo pela nova senha. 
 
 Para abrir o VBA no Excel, use o atalho <mark>Alt+F11</mark>, mas se você precisa dessa dica provavelmente irá pesquisar um pouco mais sobre ele.
 
