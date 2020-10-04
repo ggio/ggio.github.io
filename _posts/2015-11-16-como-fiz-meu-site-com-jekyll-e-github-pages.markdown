@@ -136,10 +136,10 @@ git clone endereço-do-repositório
      ├── <i class="fa fa-file-text-o"></i> index.html
      ├── <span class="amarelo"><i class="fa fa-folder-open"></i></span><b>_includes</b>
      │   ├── <i class="fa fa-file-text-o"></i> footer.html
-     │  └── <i class="fa fa-file-text-o"></i> header.html
+     │   └── <i class="fa fa-file-text-o"></i> header.html
      ├── <i class="fa fa-folder-open"></i> <b>_layouts</b>
      │   ├── <i class="fa fa-file-text-o"></i> default.html
-     │  └── <i class="fa fa-file-text-o"></i> post.html
+     │   └── <i class="fa fa-file-text-o"></i> post.html
      ├── <i class="fa fa-folder-open"></i> <b>_posts</b>
      │  ├── <i class="fa fa-file-text-o"></i> 2011-10-25-coxinha-de-jaca.md
      │  └── <i class="fa fa-file-text-o"></i> 2011-04-26-hello-world.md

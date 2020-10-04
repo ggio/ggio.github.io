@@ -16,7 +16,7 @@ Também sou meio <i>nerd</i> e gasto parte considerável do meu tempo com RPG (D
 
 Gosto de <i>trekking</i> e faço pelo menos uma travessia por <del>semestre</del> ano. Morro de medo do aquecimento global e por isso fico meio apocalíptico.
 
-Você me encontra no <a href="https://www.facebook.com/gregroorio"> facebook</a>, <a href="https://twitter.com/gregribo">twitter</a>, <a href="https://www.reddit.com/user/gregribo/">reddit</a> e por <a href="mailto:gregoriomirandapsi@gmail.com"> e-mail</a>.
+Você me encontra no <a href="https://www.facebook.com/gregroorio"> facebook</a>, <a href="https://twitter.com/gregribo">twitter</a> e por <a href="mailto:gregoriomirandapsi@gmail.com"> e-mail</a>.
 
 ---
 
