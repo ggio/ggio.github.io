@@ -5,6 +5,7 @@ url:              http://gregs.blog.br # Site url, without a slash at the end.
 signoff:          "Gregório" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: "UA-70037107-1" # Set tracking, remove from /javascripts/basic.js if unwanted.
+google_verify: gX1bILF1pxYaW0fvI8lxB5wGrAmCMp1r9WI3-QNEoo0
 share:            false # Turn on twitter and facebook share buttons
 
 links:
