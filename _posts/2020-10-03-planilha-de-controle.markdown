@@ -10,7 +10,7 @@ Gosto de pensar que através dos atendimentos individuais e em grupo, discussõe
 
 Uma vez empregada, a planilha permitiu a __simplificação dos processos__ de registro, a __unificação de documentos__ físicos e digitais e a __redução do tempo__ gasto pelo usuário em cumprir com as inevitáveis formalidades do serviço. Tendo todos os dados estavam no excel, foi possível também a __automatização__ do preenchimento e análise de informações. Com isso, conseguimos gerar automaticamente também o __relatório mensal__ do serviço, uma histórica penúria da coordenação e equipe nas políticas públicas. É possível que esta seja a principal vantagem do emprego da ferramenta, mas só foi possível uma vez que todo o trajeto foi percorrido.
 
-O texto a seguir se organiza em grau crescente de complexidade, de forma a responder primeiro o interesse de servidores interessados em empregar a planilha, ainda que não tenham maiores conhecimentos ou interesse nos mistérios do Excel, e em seguida passo a relatar minhas escolhas técnicas na construção da planilha, algumas gambiarras e possíveis formas de melhorar o conjunto da obra. 
+O texto a seguir se organiza em grau crescente de complexidade, de forma a responder primeiro o interesse de servidores interessados em empregar a planilha, ainda que não tenham muito conhecimento ou interesse nos mistérios do Excel, e em seguida passo a relatar minhas escolhas técnicas na construção da planilha, algumas gambiarras e possíveis formas de melhorar o conjunto da obra. 
 
 --- 
 
@@ -47,7 +47,7 @@ O resultado geral foi a __unificação de três documentos__ digitais (ver image
 
 A maior parte dos dados registrados no documento dizem respeito às informações que o setor precisa prestar através do “__Relatório mensal de atendimentos do Centro POP__” ao governo federal. O preenchimento do relatório é discutido e descrito em detalhes no documento “[Centro POP – Manual de instruções para o registro das informações especificadas na resolução nº04/2011](https://aplicacoes.mds.gov.br/sagi/atendimento/doc/Manual_de_Instrucoes_CENTRO_POP.pdf)”, publicado pelo então Ministério do Desenvolvimento Social e Combate à Fome em 2014.
 
-O documento é composto por __seis abas__ (ou "planilhas", caso você queira usar o termo preciso), apresentadas a seguir. Todos os nomes e informações nas tabelas são fictícios. 
+O documento em Excel é composto por __seis abas__ (ou "planilhas", caso você queira usar o termo preciso), apresentadas a seguir. Todos os nomes e informações nas tabelas são fictícios. 
 
 <div class="pa3 tl ba br3 db b--light-silver bg-near-white">
 <p><span class="info"><i class="fa fa-info-circle fa-1x"></i></span>
@@ -123,7 +123,7 @@ Leve em consideração também que o documento foi construído na unha por um ps
 
 Finalmente, cabe alguma palavra sobre as fórmulas e _scripts_ utilizados, para quem tiver interesse. 
 
-A maior parte das fórmulas é bem simples na verdade, com uso abusivo do <mark>PROCV</mark>. Exceção é o uso do <mark>ÍNDICE</mark> e das __funções matriciais__. Quando vejo a função abaixo (usada na aba de Consulta), por exemplo, eu juro que não sei por onde começar a entendê-la (e sim, fui eu que escrevi). 
+A maior parte das fórmulas é bem simples na verdade, com uso abusivo do <mark>PROCV</mark>. Exceção é o uso do <mark>ÍNDICE</mark> e das __funções matriciais__. Quando vejo a função abaixo (usada na aba de Consulta), por exemplo, eu juro que me dá dor de cabeça pensar por onde começar a entendê-la (e sim, fui eu que escrevi). 
 
 ``` shell
 {=SEERRO(ÍNDICE(Tabela.frequencia[];MENOR(SE(Tabela.frequencia[id]=$E$11;LINHA(Tabela.frequencia[id])-1);LINHA(A1));3);DATA(1990;1;1))}
@@ -133,7 +133,7 @@ Minha intenção inicial era detalhar também a construção desse emaranhado de
 Algumas informações precisaram de  __mais de uma etapa para serem consolidadas__. O preenchimento automático do relatório, por exemplo, requereu (palavra horrorosa):
 
 1. buscar com o <mark>ÍNDICE</mark> as pessoas atendidas no mês, 
-2. o uso de __tabelas dinâmicas__ para suprimir as repetições,
+2. o uso de __tabelas dinâmicas__ para suprimir as repetições (cada pessoa deve ser contada apenas uma vez),
 3. como, por padrão, o Excel acha uma boa ideia que essas tabelas precisem ser atualizadas __MANUALMENTE__, tive que recorrer ao ___Visual Basic_ (VBA)__ para atualizá-las toda vez que alguma informação fosse alterada ou a planilha fosse selecionada. 
 
 Esses _scraps_ e sínteses preliminares foram montados em geral nas linhas mais abaixo nessas planilhas. Originalmente, deixei todas as fontes brancas, para que essa gambiarra fique invisível. Recomendo deixar assim para não assustar o usuário final. Tenho certeza que alguém mais capacitado organizaria de forma mais limpa esses dados, mas o importante para mim é que o resultado final funcionou.
