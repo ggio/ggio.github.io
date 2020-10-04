@@ -1,7 +1,7 @@
 ---
 title:  "Planilhas de controle de cadastros e atendimentos em política pública (Centro POP)"
 date: 2020-10-03
-description: ""
+description: "Banco de dados em Excel, com preenchimento automático de informações e relatórios. Pode ser útil em setores públicos como forma de registrar melhor as informações dos serviços."
 ---
 
 Em minha passagem como servidor público pela política de assistência social em Conselheiro Lafaiete (MG), fiz parte da equipe do Centro de Referência Especializado para População em Situação de Rua (__Centro Pop__) entre 2017 e 2019. Talvez lá tenha tido meu primeiro e mais intenso contato com a clínica ampliada. Escutar e acolher pessoas em situação de rua é sem dúvida muito desafiador, requer uma séria crítica das ideias preconceituosas que trazemos do cotidiano e da formação e por isso mesmo permite um aprendizado importante através da prática profissional. Apesar dos pesares de trabalhar em serviço público em um período de acelerado sucateamento, sinto saudades da rotina de trabalho e do contato com o público.
