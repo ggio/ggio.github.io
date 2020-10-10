@@ -9,10 +9,17 @@
 .link:hover { background: url(/images/line.png) repeat-x left bottom; }
 
 /* Markdown styles */
+.markdown-body {
+  font-size: 90%;
+}
+
 .markdown-body a {
   text-decoration: underline;
   color: #333; /* 357edd*/
 }
+
+.markdown-body code {
+  font-size: 75%;}
 
 .markdown-body p {
   text-decoration: none;
