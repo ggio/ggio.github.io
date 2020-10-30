@@ -134,16 +134,16 @@ git clone endereço-do-repositório
     <pre>     <i class="fa fa-folder-open"></i> <b>seu-nome-de-usuario.github.io</b>
      ├── <i class="fa fa-file-text-o"></i> _config.yml
      ├── <i class="fa fa-file-text-o"></i> index.html
-     ├── <span class="amarelo"><i class="fa fa-folder-open"></i></span><b>_includes</b>
+     ├── <span class="amarelo"><i class="fa fa-folder-open"></i></span> <b>_includes</b>
      │   ├── <i class="fa fa-file-text-o"></i> footer.html
      │   └── <i class="fa fa-file-text-o"></i> header.html
      ├── <i class="fa fa-folder-open"></i> <b>_layouts</b>
      │   ├── <i class="fa fa-file-text-o"></i> default.html
      │   └── <i class="fa fa-file-text-o"></i> post.html
      ├── <i class="fa fa-folder-open"></i> <b>_posts</b>
-     │  ├── <i class="fa fa-file-text-o"></i> 2011-10-25-coxinha-de-jaca.md
-     │  └── <i class="fa fa-file-text-o"></i> 2011-04-26-hello-world.md
-     └── <i class="fa fa-folder"></i><b>_site</b></pre>
+     │   ├── <i class="fa fa-file-text-o"></i> 2011-10-25-coxinha-de-jaca.md
+     │   └── <i class="fa fa-file-text-o"></i> 2011-04-26-hello-world.md
+     └── <i class="fa fa-folder"></i> <b>_site</b></pre>
 </div>
 
 A seguir, vai uma apresentação rápida de cada um dos itens. Saiba mais lendo a [documentação completa do Jekyll](http://jekyllrb.com/docs/structure/).
