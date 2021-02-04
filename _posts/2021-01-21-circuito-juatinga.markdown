@@ -30,7 +30,7 @@ O trajeto começa e termina na praia do Sono e dá a volta em toda a [reserva da
 
     Os relatos do Luís Felipe e Angelone são muito claros em relação a isso, mas ainda assim ficamos surpresos com a dificuldade. O começo da descida é ainda mais difícil, pois você precisa vencer a vegetação em uma descida técnica por pedras e sem conseguir enxergar muito bem o que tem à frente (e abaixo). Descobrimos tardiamente que seria muito bom ter levado luvas e alguma jaqueta ou blusa mais grossa, pois terminamos o trecho com muitos cortes nas mãos e braços. Um facão também pode ser de grande ajuda.
 
-    O trecho pode ser evitado fazendo uma trilha bastante mais plana (ainda que também difícil e sem trilhas marcadas) encontrada na [track do Angelone](https://pt.wikiloc.com/trilhas-trekking/circuito-cumes-da-juatinga-2488423) ou, essa sim uma opção mais fácil, pegando um barco de Paraty-Mirim e iniciando o circuito na praia do Cruzeiro.
+    O trecho pode ser evitado fazendo um caminho bastante mais plano (ainda que também difícil e sem trilhas marcadas) encontrada na [track do Angelone](https://pt.wikiloc.com/trilhas-trekking/circuito-cumes-da-juatinga-2488423) ou, essa sim uma opção mais fácil, pegando um barco de Paraty-Mirim e iniciando o circuito na praia do Cruzeiro.
 
 2. __Restante do circuito__
 
@@ -65,7 +65,7 @@ Por algum motivo que hoje nos escapa à compreensão, julgamos que poderíamos d
 
 O caminho começa suave, mas aos poucos se torna uma subida bastante íngreme, em mata fechada e os trechos com trilha vão se tornando cada vez mais raros até sumirem completamente. Aqui você começa a se questionar sobre suas escolhas de vida, se lembra das pessoas nadando alegre e preguiçosamente na praia do Sono, mas toca o barco e a caminhada.
 
-As muitas plantas com espinhos começam a dar as caras e vão nos acompanhar durante toda a subida e descida da Pedra da Jamanta. Também fomos introduzidos aos cipózinhos da região. Inofensivos à primeira vista, vão se mostrando um obstáculo insistente que acaba reduzindo bastante o ritmo de caminhada. É difícil representar isso em uma foto, mas segue uma tentativa abaixo. Essa é parte significativa do “visual” do primeiro e segundo dia.
+As muitas plantas com espinhos começam a dar as caras e vão nos acompanhar durante toda a subida e descida da Pedra da Jamanta. Também fomos introduzidos aos cipozinhos da região. Inofensivos à primeira vista, vão se mostrando um obstáculo insistente que acaba reduzindo bastante o ritmo de caminhada. É difícil representar isso em uma foto, mas segue uma tentativa abaixo. Essa é parte significativa do “visual” do primeiro e segundo dia.
 
 <figure class="mv4 tc">
     <img src="{{ site.url }}/images/postagens/juatinga/1a.jpeg"  alt="Foto do vara mato na subida para o cume." />
@@ -89,7 +89,7 @@ O segundo dia já começou com subida intensa, mas, para nossa surpresa, logo lo
     <figcaption>Vista para o Saco do Mamanguá, para onde segue a trilha.</figcaption>
 </figure>
 
-O cume da Jamanta, como era de se esperar, é sensacional, com vista para a Praia do Sono, Ponta Negra, Saco do Mamanguá e até a região onde fica Martim de Sá e Cairuçu das Pedras. Com sol escaldante e sabendo que ainda tínhamos muito chão pelo caminho, acabamos não ficando tanto tempo ali. Descansamos um pouco, conseguimos pegar um pouco de sinal, que foi útil para baixar a tracklog no segundo celular após o GPS que levamos nos deixar na mão e seguimos a caminhada.
+O cume da Jamanta, como era de se esperar, é sensacional, com vista para a Praia do Sono, Ponta Negra, Saco do Mamanguá e até a região onde fica Martim de Sá e Cairuçu das Pedras. Com sol escaldante e sabendo que ainda tínhamos muito chão pela frente, acabamos não ficando tanto tempo ali. Descansamos um pouco, conseguimos pegar um pouco de sinal, que foi útil para baixar a tracklog no segundo celular após o GPS que levamos nos deixar na mão.
 
 O início da descida, como mencionado, é um absurdo. Uma descida íngreme pelas pedras cobertas por um samambaial denso e recheado de capim navalha esporadicamente. É algo que você não deseja para ninguém, sabe? Felizmente, esse calvário não é tão extenso e logo dá lugar a uma descida intensa, mas com vegetação espaçada e bons trechos com trilha.
 
@@ -135,9 +135,9 @@ Após a praia do Engenho, a brincadeira começa a ficar séria e o caminho tutel
     
 O relato do Luís Felipe já anuncia isso e pudemos verificar de fato: a enseada da Cajaíba é a parte “pop” da reserva. Já na praia grande encontramos vários barcos de passeio, algumas lanchas opulentas e uma barulhenta turma de jetskizeiros. Haja paciência.
 
-Para não ficar só no aspecto negativo, vale mencionar que há também praias tranquilas e comunidades mais tradicionais e interessantes como Toca do Carro, Itanema, Calhaus e IItaoca. A partes mais baladas e turísticas ficam no início e no final da enseada: Praia Grande e Pouso da Cajaíba.
+Para não ficar só no aspecto negativo, vale mencionar que há também praias tranquilas e comunidades mais tradicionais e interessantes como Toca do Carro, Itanema, Calhaus e IItaoca. As partes mais baladas e turísticas ficam no início e no final da enseada: Praia Grande e Pouso da Cajaíba.
 
-Chegamos no Pouso por volta de 17h e após um período para descanso e reflexão, decidimos seguir no mesmo dia para Martim de Sá. Sabíamos pela leitura dos relatos que a trilha envolve uma subida longa, mas suave, e uma moradora local confirmou que o caminho é tranquilo e usado com frequência. Demoramos cerca de 1h40 e montamos acampamento já em Martim de Sá.
+Chegamos no Pouso por volta de 17h e após um período para descanso e reflexão, decidimos seguir no mesmo dia para Martim de Sá. Sabíamos pela leitura dos relatos que a trilha envolve uma subida longa, mas suave, e uma moradora local confirmou que o caminho é tranquilo e usado com frequência. De fato, sem grandes dificuldades, demoramos cerca de 1h40 e montamos acampamento já em Martim de Sá.
 
 ## Dia 5 -- Martim de Sá e só
 
