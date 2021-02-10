@@ -43,7 +43,7 @@ O trajeto começa e termina na praia do Sono e dá a volta em toda a [reserva da
     <figcaption>Ali, ó.</figcaption>
     </figure>
 
-    Em todo esse trecho mais urbano você encontra restaurantes no caminho, o que pode aliviar bastante o peso que se carrega nas mochilas. Ficamos surpresos em descobrir que na maior parte dos locais, inclusive em Martim de Sá, onde não chega energia elétrica ou sinal de celular, é possível pagar com cartão. Mas, claro, sempre convém levar dinheiro em moeda para garantir. Por falar em celular, é possível conseguir rede aqui e ali, mas em geral de forma bastante precária e intermitente. 
+    Em todo esse trecho mais urbano você encontra restaurantes no caminho, o que pode aliviar bastante o peso que se carrega nas mochilas. Ficamos surpresos em descobrir que na maior parte dos locais, inclusive em Martim de Sá, onde não chega energia elétrica ou sinal de celular, é possível pagar com cartão. Mas, claro, sempre convém levar dinheiro em espécie para garantir. Por falar em celular, é possível conseguir rede aqui e ali, mas em geral de forma bastante precária e intermitente. 
 
 # O relato
 
@@ -51,7 +51,7 @@ O trajeto começa e termina na praia do Sono e dá a volta em toda a [reserva da
 
 Como partimos de Belo Horizonte (a mais de 600 km de distância), descobrimos que nossa ingênua ideia inicial de fazer a viagem de carro e começar a trilha no mesmo dia era completamente descabida e infundada. Ainda bem, porque foi melhor assim.
 
-Saímos de BH de madrugada, por volta de 3h e chegamos por volta de 16h na Vila Oratório, contando com o tempo perdido errando o caminho (vocês sabiam que Laranjeiras é o nome do condomínio que dificulta a entrada à Vila Oratório E o nome de um bairro do Rio de Janeiro, capital?). Deixamos o carro em um estacionamento terreno baldio de um local que nos cobrou R$ 25,00 a diária e pegamos a trilha para a Praia do Sono, onde acampamos por R$ 40,00/pessoa.
+Saímos de BH de madrugada, por volta de 3h e chegamos por volta de 16h na Vila Oratório, contando com o tempo perdido errando o caminho (vocês sabiam que Laranjeiras é o nome do condomínio que dificulta a entrada à Vila Oratório E o nome de um bairro do Rio de Janeiro, capital?). Deixamos o carro em um <span class="strike">estacionamento</span> terreno baldio de um local que nos cobrou R$ 25,00 a diária e pegamos a trilha para a Praia do Sono, onde acampamos por R$ 40,00/pessoa.
 
 <figure class="mv4 tc">
     <img src="{{ site.url }}/images/postagens/juatinga/0.jpeg"  alt="Foto de rede na praia do sono." />
