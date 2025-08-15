@@ -32,17 +32,17 @@ depois de me permitirem automatizar uma das principais tarefas em meu trabalho d
 
 Conto mais dessa história em meu <a href="/curriculo/"> currículo
   profissional</a>. Para conhecer mais da minha história na academia, o melhor
-lugar é o <a href="http://lattes.cnpq.br/4829704775011944">currículo
+lugar é o <a href="https://lattes.cnpq.br/4829704775011944">currículo
   Lattes</a>. 
 
 ---
 
 # O site
 
-Criado com <a href="http://jekyllrb.com/">jekyll</a> e hospedado generosa e
+Criado com <a href="https://jekyllrb.com/">jekyll</a> e hospedado generosa e
 gratuitamente pelo <a href="https://github.com">github</a>. É baseado no tema
 <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a>, com
-alguns ajustes, e conta com os ícones bacanosos da <a href="http://fontawesome.io/">Font Awesome</a>.
+alguns ajustes, e conta com os ícones bacanosos da <a href="https://fontawesome.io/">Font Awesome</a>.
 
 Caso tenha interesse, eu detalhei em uma postagem <a
   href="/posts/como-fiz-meu-site-com-jekyll-e-github-pages">como construí este
@@ -50,7 +50,7 @@ Caso tenha interesse, eu detalhei em uma postagem <a
 
 <p>O código HTML, CSS, java e demais configurações estão licenciados com uma
   Licença <a rel="license"
-    href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons -
+    href="https://creativecommons.org/licenses/by/3.0/br/">Creative Commons -
     Atribuição 3.0 Brasil</a>. Isso significa que você pode usar, adaptar e
   compartilhar o código à vontade. Linkar de volta seria bacana, mas fica a seu
   critério. Isso se aplica à forma do site e não ao conteúdo dos textos, é

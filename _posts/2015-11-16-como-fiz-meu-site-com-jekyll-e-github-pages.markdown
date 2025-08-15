@@ -6,18 +6,18 @@ description: Um passo-a-passo de como fiz meu site com Jekyll e GitHub Pages e c
 
 Após passar certo sufoco para construir e configurar este site com Jekyll e GitHub Pages, aqui está um passo-a-passo de <b>como você pode fazer o seu</b>. Sabe como é, eu sou de humanas. Se eu consegui, você também consegue.
 
-O [Jekyll](http://jekyllrb.com/) é um gerador super-simplificado de sites estáticos. É grátis, código aberto, e uma ótima plataforma para blogs. Além disso, é a engrenagem por trás do [GitHub Pages](http://pages.github.com/), o que significa que você tem __hospedagem gratuita__ e integração facilitada com sua máquina através do [Git](https://git-scm.com/) (que é maravilhoso).
+O [Jekyll](https://jekyllrb.com/) é um gerador super-simplificado de sites estáticos. É grátis, código aberto, e uma ótima plataforma para blogs. Além disso, é a engrenagem por trás do [GitHub Pages](https://pages.github.com/), o que significa que você tem __hospedagem gratuita__ e integração facilitada com sua máquina através do [Git](https://git-scm.com/) (que é maravilhoso).
 
 <figure class="mv4 tc">
     <img src="{{ site.url }}/assets/img/postagens/octojekyll.png" class="mw5" alt="Octogato - GitHub + Jekyll" />
     <figcaption>Octogato, o mascote do GitHub,<br> com o frasquinho do Jekyll <font color="red"><i class="fa fa-heart"></i></font></figcaption>
 </figure>
 
-Todo o sistema funciona com base em __arquivos de texto simples__, o que fará você se sentir [blogging like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) (olha a hype!). Aí está um primeiro obstáculo, você não terá uma interface gráfica mastigadinha como um tumblr, blogger ou worpress, mas contará com ótimos __guias e tutoriais__ para ajudar no processo e terá __controle completo__ sobre seu site ou blog.
+Todo o sistema funciona com base em __arquivos de texto simples__, o que fará você se sentir [blogging like a hacker](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) (olha a hype!). Aí está um primeiro obstáculo, você não terá uma interface gráfica mastigadinha como um tumblr, blogger ou worpress, mas contará com ótimos __guias e tutoriais__ para ajudar no processo e terá __controle completo__ sobre seu site ou blog.
 
 Outros requisitos são saber se virar no __inglês__, já que a maioria dos usuários escrevem nesta língua e ter __paciência para procurar__ informações no google e na documentação do software.
 
-O Jekyll roda nativamente no __Linux__, __Unix__, e no __Mac OS X__. Diz que até funciona no [Windows](http://jekyllrb.com/docs/windows/), mas saiba que vai ser meio na gambiarra.
+O Jekyll roda nativamente no __Linux__, __Unix__, e no __Mac OS X__. Diz que até funciona no [Windows](https://jekyllrb.com/docs/windows/), mas saiba que vai ser meio na gambiarra.
 
 Todo o passo-a-passo descrito nesta postagem foi feito no __Debian Jessie__, mas a maior parte é comum a todas as distribuições. Durante o guia, eu suponho que você não trema de medo do terminal, saiba rodar comandos como root e que convém um `apt-get update` antes de instalar qualquer coisa.
 
@@ -27,11 +27,11 @@ Além disso, nenhum conhecimento prévio é necessário, nem qualquer experiênc
 
 # Escolha um tema
 
-Apesar de você ter a opção de começar um site do zero, nós vamos ser mais espertos do que isso e começar [escolhendo um __tema do jekyll__](http://jekyllthemes.org/).
+Apesar de você ter a opção de começar um site do zero, nós vamos ser mais espertos do que isso e começar [escolhendo um __tema do jekyll__](https://jekyllthemes.org/).
 
-Vá, gaste um tempo e escolha um que lhe agrade. Tem para todos os gostos, desde mais [simples](http://carte-noire.jacobtomlinson.co.uk/) e [minimalistas](http://nadjetey.github.io/redcup/) até alguns bem [completos](https://phlow.github.io/feeling-responsive/), [bacanosos](http://t413.com/SinglePaged/), e até meio [extravagantes](http://digitalmind.ch/themes/twister-jekyll-theme/demo/).
+Vá, gaste um tempo e escolha um que lhe agrade. Tem para todos os gostos, desde mais [simples](https://carte-noire.jacobtomlinson.co.uk/) e [minimalistas](https://nadjetey.github.io/redcup/) até alguns bem [completos](https://phlow.github.io/feeling-responsive/), [bacanosos](https://t413.com/SinglePaged/), e até meio [extravagantes](https://digitalmind.ch/themes/twister-jekyll-theme/demo/).
 
-Da minha parte, comecei com o [Long Haul](http://brianmaierjr.com/long-haul/), criado por [Brian Maier](https://twitter.com/brianmaier). O tema é simples, bem instrumentalizado, e tem uma documentação razoável, mas acabei modificando muita coisa. Você também pode usar [minha própria versão do tema](https://github.com/ggio/ggio.github.io), a.k.a. este site que você acessa agora, como ponto de partida para o seu, mas recomendo começar com um tema mesmo, pela organização, limpeza e tals.
+Da minha parte, comecei com o [Long Haul](https://brianmaierjr.com/long-haul/), criado por [Brian Maier](https://twitter.com/brianmaier). O tema é simples, bem instrumentalizado, e tem uma documentação razoável, mas acabei modificando muita coisa. Você também pode usar [minha própria versão do tema](https://github.com/ggio/ggio.github.io), a.k.a. este site que você acessa agora, como ponto de partida para o seu, mas recomendo começar com um tema mesmo, pela organização, limpeza e tals.
 
 > <b> Atualização: </b> em 2025, migrei para o tema <a href="https://github.com/cotes2020/jekyll-theme-chirpy">Chirpy</a>, com alguns ajustes. Fiz isso basicamente porque queria algo minimalista e de fácil manutenção, ainda que com estilo. Continuo achando o <i>Long Haul</i> um ótimo ponto de partida, mas acabou caindo a ficha de que ele é um tema um tanto mais elaborado do que a média, com as vantagens e desvantagens disso.
 {: .prompt-info }
@@ -55,15 +55,15 @@ Uma vez escolhido um tema, é hora de começar com o GitHub:
         <figcaption>Ali você muda o nome.</figcaption>
     </figure>
 
-Parabéns, você provavelmente já está online em `http://seu-nome-de-usuario.github.io` Talvez agora você queira trabalhar no formato e conteúdo antes de divulgar o endereço por aí. Vamos a isso.
+Parabéns, você provavelmente já está online em `https://seu-nome-de-usuario.github.io` Talvez agora você queira trabalhar no formato e conteúdo antes de divulgar o endereço por aí. Vamos a isso.
 
 ---
 
 # Trabalhando localmente com o Git e Jekyll
 
-Para criar conteúdo e testar o site antes de deixá-lo brilhar na vida, nós precisamos do [Jekyll](http://jekyllrb.com/) para montar o site localmente e do [Git](https://git-scm.com/) para publicar as alterações no GitHub.
+Para criar conteúdo e testar o site antes de deixá-lo brilhar na vida, nós precisamos do [Jekyll](https://jekyllrb.com/) para montar o site localmente e do [Git](https://git-scm.com/) para publicar as alterações no GitHub.
 
-Você vai precisar também de um __editor de texto simples__. Eu recomendo fortemente o [Sublime Text](http://www.sublimetext.com/), que faz super juz ao nome, mas você pode usar qualquer um. O `gedit`, pré-instalado no Jessie, dá conta do recado.
+Você vai precisar também de um __editor de texto simples__. Eu recomendo fortemente o [Sublime Text](https://www.sublimetext.com/), que faz super juz ao nome, mas você pode usar qualquer um. O `gedit`, pré-instalado no Jessie, dá conta do recado.
 
 ## 1. Instale o Git
 
@@ -76,7 +76,7 @@ apt-get install git
 
 ### Modo fácil
 
-Depois de gastar horas pesquisando e instalando todos os [requisitos do Jekyll](http://jekyllrb.com/docs/installation/), descobri que é muito fácil instalá-lo no __Debian Jessie__. Tão fácil como:
+Depois de gastar horas pesquisando e instalando todos os [requisitos do Jekyll](https://jekyllrb.com/docs/installation/), descobri que é muito fácil instalá-lo no __Debian Jessie__. Tão fácil como:
 
 ``` bash
 apt-get install jekyll
@@ -86,14 +86,14 @@ apt-get install jekyll
 
 Mesmo que você seja desafortunado e sua distribuição não tenha esse pacote no repositório, ainda é bastante simples. Segue o passo-a-passo:
 
-Instale as dependências [Ruby](http://www.ruby-lang.org/en/downloads/):
+Instale as dependências [Ruby](https://www.ruby-lang.org/en/downloads/):
 
 ``` bash
 apt-get install ruby
 apt-get install ruby2.1-dev #=> ou a versão mais atual disponível
 ```
 
-Agora as dependências [NodeJS](http://nodejs.org/):
+Agora as dependências [NodeJS](https://nodejs.org/):
 
 ``` bash
 apt-get install curl
@@ -109,7 +109,7 @@ gem install jekyll --user-install
 ```
 
 
-> Se você usa <b>Mac</b>, diz que o processo é parecido, mas substituindo o apt pelo <a href="http://brew.sh">Homebrew</a>.
+> Se você usa <b>Mac</b>, diz que o processo é parecido, mas substituindo o apt pelo <a href="https://brew.sh">Homebrew</a>.
 > Agradeço ao <a href="https://www.facebook.com/diegolascasas">Las Casas</a> pela dica.
 {: .prompt-info}
 
@@ -145,7 +145,7 @@ git clone endereço-do-repositório
 >     └── <i class="fa fa-folder"></i> <b>_site</b></pre>
 {: .prompt-tip}
 
-A seguir, vai uma apresentação rápida de cada um dos itens. Saiba mais lendo a [documentação completa do Jekyll](http://jekyllrb.com/docs/structure/).
+A seguir, vai uma apresentação rápida de cada um dos itens. Saiba mais lendo a [documentação completa do Jekyll](https://jekyllrb.com/docs/structure/).
 
 #### _config.yml
 
@@ -166,7 +166,7 @@ Exemplo: {% raw %}`{% include xablau.html %}`{% endraw %}
 #### _layouts
 
 * São esquemas em HTML aplicáveis a páginas e posts.
-* Para usá-los, você precisa anunciar com uma [YAML front matter](http://jekyllrb.com/docs/frontmatter/), um bloco simples de texto, separado por três traços, que __precisa ser a primeira coisa do arquivo__:
+* Para usá-los, você precisa anunciar com uma [YAML front matter](https://jekyllrb.com/docs/frontmatter/), um bloco simples de texto, separado por três traços, que __precisa ser a primeira coisa do arquivo__:
 
 ``` yaml
 ---
@@ -196,7 +196,7 @@ Navegue até a pasta do seu site e deixe o Jekyll fazer sua mágica:
 cd seu-nome-de-usuario.github.io
 jekyll serve --watch
 ```
-__Ta-dã__! Você pode ver seu site em ação em `http://localhost:4000`.
+__Ta-dã__! Você pode ver seu site em ação em `https://localhost:4000`.
 
 A flag `--watch` é opcional e faz com que suas alterações tenham efeito automaticamente (bastando atualizar a página no navegador).
 
@@ -232,7 +232,7 @@ git commit -m "minha primeira edição"
 git push
 ```
 
-Preencha seu login e senha do GitHub e __tcharã__, seu conteúdo está online. Confira em `http://seu-nome-de-usuario.github.io`.
+Preencha seu login e senha do GitHub e __tcharã__, seu conteúdo está online. Confira em `https://seu-nome-de-usuario.github.io`.
 
 __Entendendo os comandos acima__:
 
@@ -242,19 +242,19 @@ __Entendendo os comandos acima__:
 
 Parece complicado, né? No começo é um pouco mesmo, mas, acredite, o Git vai fazer valer a pena cada minuto gasto para aprender a usá-lo. Além de permitir a integração da sua máquina com o GitHub, o Git é __um poderoso software de controle de versões__ que vai tornar sua vida bem melhor.
 
-Para entender mais, recomendo este [__guia prático__](http://rogerdudler.github.io/git-guide/index.pt_BR.html) e que você faça este [__mini-treinamento de 15 minutos__](https://try.github.io/levels/1/challenges/1). Além disso, a [documentação do Git](https://git-scm.com/doc) é completíssima, bem como o [tutorial da Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository).
+Para entender mais, recomendo este [__guia prático__](https://rogerdudler.github.io/git-guide/index.pt_BR.html) e que você faça este [__mini-treinamento de 15 minutos__](https://try.github.io/levels/1/challenges/1). Além disso, a [documentação do Git](https://git-scm.com/doc) é completíssima, bem como o [tutorial da Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository).
 
 ---
 
 # (Opcional / Avançado) Sincronizando o Jekyll local com o GitHub Pages
 
-Tanto o [Jekyll](http://jekyllrb.com/docs/github-pages/#deploying-jekyll-to-github-pages) como o [GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/) sugerem que você sincronize sua instalação local do Jekyll com a usada pelo GitHub. É completamente opcional, mas isso __evita que você tenha surpresas__ com diferenças entre o site rodado na máquina e o gerado pelo GitHub.
+Tanto o [Jekyll](https://jekyllrb.com/docs/github-pages/#deploying-jekyll-to-github-pages) como o [GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/) sugerem que você sincronize sua instalação local do Jekyll com a usada pelo GitHub. É completamente opcional, mas isso __evita que você tenha surpresas__ com diferenças entre o site rodado na máquina e o gerado pelo GitHub.
 
 Note que, para isso, você vai passar a precisar sempre de __acesso à internet__ para rodar o site localmente, mas é por uma boa causa.
 
 __É fácil__:
 
-1) Instale o [Bundler](http://bundler.io/).
+1) Instale o [Bundler](https://bundler.io/).
 
 ``` bash
 gem install bundler
@@ -310,47 +310,47 @@ Convém fazer uma [página de erro personalizada](/posts/adsfa) para seu site. B
 
 ## Tipografia é importante
 
-Tome 10 minutos do seu tempo para ler este [guia interativo de tipografia](http://www.kaikkonendesign.fi/typography/#section/1), simples, acessível e direto ao ponto.
+Tome 10 minutos do seu tempo para ler este [guia interativo de tipografia](https://www.kaikkonendesign.fi/typography/#section/1), simples, acessível e direto ao ponto.
 
-Você já deve saber, mas [nunca use preto](http://ianstormtaylor.com/design-tip-never-use-black/).
+Você já deve saber, mas [nunca use preto](https://ianstormtaylor.com/design-tip-never-use-black/).
 
 
 ## Sitemap.xml
 
-Gerar um Sitemap.xml é uma boa prática de [SEO](http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf) e fará com que a busca do google goste mais ainda de você. Basta seguir as [instruções do David Ensinger](http://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/).
+Gerar um Sitemap.xml é uma boa prática de [SEO](https://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf) e fará com que a busca do google goste mais ainda de você. Basta seguir as [instruções do David Ensinger](https://davidensinger.com/2013/11/building-a-better-sitemap-xml-with-jekyll/).
 
 ## Integrando comentários do Disqus com Jekyll
 
 O [Disqus](https://disqus.com/websites/) é uma plataforma de comentários bem útil e fácil de implementar. Eu até testei o [Muut](https://muut.com/), mas ele não é tão completo e bonitão.
 
-Para integrar o Disqus com Jekyll, siga as [instruções do Perfectly Random](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/).
+Para integrar o Disqus com Jekyll, siga as [instruções do Perfectly Random](https://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/).
 
 ## Domínio customizado
 
 O endereço padrão do github (seu-nome-de-usuario.github.io) já é gracinha o bastante, mas caso você queira, como eu quis, ter um domínio próprio, é fácil de fazer. O site continua hospedado no GitHub pages e um servidor de DNS faz o truque com o endereço. E, claro, você precisa pagar pelo domínio.
 
-Eu segui as [instruções do Chen Jui Jing](http://www.chenhuijing.com/blog/setting-up-custom-domain-github-pages/), mas sugiro que você dê uma olhada também no [tutorial do Ensinger](http://davidensinger.com/2014/04/transferring-the-dns-from-namecheap-to-cloudflare-for-github-pages/).
+Eu segui as [instruções do Chen Jui Jing](https://www.chenhuijing.com/blog/setting-up-custom-domain-github-pages/), mas sugiro que você dê uma olhada também no [tutorial do Ensinger](https://davidensinger.com/2014/04/transferring-the-dns-from-namecheap-to-cloudflare-for-github-pages/).
 
 ## Adicionando Font Awesome
 
-[Font Awesome](http://fontawesome.io/) é um pacote grátis com bilhões de [ícones úteis](http://fontawesome.io/icons/) e minimalistas, customizáveis e prontos para uso. É bem [facinho de implementar](http://fontawesome.io/get-started/).
+[Font Awesome](https://fontawesome.io/) é um pacote grátis com bilhões de [ícones úteis](https://fontawesome.io/icons/) e minimalistas, customizáveis e prontos para uso. É bem [facinho de implementar](https://fontawesome.io/get-started/).
 
 <!--
 ## Realce de código com Prism.js
 
-O Jekyll tem duas [opções nativas](http://jekyllrb.com/docs/templates/#code-snippet-highlighting) (leia-se mais leves e melhor integradas) de `realce de código` e o seu tema muito provavelmente também já vem com alguma opção __pronta para uso__.
+O Jekyll tem duas [opções nativas](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) (leia-se mais leves e melhor integradas) de `realce de código` e o seu tema muito provavelmente também já vem com alguma opção __pronta para uso__.
 
-Mas porque não dificultar um pouco implementando um sistema externo de realce? Foi o que eu fiz com o [Prism.js](http://prismjs.com/). O site deles tem as [instruções](http://prismjs.com/#basic-usage).
+Mas porque não dificultar um pouco implementando um sistema externo de realce? Foi o que eu fiz com o [Prism.js](https://prismjs.com/). O site deles tem as [instruções](https://prismjs.com/#basic-usage).
 
 Detratores dirão que eu só fiz isso porque não consegui configurar nenhuma opção nativa, e eles estarão certos. Tirando que o Prism.js é lindo.
 -->
 ## Integrando Jekyll com Reveal.js
 
-[Reveal.js](http://lab.hakim.se/reveal-js/#/) é um sistema foda de criação de apresentações de slides em HTML. A integração com o Jekyll é bem descrita no [site do Luu Gia Thuy](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/). Ele só esqueceu de dizer que, se você pretende modificar os temas padrão, você precisa __clonar__ (e não adicionar como submodule) o reveal.js à sua pasta. Você pode ter uma ideia melhor de como organizar as pastas e arquivos html dos slides no [meu repositório](https://github.com/ggio/ggio.github.io/tree/master/slides).
+[Reveal.js](https://lab.hakim.se/reveal-js/#/) é um sistema foda de criação de apresentações de slides em HTML. A integração com o Jekyll é bem descrita no [site do Luu Gia Thuy](https://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/). Ele só esqueceu de dizer que, se você pretende modificar os temas padrão, você precisa __clonar__ (e não adicionar como submodule) o reveal.js à sua pasta. Você pode ter uma ideia melhor de como organizar as pastas e arquivos html dos slides no [meu repositório](https://github.com/ggio/ggio.github.io/tree/master/slides).
 
 ## Páginas de subcategorias
 
-Pela natureza meio esquizo deste site, eu <del>quis</del> precisei dividir as postagens entre duas categorias, "Psicologia para concurso" e "blog", e isso __complica tudo__. Depois de pesquisar bastante, fiquei satisfeito com as instruções nessa [resposta no Stack Overflow](http://stackoverflow.com/a/26684859).
+Pela natureza meio esquizo deste site, eu <del>quis</del> precisei dividir as postagens entre duas categorias, "Psicologia para concurso" e "blog", e isso __complica tudo__. Depois de pesquisar bastante, fiquei satisfeito com as instruções nessa [resposta no Stack Overflow](https://stackoverflow.com/a/26684859).
 
 Obs.: Em 2020, junto com a mudança do tema, achei melhor simplificar e me livrar dessa divisão. Minha vida tem sido 34,5% mais fácil desde então.
 
