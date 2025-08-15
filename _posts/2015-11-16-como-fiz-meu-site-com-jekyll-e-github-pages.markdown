@@ -306,7 +306,7 @@ Com os passos acima você já tem todos os instrumentos que precisa para constru
 
 ## 404.md
 
-Convém fazer uma [página de erro personalizada](/posts/adsfa) para seu site. Basta seguir as [instruções do GitHub](https://help.github.com/articles/custom-404-pages/).
+Convém fazer uma [página de erro personalizada](/404.html) para seu site. Basta seguir as [instruções do GitHub](https://help.github.com/articles/custom-404-pages/).
 
 ## Tipografia é importante
 
