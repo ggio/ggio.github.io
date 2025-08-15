@@ -1,90 +1,86 @@
-{% assign is_post = page.date %}
-<!doctype>
-<html lang="en">
-  <head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-    <script src="https://kit.fontawesome.com/bbecdfecc4.js" crossorigin="anonymous"></script>
-  </head>
-  <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
-<!--    <header class="tc mt4">
-      <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/coffee-solid.svg" alt="Home" width="53" height="59">
-      </a>
-      <div class="markdown-titulo">
-      <p>{{ site.title }}</p>
-    </div>
-    </header>
--->
-   
-    <!-- CONTEÚDO -->
-    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-    
-       <!-- LINKS DE NAVEGAÇÃO -->
-      <nav class="bb b--light-gray pv3 tr pr4 pl4  " aria-label="Main">
-          <a class="link dark-gray hover-mid-gray mh2 titulo  fl dib v-mid " href="{{ site.url }}">
-          {{ site.title }} 
-          </a>
-        {% for link in site.links %}
-          <a class="link dark-gray hover-mid-gray mh2 pv2 dib v-mid " 
-             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}"> 
-             {{ link.name }}
-          </a>
-        {% endfor %}
-      </nav>
+---
+layout: compress
+---
 
-      <!-- POSTAGENS -->
-      <main class="tl f4 relative pa4 pa4-ns overflow-hidden"> <!-- tamanho da fonteoriginal = f6-; pa=margem; -->
-        {% if page.title %}
-          <div class="mb4">
-            {% if page.date %}<div class="fw6 light-silver mt1 f5">
+<!doctype html>
 
-            {% assign m = page.date | date: "%-m" %}
-            {{ page.date | date: "%d" }}
-            {% case m %}
-              {% when '1' %}Jan
-              {% when '2' %}Feb
-              {% when '3' %}Mar
-              {% when '4' %}Abr
-              {% when '5' %}Mai
-              {% when '6' %}Jun
-              {% when '7' %}Jul
-              {% when '8' %}Ago
-              {% when '9' %}Set
-              {% when '10' %}Out
-              {% when '11' %}Nov
-              {% when '12' %}Dez
-            {% endcase %}
-            {{ page.date | date: "%Y" }}
+{% include origin-type.html %}
 
-          </div>{% endif %}
-            <div class="markdown-body">
-            <h1 class="f2 mt0 lh-title cb mb2"> <!-- ttu f3 mt0 lh-title cb mb2 -->
-              {% if is_post %}
-              {% endif %}
-              {{ page.title }}
-            </h1>
-            </div>
-            {% if is_post and site.share %}
-              <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-              <div class="fb-like" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-font="arial" data-action="like"></div>
+{% include lang.html %}
+
+{% if site.theme_mode %}
+  {% capture prefer_mode %}data-mode="{{ site.theme_mode }}"{% endcapture %}
+{% endif %}
+
+<!-- `site.alt_lang` can specify a language different from the UI -->
+<html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
+  {% include head.html %}
+
+  <body>
+    {% include sidebar.html lang=lang %}
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
+      <div class="container d-flex flex-column px-xxl-5">
+        {% include topbar.html lang=lang %}
+
+        <div class="row flex-grow-1">
+          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            {% if layout.refactor or layout.layout == 'default' %}
+              {% include refactor-content.html content=content lang=lang %}
+            {% else %}
+              {{ content }}
             {% endif %}
-          </div>
-        {% endif %}
-        <div class="markdown-body">
-          {{ content }}
+          </main>
+
+          <!-- panel -->
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            <div class="access">
+              {% include_cached update-list.html lang=lang %}
+              {% include_cached trending-tags.html lang=lang %}
+            </div>
+
+            {% for _include in layout.panel_includes %}
+              {% assign _include_path = _include | append: '.html' %}
+              {% include {{ _include_path }} lang=lang %}
+            {% endfor %}
+          </aside>
         </div>
-        <!-- {% if is_post %}{% include signoff.html %}{% endif %} -->
-      </main>
-      {% if is_post %}{% include pagination.html %}{% endif %}
+
+        <div class="row">
+          <!-- tail -->
+          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
+            {% for _include in layout.tail_includes %}
+              {% assign _include_path = _include | append: '.html' %}
+              {% include {{ _include_path }} lang=lang %}
+            {% endfor %}
+
+            {% include_cached footer.html lang=lang %}
+          </div>
+        </div>
+
+        {% include_cached search-results.html lang=lang %}
+      </div>
+
+      <aside aria-label="Scroll to Top">
+        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
+          <i class="fas fa-angle-up"></i>
+        </button>
+      </aside>
     </div>
 
-    <footer class="mw7 center tc pt0 pb3 gray">
-      Gregório R. de Miranda. Criado com <a href="https://jekyllrb.com/" class="link gray underline">Jekyll</a> e o tema <a href="http://github.com/muan/scribble" class="link gray underline">Scribble</a>.
-      <!-- <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" /> -->
-    </footer>
+    <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
+
+    {% if site.pwa.enabled %}
+      {% include_cached notification.html lang=lang %}
+    {% endif %}
+
+    <!-- Embedded scripts -->
+
+    {% for _include in layout.script_includes %}
+      {% assign _include_path = _include | append: '.html' %}
+      {% include {{ _include_path }} %}
+    {% endfor %}
+
+    {% include_cached search-loader.html lang=lang %}
   </body>
 </html>
